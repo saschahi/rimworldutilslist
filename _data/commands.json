@@ -533,16 +533,6 @@
     "data": {
       "isShortcut": false
     },
-    "description": "Makes your pawn insult a random viewer. If a viewer is specified, you'll insult them instead.",
-    "name": "Insult",
-    "usage": "!insult [target]",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false
-    },
     "description": "Shows the colony's current wealth. This command uses the same value the storyteller will use.",
     "name": "Colony wealth",
     "usage": "!wealth",
