@@ -14015,17 +14015,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "pipelineValve": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "ResourceConsole": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19227,14 +19216,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "turbineBlade": {
+  "denture": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Rimatomics",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -19755,14 +19744,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "denture": {
+  "turbineBlade": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Rimatomics",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -23335,14 +23324,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "NECIron": {
+  "pipelineValve": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Iron and Steel",
+    "Mod": "Rimefeller",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
