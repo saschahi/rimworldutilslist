@@ -66,11 +66,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "eclipse",
-		"price": 450,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "aurora",
 		"price": 200,
 		"karmatype": "Good"
@@ -107,7 +102,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 150,
+		"price": 250,
 		"karmatype": "Neutral"
 	},
 	{
@@ -138,11 +133,6 @@
 	{
 		"abr": "herdmigration",
 		"price": 200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "farmanimals",
-		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -206,11 +196,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "sapperraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "infestation",
 		"price": 2500,
 		"karmatype": "Bad"
@@ -229,11 +214,6 @@
 		"abr": "disease",
 		"price": 1000,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "reviveanypawn",
-		"price": 1200,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "pawn",
@@ -273,11 +253,6 @@
 	{
 		"abr": "randominspire",
 		"price": 450,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "reviveall",
-		"price": 22664,
 		"karmatype": "Good"
 	},
 	{
@@ -322,7 +297,7 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2167,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
@@ -341,5 +316,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 68
+	"total": 63
 }
