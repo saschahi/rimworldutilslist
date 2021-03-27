@@ -4120,7 +4120,7 @@
       "abr": "animushareincubator",
       "category": "Incubators",
       "defname": "GR_AnimusHareIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "animusvox",
@@ -5206,19 +5206,19 @@
       "abr": "bear/rodentincubator",
       "category": "Incubators",
       "defname": "GR_BearRodentPre",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "bear/rodentincubator",
       "category": "Incubators",
       "defname": "GR_BearmoleIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "bear/rodentincubator",
       "category": "Incubators",
       "defname": "GR_MolebearIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "bearbug",
@@ -5242,7 +5242,7 @@
       "abr": "bearbugincubator",
       "category": "Incubators",
       "defname": "GR_BearBugIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "beargeneticmaterial",
@@ -5410,7 +5410,7 @@
       "abr": "beetlefleetincubator",
       "category": "Incubators",
       "defname": "GR_BeetlefleetIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "beets",
@@ -5440,7 +5440,7 @@
       "abr": "bio-engineeringincubator",
       "category": "Furniture",
       "defname": "VFEI_BioengineeringIncubator",
-      "price": 1133
+      "price": -10
     },
     {
       "abr": "biolabsunlamp",
@@ -5812,115 +5812,115 @@
       "abr": "boomaliskincubator",
       "category": "Incubators",
       "defname": "GR_BoomaliskIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "boomalope/bearincubator",
       "category": "Incubators",
       "defname": "GR_BearBoomalopePre",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "boomalope/bearincubator",
       "category": "Incubators",
       "defname": "GR_BearalopeIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "boomalope/bearincubator",
       "category": "Incubators",
       "defname": "GR_BoomabearIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "boomalope/catincubator",
       "category": "Incubators",
       "defname": "GR_BoomalopeCatPre",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "boomalope/catincubator",
       "category": "Incubators",
       "defname": "GR_BoomalopeCatIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "boomalope/catincubator",
       "category": "Incubators",
       "defname": "GR_CatBoomalopeIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "boomalope/chickenincubator",
       "category": "Incubators",
       "defname": "GR_BoomalopeChickenPre",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "boomalope/chickenincubator",
       "category": "Incubators",
       "defname": "GR_BoomalopeChickenIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "boomalope/chickenincubator",
       "category": "Incubators",
       "defname": "GR_ChickenBoomalopeIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "boomalope/muffaloincubator",
       "category": "Incubators",
       "defname": "GR_BoomalopeMuffaloPre",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "boomalope/muffaloincubator",
       "category": "Incubators",
       "defname": "GR_BoomalopeMuffaloIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "boomalope/muffaloincubator",
       "category": "Incubators",
       "defname": "GR_MuffaloBoomalopeIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "boomalope/rodentincubator",
       "category": "Incubators",
       "defname": "GR_BoomalopeRodentPre",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "boomalope/rodentincubator",
       "category": "Incubators",
       "defname": "GR_BoomsquirrelIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "boomalope/rodentincubator",
       "category": "Incubators",
       "defname": "GR_SquirralopeIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "boomalope/wolfincubator",
       "category": "Incubators",
       "defname": "GR_BoomalopeWolfPre",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "boomalope/wolfincubator",
       "category": "Incubators",
       "defname": "GR_BoomalopeWolfIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "boomalope/wolfincubator",
       "category": "Incubators",
       "defname": "GR_WolfBoomalopeIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "boomalopegeneticmaterial",
@@ -6370,37 +6370,37 @@
       "abr": "cat/bearincubator",
       "category": "Incubators",
       "defname": "GR_BearCatPre",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "cat/bearincubator",
       "category": "Incubators",
       "defname": "GR_CatBearIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "cat/bearincubator",
       "category": "Incubators",
       "defname": "GR_BearCatIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "cat/rodentincubator",
       "category": "Incubators",
       "defname": "GR_CatRodentPre",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "cat/rodentincubator",
       "category": "Incubators",
       "defname": "GR_CatRodentIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "cat/rodentincubator",
       "category": "Incubators",
       "defname": "GR_RodentCatIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "catalope",
@@ -6748,91 +6748,91 @@
       "abr": "chicken/bearincubator",
       "category": "Incubators",
       "defname": "GR_BearChickenPre",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "chicken/bearincubator",
       "category": "Incubators",
       "defname": "GR_ChickenBearIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "chicken/bearincubator",
       "category": "Incubators",
       "defname": "GR_BearChickenIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "chicken/catincubator",
       "category": "Incubators",
       "defname": "GR_ChickenCatPre",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "chicken/catincubator",
       "category": "Incubators",
       "defname": "GR_ChickenCatIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "chicken/catincubator",
       "category": "Incubators",
       "defname": "GR_CatChickenIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "chicken/leporidincubator",
       "category": "Incubators",
       "defname": "GR_ChickenRodentPre",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "chicken/leporidincubator",
       "category": "Incubators",
       "defname": "GR_ChickenrabbitIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "chicken/leporidincubator",
       "category": "Incubators",
       "defname": "GR_RabbitchickenIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "chicken/muffaloincubator",
       "category": "Incubators",
       "defname": "GR_ChickenMuffaloPre",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "chicken/muffaloincubator",
       "category": "Incubators",
       "defname": "GR_ChickenMuffaloIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "chicken/muffaloincubator",
       "category": "Incubators",
       "defname": "GR_MuffaloChickenIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "chicken/wolfincubator",
       "category": "Incubators",
       "defname": "GR_ChickenWolfPre",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "chicken/wolfincubator",
       "category": "Incubators",
       "defname": "GR_ChickenWolfIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "chicken/wolfincubator",
       "category": "Incubators",
       "defname": "GR_WolfChickenIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "chickengeneticmaterial",
@@ -8260,7 +8260,7 @@
       "abr": "emptyincubator",
       "category": "Incubators",
       "defname": "GR_EmptyIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "emrgturret",
@@ -9406,7 +9406,7 @@
       "abr": "groundfalloincubator",
       "category": "Incubators",
       "defname": "GR_GroundfalloIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "groundrunner",
@@ -10396,43 +10396,43 @@
       "abr": "insectoid/bearincubator",
       "category": "Incubators",
       "defname": "GR_BearscarabIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "insectoid/boomalopeincubator",
       "category": "Incubators",
       "defname": "GR_BoombeetleIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "insectoid/catincubator",
       "category": "Incubators",
       "defname": "GR_SpidercatIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "insectoid/chickenincubator",
       "category": "Incubators",
       "defname": "GR_ChickenspiderIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "insectoid/muffaloincubator",
       "category": "Incubators",
       "defname": "GR_MuffalopedeIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "insectoid/thrumboincubator",
       "category": "Incubators",
       "defname": "GR_ThrumbospiderIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "insectoid/wolfincubator",
       "category": "Incubators",
       "defname": "GR_WolfscarabIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "insectoidarm",
@@ -11812,7 +11812,7 @@
       "abr": "meadowlizardincubator",
       "category": "Incubators",
       "defname": "GR_MeadowLizardIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "mealtrayrack",
@@ -11938,61 +11938,61 @@
       "abr": "mechanoid/bearincubator",
       "category": "Incubators",
       "defname": "GR_MechabearIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "mechanoid/boomalopeincubator",
       "category": "Incubators",
       "defname": "GR_MechalopeIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "mechanoid/catincubator",
       "category": "Incubators",
       "defname": "GR_MechacatIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "mechanoid/chickenincubator",
       "category": "Incubators",
       "defname": "GR_MechachickenIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "mechanoid/insectoidincubator",
       "category": "Incubators",
       "defname": "GR_MechaspiderIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "mechanoid/muffaloincubator",
       "category": "Incubators",
       "defname": "GR_MechamuffaloIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "mechanoid/reptilianincubator",
       "category": "Incubators",
       "defname": "GR_MechaturtleIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "mechanoid/rodentincubator",
       "category": "Incubators",
       "defname": "GR_MecharatIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "mechanoid/thrumboincubator",
       "category": "Incubators",
       "defname": "GR_MechathrumboIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "mechanoid/wolfincubator",
       "category": "Incubators",
       "defname": "GR_MechawolfIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "mechanoidactivecomponents",
@@ -12634,73 +12634,73 @@
       "abr": "muffalo/bearincubator",
       "category": "Incubators",
       "defname": "GR_BearMuffaloPre",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "muffalo/bearincubator",
       "category": "Incubators",
       "defname": "GR_BearMuffaloIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "muffalo/bearincubator",
       "category": "Incubators",
       "defname": "GR_MuffaloBearIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "muffalo/catincubator",
       "category": "Incubators",
       "defname": "GR_MuffaloCatPre",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "muffalo/catincubator",
       "category": "Incubators",
       "defname": "GR_MuffaloCatIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "muffalo/catincubator",
       "category": "Incubators",
       "defname": "GR_CatMuffaloIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "muffalo/rodentincubator",
       "category": "Incubators",
       "defname": "GR_MuffaloRodentPre",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "muffalo/rodentincubator",
       "category": "Incubators",
       "defname": "GR_MuffaloratIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "muffalo/rodentincubator",
       "category": "Incubators",
       "defname": "GR_RatfalloIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "muffalo/wolfincubator",
       "category": "Incubators",
       "defname": "GR_MuffaloWolfPre",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "muffalo/wolfincubator",
       "category": "Incubators",
       "defname": "GR_MuffaloWolfIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "muffalo/wolfincubator",
       "category": "Incubators",
       "defname": "GR_WolfMuffaloIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "muffalogeneticmaterial",
@@ -13006,7 +13006,7 @@
       "abr": "needlechickenincubator",
       "category": "Incubators",
       "defname": "GR_NeedlechickenIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "needlechickenmeat",
@@ -13126,7 +13126,7 @@
       "abr": "nighthrumboincubator",
       "category": "Incubators",
       "defname": "GR_NighthrumboIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "nightling",
@@ -13540,7 +13540,7 @@
       "abr": "paragonbearincubator",
       "category": "Incubators",
       "defname": "GR_AlphaBearIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "paragonboartusks",
@@ -13558,7 +13558,7 @@
       "abr": "paragonboomalopeincubator",
       "category": "Incubators",
       "defname": "GR_AlphaBoomalopeIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "paragonchicken",
@@ -13582,7 +13582,7 @@
       "abr": "paragonchickenincubator",
       "category": "Incubators",
       "defname": "GR_AlphaChickenIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "paragonchickenmeat",
@@ -13612,7 +13612,7 @@
       "abr": "paragonemuincubator",
       "category": "Incubators",
       "defname": "GR_AlphaEmuIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "paragonhare",
@@ -13624,7 +13624,7 @@
       "abr": "paragonhareincubator",
       "category": "Incubators",
       "defname": "GR_AlphaHareIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "paragoniguana",
@@ -13648,7 +13648,7 @@
       "abr": "paragoniguanaincubator",
       "category": "Incubators",
       "defname": "GR_AlphaIguanaIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "paragonmuffalo",
@@ -13660,7 +13660,7 @@
       "abr": "paragonmuffaloincubator",
       "category": "Incubators",
       "defname": "GR_AlphaMuffaloIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "paragonostrich",
@@ -13684,7 +13684,7 @@
       "abr": "paragonostrichincubator",
       "category": "Incubators",
       "defname": "GR_AlphaOstrichIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "paragonpig",
@@ -13696,7 +13696,7 @@
       "abr": "paragonpigincubator",
       "category": "Incubators",
       "defname": "GR_AlphaPigIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "paragonrat",
@@ -13708,13 +13708,13 @@
       "abr": "paragonratincubator",
       "category": "Incubators",
       "defname": "GR_AlphaRatIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "paragonrhinoincubator",
       "category": "Incubators",
       "defname": "GR_AlphaRhinoIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "paragonrhinoceros",
@@ -13756,7 +13756,7 @@
       "abr": "paragontortoiseincubator",
       "category": "Incubators",
       "defname": "GR_AlphaTortoiseIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "paragonwildboar",
@@ -13768,13 +13768,13 @@
       "abr": "paragonwildboarincubator",
       "category": "Incubators",
       "defname": "GR_AlphaBoarIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "paragonwolfincubator",
       "category": "Incubators",
       "defname": "GR_AlphaWolfIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "parasaur",
@@ -15010,49 +15010,49 @@
       "abr": "reptile/bearincubator",
       "category": "Incubators",
       "defname": "GR_BearodileIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "reptile/boomalopeincubator",
       "category": "Incubators",
       "defname": "GR_BoomsnakeIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "reptile/catincubator",
       "category": "Incubators",
       "defname": "GR_SnakecatIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "reptile/chickenincubator",
       "category": "Incubators",
       "defname": "GR_ChickenlizardIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "reptile/insectoidincubator",
       "category": "Incubators",
       "defname": "GR_SpidersnakeIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "reptile/muffaloincubator",
       "category": "Incubators",
       "defname": "GR_MuffalokomodoIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "reptile/thrumboincubator",
       "category": "Incubators",
       "defname": "GR_ThrumbolizardIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "reptile/wolfincubator",
       "category": "Incubators",
       "defname": "GR_WolfsnakeIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "reptiliangeneticmaterial",
@@ -17080,43 +17080,43 @@
       "abr": "thrumbo/bearincubator",
       "category": "Incubators",
       "defname": "GR_ThrumbearIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "thrumbo/boomalopeincubator",
       "category": "Incubators",
       "defname": "GR_ThrumbalopeIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "thrumbo/catincubator",
       "category": "Incubators",
       "defname": "GR_ThrumbocatIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "thrumbo/chickenincubator",
       "category": "Incubators",
       "defname": "GR_ThrumbochickenIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "thrumbo/muffaloincubator",
       "category": "Incubators",
       "defname": "GR_ThrumffaloIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "thrumbo/rodentincubator",
       "category": "Incubators",
       "defname": "GR_ThrumboratIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "thrumbo/wolfincubator",
       "category": "Incubators",
       "defname": "GR_ThrumwolfIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "thrumbogeneticmaterial",
@@ -18142,55 +18142,55 @@
       "abr": "wolf/bearincubator",
       "category": "Incubators",
       "defname": "GR_BearWolfPre",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "wolf/bearincubator",
       "category": "Incubators",
       "defname": "GR_BearWolfIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "wolf/bearincubator",
       "category": "Incubators",
       "defname": "GR_WolfBearIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "wolf/catincubator",
       "category": "Incubators",
       "defname": "GR_WolfCatPre",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "wolf/catincubator",
       "category": "Incubators",
       "defname": "GR_WolfcatIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "wolf/catincubator",
       "category": "Incubators",
       "defname": "GR_CatwolfIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "wolf/rodentincubator",
       "category": "Incubators",
       "defname": "GR_WolfRodentPre",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "wolf/rodentincubator",
       "category": "Incubators",
       "defname": "GR_WolfbeaverIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "wolf/rodentincubator",
       "category": "Incubators",
       "defname": "GR_BeaverwolfIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "wolfgeneticmaterial",
@@ -18226,7 +18226,7 @@
       "abr": "wolfshrimpincubator",
       "category": "Incubators",
       "defname": "GR_WolfShrimpIncubator",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "wolfalope",
@@ -18533,7 +18533,169 @@
       "category": "Furniture",
       "defname": "Bed_AdvDoubleBedGuest",
       "price": 1483
+    },
+    {
+      "abr": "advancedarchotecharm",
+      "category": "Archotech",
+      "defname": "AdvancedArchotechArm",
+      "price": 33333
+    },
+    {
+      "abr": "advancedarchotechleg",
+      "category": "Archotech",
+      "defname": "AdvancedArchotechLeg",
+      "price": 33333
+    },
+    {
+      "abr": "archotechbrainmelder",
+      "category": "Archotech",
+      "defname": "ArchotechBrainMelder",
+      "price": 33333
+    },
+    {
+      "abr": "archotechdeathclaw",
+      "category": "Archotech",
+      "defname": "ArchotechDeathClaw",
+      "price": 33333
+    },
+    {
+      "abr": "archotechdenture",
+      "category": "Prosthetic",
+      "defname": "ArchotechDenture",
+      "price": 4667
+    },
+    {
+      "abr": "archotechear",
+      "category": "Prosthetic",
+      "defname": "ArchotechEar",
+      "price": 4667
+    },
+    {
+      "abr": "archotechheart",
+      "category": "Prosthetic",
+      "defname": "ArchotechHeart",
+      "price": 4667
+    },
+    {
+      "abr": "archotechkidney",
+      "category": "Prosthetic",
+      "defname": "ArchotechKidney",
+      "price": 4667
+    },
+    {
+      "abr": "archotechliver",
+      "category": "Prosthetic",
+      "defname": "ArchotechLiver",
+      "price": 4667
+    },
+    {
+      "abr": "archotechlung",
+      "category": "Prosthetic",
+      "defname": "ArchotechLung",
+      "price": 4667
+    },
+    {
+      "abr": "archotechmembrane",
+      "category": "Archotech",
+      "defname": "ArchotechMembrane",
+      "price": 33333
+    },
+    {
+      "abr": "archotechobliterator",
+      "category": "Archotech",
+      "defname": "ArchotechObliterator",
+      "price": 33333
+    },
+    {
+      "abr": "archotechpelvis",
+      "category": "Prosthetic",
+      "defname": "ArchotechPelvis",
+      "price": 4667
+    },
+    {
+      "abr": "archotechspine",
+      "category": "Prosthetic",
+      "defname": "ArchotechSpine",
+      "price": 4667
+    },
+    {
+      "abr": "archotechstomach",
+      "category": "Prosthetic",
+      "defname": "ArchotechStomach",
+      "price": 4667
+    },
+    {
+      "abr": "astartecustodes",
+      "category": "Animal",
+      "defname": "AdaptusCustodes",
+      "price": 84583
+    },
+    {
+      "abr": "astartecustodesmeat",
+      "category": "Meat",
+      "defname": "Meat_AdaptusCustodes",
+      "price": 1
+    },
+    {
+      "abr": "astartespacemarine",
+      "category": "Animal",
+      "defname": "AstarteSpaceMarine",
+      "price": -10
+    },
+    {
+      "abr": "astartespacemarinemeat",
+      "category": "Meat",
+      "defname": "Meat_AstarteSpaceMarine",
+      "price": 1
+    },
+    {
+      "abr": "astarteadaptuscore",
+      "category": "Animal",
+      "defname": "AstarteAdaptusCore",
+      "price": 2917
+    },
+    {
+      "abr": "astarteadaptuscoremeat",
+      "category": "Meat",
+      "defname": "Meat_AstarteAdaptusCore",
+      "price": 1
+    },
+    {
+      "abr": "attomachinery",
+      "category": "Textiles",
+      "defname": "Attomachinery",
+      "price": 500
+    },
+    {
+      "abr": "basicarchotechworkbench",
+      "category": "Production",
+      "defname": "BasicArchotechWorkbench",
+      "price": 2617
+    },
+    {
+      "abr": "geneseed",
+      "category": "Drugs",
+      "defname": "GeneSeed",
+      "price": 333
+    },
+    {
+      "abr": "geneseed(custodes)",
+      "category": "Drugs",
+      "defname": "GeneSeedCustodes",
+      "price": 20000
+    },
+    {
+      "abr": "nanomachinery",
+      "category": "Textiles",
+      "defname": "Nanomachinery",
+      "price": 167
+    },
+    {
+      "abr": "picomachinery",
+      "category": "Textiles",
+      "defname": "Picomachinery",
+      "price": 333
     }
   ],
-  "total": 3089
+  "total": 3116
 }
