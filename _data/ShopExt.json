@@ -673,13 +673,17 @@
       "name": "desensitized",
       "data": {
         "canBypassLimit": false,
-        "conflicts": [],
+        "conflicts": [
+          "squeamish"
+        ],
         "customName": false,
         "stats": []
       },
       "description": "Pawn is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.\n(Vanilla Traits Expanded)",
       "stats": [],
-      "conflicts": [],
+      "conflicts": [
+        "squeamish"
+      ],
       "bypassLimit": false
     },
     {
@@ -2491,7 +2495,7 @@
         "customName": false,
         "stats": []
       },
-      "description": "Sour stomach plagues Pawn any time they're around too much blood or rotting corpses. Vomiting is just part of life for he.\n(Vanilla Traits Expanded)",
+      "description": "Sour stomach plagues Pawn any time they're around too much blood or rotting corpses. Vomiting is just part of life for him.\n(Vanilla Traits Expanded)",
       "stats": [],
       "conflicts": [
         "ironstomach"
@@ -3204,7 +3208,7 @@
       }
     },
     {
-      "price": 1417,
+      "price": 1500,
       "defName": "ChjDroid",
       "enabled": true,
       "name": "Droid",
@@ -3213,7 +3217,7 @@
       }
     },
     {
-      "price": 2333,
+      "price": 2500,
       "defName": "Android1Tier",
       "enabled": true,
       "name": "T1 Android",
@@ -3231,7 +3235,7 @@
       }
     },
     {
-      "price": 2500,
+      "price": 3000,
       "defName": "MG_Foxgirl",
       "enabled": true,
       "name": "Foxgirl",
@@ -3240,7 +3244,7 @@
       }
     },
     {
-      "price": 2500,
+      "price": 3000,
       "defName": "MG_Wolfgirl",
       "enabled": true,
       "name": "Wolfgirl",
@@ -3249,7 +3253,7 @@
       }
     },
     {
-      "price": 2500,
+      "price": 3000,
       "defName": "MG_Catgirl",
       "enabled": true,
       "name": "Catgirl",
@@ -3258,7 +3262,7 @@
       }
     },
     {
-      "price": 2667,
+      "price": 3000,
       "defName": "MG_Harpy",
       "enabled": true,
       "name": "Harpy",
@@ -3267,7 +3271,7 @@
       }
     },
     {
-      "price": 2917,
+      "price": 3000,
       "defName": "MG_Centaur",
       "enabled": true,
       "name": "Centaur",
@@ -3276,7 +3280,7 @@
       }
     },
     {
-      "price": 2917,
+      "price": 3000,
       "defName": "MG_Cowgirl",
       "enabled": true,
       "name": "Cowgirl",
@@ -3312,7 +3316,7 @@
       }
     },
     {
-      "price": 3083,
+      "price": 3000,
       "defName": "MG_Baphomet",
       "enabled": true,
       "name": "Baphomet",
@@ -3321,7 +3325,7 @@
       }
     },
     {
-      "price": 3167,
+      "price": 4000,
       "defName": "ChjBattleDroid",
       "enabled": true,
       "name": "Battle droid",
@@ -3330,7 +3334,7 @@
       }
     },
     {
-      "price": 3667,
+      "price": 4000,
       "defName": "MG_Thrumbogirl",
       "enabled": true,
       "name": "Thrumbogirl",
@@ -3339,7 +3343,7 @@
       }
     },
     {
-      "price": 3667,
+      "price": 4000,
       "defName": "MG_Dragon",
       "enabled": true,
       "name": "Dragon",
@@ -3348,7 +3352,7 @@
       }
     },
     {
-      "price": 4167,
+      "price": 4000,
       "defName": "Android2Tier",
       "enabled": true,
       "name": "T2 Android",
@@ -3357,7 +3361,7 @@
       }
     },
     {
-      "price": 5833,
+      "price": 5000,
       "defName": "ATPP_Android2TX",
       "enabled": true,
       "name": "TX2 Android",
@@ -3366,7 +3370,7 @@
       }
     },
     {
-      "price": 5833,
+      "price": 5500,
       "defName": "ATPP_Android2ITX",
       "enabled": true,
       "name": "TX2I Android",
@@ -3375,7 +3379,7 @@
       }
     },
     {
-      "price": 6667,
+      "price": 6000,
       "defName": "Kurin_Race",
       "enabled": true,
       "name": "Kurin",
@@ -3393,7 +3397,7 @@
       }
     },
     {
-      "price": 9167,
+      "price": 10000,
       "defName": "ATPP_Android2KTX",
       "enabled": true,
       "name": "TX2K Android",
@@ -3402,7 +3406,7 @@
       }
     },
     {
-      "price": 9167,
+      "price": 10000,
       "defName": "ATPP_Android2KITX",
       "enabled": true,
       "name": "TX2KI Android",
@@ -3411,7 +3415,7 @@
       }
     },
     {
-      "price": 9667,
+      "price": 12000,
       "defName": "ATPP_Android3TX",
       "enabled": true,
       "name": "TX3 Android",
@@ -3420,7 +3424,7 @@
       }
     },
     {
-      "price": 9667,
+      "price": 12000,
       "defName": "ATPP_Android3ITX",
       "enabled": true,
       "name": "TX3I Android",
@@ -3429,7 +3433,7 @@
       }
     },
     {
-      "price": 10000,
+      "price": 15000,
       "defName": "Android4Tier",
       "enabled": true,
       "name": "T4 Android",
@@ -3438,7 +3442,7 @@
       }
     },
     {
-      "price": 11667,
+      "price": 15000,
       "defName": "ATPP_Android4TX",
       "enabled": true,
       "name": "TX4 Android",
@@ -3447,7 +3451,7 @@
       }
     },
     {
-      "price": 11667,
+      "price": 15000,
       "defName": "ATPP_Android4ITX",
       "enabled": true,
       "name": "TX4I Android",
@@ -3456,7 +3460,7 @@
       }
     },
     {
-      "price": 13333,
+      "price": 17500,
       "defName": "Android5Tier",
       "enabled": true,
       "name": "T5 Android",
@@ -3465,7 +3469,7 @@
       }
     },
     {
-      "price": 30000,
+      "price": 20000,
       "defName": "M7Mech",
       "enabled": true,
       "name": "M7 Mechanised infantry",

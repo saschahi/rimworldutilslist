@@ -19216,17 +19216,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "denture": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Expanded Prosthetics and Organ Engineering",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "UraniumPellets": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -19741,17 +19730,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Expanded Prosthetics and Organ Engineering",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "turbineBlade": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimatomics",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -23321,17 +23299,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Hair Expanded",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "pipelineValve": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Rimefeller",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -33307,6 +33274,39 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "denture": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "turbineBlade": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimatomics",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "pipelineValve": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Rimefeller",
     "QuantityLimit": -1,
     "Weight": 1.0
   }
