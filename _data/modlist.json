@@ -941,7 +941,7 @@
     "author": "Lanilor",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
-    "version": "1.0.22.0"
+    "version": "1.0.23.0"
   },
   {
     "author": "Neceros",
@@ -1564,6 +1564,58 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Ships"
+  },
+  {
+    "author": "QuantumX",
+    "name": "Astra Militarum Imperial Guard Core Mod v2.10"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Mechanicus: Armoury",
+    "steamId": "1541438614",
+    "version": "1.6.1.1"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Mechanicus: Xenobiologis (Playable Tau, Kroot)"
+  },
+  {
+    "author": "dninemfive",
+    "name": "Advanced Shield Belts"
+  },
+  {
+    "author": "N7Huntsman",
+    "name": "Defenses Expanded"
+  },
+  {
+    "author": "Mlie",
+    "name": "Fences And Floors (Continued)"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Relations Tab",
+    "steamId": "709317151",
+    "version": "2.6.71"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Mechanicus: Xenobiologis (Playable Eldar)"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Mechanicus: Xenobiologis (Playable Orkoids)",
+    "steamId": "1541518264",
+    "version": "1.6.1.1"
+  },
+  {
+    "author": "Epicguru (James B)",
+    "name": "What's That Mod",
+    "steamId": "2258431182",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "hodlhodl",
     "name": "Twitch Toolkit",
     "steamId": "1718525787",
@@ -1579,12 +1631,6 @@
     "author": "Andreas Pardeike",
     "name": "Puppeteer",
     "steamId": "2057192142",
-    "version": "1.5.4.0"
-  },
-  {
-    "author": "Epicguru (James B)",
-    "name": "What's That Mod",
-    "steamId": "2258431182",
-    "version": "1.0.0.0"
+    "version": "1.5.5.0"
   }
 ]

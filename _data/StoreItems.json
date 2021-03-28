@@ -3598,7 +3598,7 @@
       "abr": "agavenectar",
       "category": "Condiments",
       "defname": "VCE_AgaveNectar",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "agepills",
@@ -7936,7 +7936,7 @@
       "abr": "disgustingnutrientpastemeal",
       "category": "Meals",
       "defname": "AA_DisgustingMealNutrientPaste",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "doctorscrubs",
@@ -12364,7 +12364,7 @@
       "abr": "mime",
       "category": "Animal",
       "defname": "AA_Mime",
-      "price": 16670
+      "price": -10
     },
     {
       "abr": "minigrenades",
@@ -12628,7 +12628,7 @@
       "abr": "mudstoneblocks",
       "category": "Stone blocks",
       "defname": "AB_BlocksMudstone",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "muffalo/bearincubator",
@@ -13354,7 +13354,7 @@
       "abr": "orioncorppacifier",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_GTPacifier",
-      "price": 3500
+      "price": -10
     },
     {
       "abr": "orioncorporationhelmet",
@@ -18427,6 +18427,3624 @@
       "price": 2667
     },
     {
+      "abr": "advancedarchotecharm",
+      "category": "Archotech",
+      "defname": "AdvancedArchotechArm",
+      "price": 33333
+    },
+    {
+      "abr": "advancedarchotechleg",
+      "category": "Archotech",
+      "defname": "AdvancedArchotechLeg",
+      "price": 33333
+    },
+    {
+      "abr": "archotechbrainmelder",
+      "category": "Archotech",
+      "defname": "ArchotechBrainMelder",
+      "price": 33333
+    },
+    {
+      "abr": "archotechdeathclaw",
+      "category": "Archotech",
+      "defname": "ArchotechDeathClaw",
+      "price": 33333
+    },
+    {
+      "abr": "archotechdenture",
+      "category": "Prosthetic",
+      "defname": "ArchotechDenture",
+      "price": 4667
+    },
+    {
+      "abr": "archotechear",
+      "category": "Prosthetic",
+      "defname": "ArchotechEar",
+      "price": 4667
+    },
+    {
+      "abr": "archotechheart",
+      "category": "Prosthetic",
+      "defname": "ArchotechHeart",
+      "price": 4667
+    },
+    {
+      "abr": "archotechkidney",
+      "category": "Prosthetic",
+      "defname": "ArchotechKidney",
+      "price": 4667
+    },
+    {
+      "abr": "archotechliver",
+      "category": "Prosthetic",
+      "defname": "ArchotechLiver",
+      "price": 4667
+    },
+    {
+      "abr": "adamantium",
+      "category": "Imperial Raw Resources",
+      "defname": "Adamantium",
+      "price": -10
+    },
+    {
+      "abr": "adamantiumspine(t1)",
+      "category": "Imperial Augments",
+      "defname": "IG_Aug_SPINE",
+      "price": 1667
+    },
+    {
+      "abr": "agoniser(de)",
+      "category": "Dark Eldar Melee Weapons",
+      "defname": "OGDE_Melee_Agoniser",
+      "price": 23750
+    },
+    {
+      "abr": "angeluspatternbolter(relic)(i)",
+      "category": "Imperial Ranged Weapons",
+      "defname": "OGI_Gun_T3BoltGun",
+      "price": 5833
+    },
+    {
+      "abr": "arbitesshotgun(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_ArbitesShotgun",
+      "price": 1008
+    },
+    {
+      "abr": "arcmaul(am)",
+      "category": "Mechanicus Melee Weapons",
+      "defname": "OGAM_Melee_ArcMaul",
+      "price": 6633
+    },
+    {
+      "abr": "arcpistol(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_ArcPistol",
+      "price": 10833
+    },
+    {
+      "abr": "arcrifle(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_ArcRifle",
+      "price": 5417
+    },
+    {
+      "abr": "archotechlung",
+      "category": "Prosthetic",
+      "defname": "ArchotechLung",
+      "price": 4667
+    },
+    {
+      "abr": "archotechmembrane",
+      "category": "Archotech",
+      "defname": "ArchotechMembrane",
+      "price": 33333
+    },
+    {
+      "abr": "archotechobliterator",
+      "category": "Archotech",
+      "defname": "ArchotechObliterator",
+      "price": 33333
+    },
+    {
+      "abr": "archotechpelvis",
+      "category": "Prosthetic",
+      "defname": "ArchotechPelvis",
+      "price": 4667
+    },
+    {
+      "abr": "archotechspine",
+      "category": "Prosthetic",
+      "defname": "ArchotechSpine",
+      "price": 4667
+    },
+    {
+      "abr": "archotechstomach",
+      "category": "Prosthetic",
+      "defname": "ArchotechStomach",
+      "price": 4667
+    },
+    {
+      "abr": "'ardhat",
+      "category": "Ork",
+      "defname": "OGO_Apparel_Elmet",
+      "price": 1833
+    },
+    {
+      "abr": "armageddonpatternhelmet",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_Armageddon_FlakHelmet_TOGGLEDEF_GogglesUp",
+      "price": 500
+    },
+    {
+      "abr": "armageddonpatternhelmet(goggled)",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_Armageddon_FlakHelmet_TOGGLEDEF_GogglesDown",
+      "price": 500
+    },
+    {
+      "abr": "armageddonpatternrebreather",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_Armageddon_GasMask",
+      "price": 667
+    },
+    {
+      "abr": "armageddonpatterntrenchcoat",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_Armageddon_Uniform_Trenchcoat",
+      "price": 1325
+    },
+    {
+      "abr": "assaultcannon(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_AssaultCannon",
+      "price": 4192
+    },
+    {
+      "abr": "astartecustodes",
+      "category": "Animal",
+      "defname": "AdaptusCustodes",
+      "price": 84583
+    },
+    {
+      "abr": "astartecustodesmeat",
+      "category": "Meat",
+      "defname": "Meat_AdaptusCustodes",
+      "price": 1
+    },
+    {
+      "abr": "astartespacemarine",
+      "category": "Animal",
+      "defname": "AstarteSpaceMarine",
+      "price": -10
+    },
+    {
+      "abr": "astartespacemarinemeat",
+      "category": "Meat",
+      "defname": "Meat_AstarteSpaceMarine",
+      "price": 1
+    },
+    {
+      "abr": "astarteadaptuscore",
+      "category": "Animal",
+      "defname": "AstarteAdaptusCore",
+      "price": 2917
+    },
+    {
+      "abr": "astarteadaptuscoremeat",
+      "category": "Meat",
+      "defname": "Meat_AstarteAdaptusCore",
+      "price": 1
+    },
+    {
+      "abr": "astartesshotgun(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_AstartesShotgun",
+      "price": 1225
+    },
+    {
+      "abr": "attomachinery",
+      "category": "Textiles",
+      "defname": "Attomachinery",
+      "price": 500
+    },
+    {
+      "abr": "augmeticarm(t1)",
+      "category": "Imperial Augments",
+      "defname": "IG_Aug_ARM",
+      "price": 1667
+    },
+    {
+      "abr": "augmeticear(t1)",
+      "category": "Imperial Augments",
+      "defname": "IG_Aug_EAR",
+      "price": 1667
+    },
+    {
+      "abr": "augmeticeye(t1)",
+      "category": "Imperial Augments",
+      "defname": "IG_Aug_EYE",
+      "price": 1667
+    },
+    {
+      "abr": "augmeticfoot(t1)",
+      "category": "Imperial Augments",
+      "defname": "IG_Aug_FOOT",
+      "price": 1667
+    },
+    {
+      "abr": "augmetichand(t1)",
+      "category": "Imperial Augments",
+      "defname": "IG_Aug_HAND",
+      "price": 1667
+    },
+    {
+      "abr": "augmetickidney(t1)",
+      "category": "Imperial Augments",
+      "defname": "IG_Aug_KIDNEY",
+      "price": 1667
+    },
+    {
+      "abr": "augmeticleg(t1)",
+      "category": "Imperial Augments",
+      "defname": "IG_Aug_LEG",
+      "price": 1667
+    },
+    {
+      "abr": "augmeticstomach(t1)",
+      "category": "Imperial Augments",
+      "defname": "IG_Aug_STOM",
+      "price": 1667
+    },
+    {
+      "abr": "autocannon(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_AutoCannon",
+      "price": 2308
+    },
+    {
+      "abr": "autocannonturret",
+      "category": "Imperial Defenses",
+      "defname": "ATSentryTurret",
+      "price": 1917
+    },
+    {
+      "abr": "autogun(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_AutoGun",
+      "price": 900
+    },
+    {
+      "abr": "autogun(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_AutoGun",
+      "price": 900
+    },
+    {
+      "abr": "autogunturret",
+      "category": "Imperial Defenses",
+      "defname": "ATAutoGunPowered",
+      "price": 892
+    },
+    {
+      "abr": "autopistol(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_AutoPistol",
+      "price": 575
+    },
+    {
+      "abr": "autopistol(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_AutoPistol",
+      "price": 575
+    },
+    {
+      "abr": "avengershurikencatapult(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_ShurikenCatapultAvenger",
+      "price": 3083
+    },
+    {
+      "abr": "bansheearmour",
+      "category": "Eldar",
+      "defname": "OGE_Apparel_BansheeArmour",
+      "price": 2500
+    },
+    {
+      "abr": "bansheemask",
+      "category": "Eldar",
+      "defname": "OGE_Apparel_BansheeArmourHelmet",
+      "price": 833
+    },
+    {
+      "abr": "barrageplasmagun(relic)(i)",
+      "category": "Imperial Ranged Weapons",
+      "defname": "OGI_Gun_T3PlasmaGun",
+      "price": 4167
+    },
+    {
+      "abr": "basicarchotechworkbench",
+      "category": "Production",
+      "defname": "BasicArchotechWorkbench",
+      "price": 2617
+    },
+    {
+      "abr": "beamydeffgun(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_DeffgunBeamy",
+      "price": 2925
+    },
+    {
+      "abr": "bigchoppa(o)",
+      "category": "Ork Melee Weapons",
+      "defname": "OGO_Melee_BigChoppa",
+      "price": 2500
+    },
+    {
+      "abr": "bigshoota(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_BigShoota",
+      "price": 1442
+    },
+    {
+      "abr": "bilesword(c)",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_Bileblade",
+      "price": 3117
+    },
+    {
+      "abr": "bioship,bottom",
+      "category": "Ship parts",
+      "defname": "AS_PurpleShipChunkBottom",
+      "price": 2500
+    },
+    {
+      "abr": "bioship,bottomalternate",
+      "category": "Ship parts",
+      "defname": "AS_PurpleShipChunkBottomPointy",
+      "price": 2500
+    },
+    {
+      "abr": "bioship,sideleft",
+      "category": "Ship parts",
+      "defname": "AS_PurpleShipChunkSideLeft",
+      "price": 2500
+    },
+    {
+      "abr": "bioship,sideright",
+      "category": "Ship parts",
+      "defname": "AS_PurpleShipChunkSideRight",
+      "price": 2500
+    },
+    {
+      "abr": "bioship,top",
+      "category": "Ship parts",
+      "defname": "AS_PurpleShipChunkTop",
+      "price": 2500
+    },
+    {
+      "abr": "bioship,topleft",
+      "category": "Ship parts",
+      "defname": "AS_PurpleShipChunkTopLeft",
+      "price": 2500
+    },
+    {
+      "abr": "bioship,topright",
+      "category": "Ship parts",
+      "defname": "AS_PurpleShipChunkTopRight",
+      "price": 2500
+    },
+    {
+      "abr": "bioship,wingleft",
+      "category": "Ship parts",
+      "defname": "AS_PurpleShipChunkWingLeft",
+      "price": 2500
+    },
+    {
+      "abr": "bioship,wingright",
+      "category": "Ship parts",
+      "defname": "AS_PurpleShipChunkWingRight",
+      "price": 2500
+    },
+    {
+      "abr": "bitingblade(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_BitingBlade",
+      "price": 2500
+    },
+    {
+      "abr": "bitz",
+      "category": "Manufactured",
+      "defname": "OGO_Bitz",
+      "price": 10
+    },
+    {
+      "abr": "blackcarapace(t3)",
+      "category": "Imperial Augments",
+      "defname": "IG_Aug_BCARA",
+      "price": 5000
+    },
+    {
+      "abr": "blastpistol(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_BlastPistol",
+      "price": 14167
+    },
+    {
+      "abr": "blaster(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_Blaster",
+      "price": 14167
+    },
+    {
+      "abr": "blastmaster(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_Blastmaster",
+      "price": 500
+    },
+    {
+      "abr": "bloodangelastartearmor",
+      "category": "Imperial Armor",
+      "defname": "IG_ARM_BA_PwrAstarte",
+      "price": 3333
+    },
+    {
+      "abr": "bloodangelastartehelmet",
+      "category": "Imperial Headgear",
+      "defname": "IG_HELM_BA_PwrAstarte",
+      "price": 1667
+    },
+    {
+      "abr": "bloodangelterminatorarmor",
+      "category": "Imperial Armor",
+      "defname": "IG_ARM_BA_Terminator",
+      "price": 4167
+    },
+    {
+      "abr": "bloodangelterminatorhelmet",
+      "category": "Imperial Headgear",
+      "defname": "IG_HELM_BA_Terminator",
+      "price": 2083
+    },
+    {
+      "abr": "boltpistol(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_BoltPistol",
+      "price": 1525
+    },
+    {
+      "abr": "boltpistol(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_BoltPistol",
+      "price": 1542
+    },
+    {
+      "abr": "bolter(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_BoltGun",
+      "price": 3433
+    },
+    {
+      "abr": "bolterlocke(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_BoltGun",
+      "price": 2750
+    },
+    {
+      "abr": "bosspole",
+      "category": "Ork Wargear",
+      "defname": "OGO_Wargear_BossPole",
+      "price": 2500
+    },
+    {
+      "abr": "brain",
+      "category": "Natural",
+      "defname": "IGBrain",
+      "price": 1500
+    },
+    {
+      "abr": "brightlance(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_Brightlance",
+      "price": 14167
+    },
+    {
+      "abr": "burna(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_Burna",
+      "price": 1633
+    },
+    {
+      "abr": "burstcannon(t)",
+      "category": "Ranged weapons",
+      "defname": "OGT_Gun_BurstCannon",
+      "price": 8750
+    },
+    {
+      "abr": "butchertable",
+      "category": "Production",
+      "defname": "OGO_TableButcher",
+      "price": 302
+    },
+    {
+      "abr": "cadianflakhelmet",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_CadianFlakHelmet",
+      "price": 500
+    },
+    {
+      "abr": "cadianpatternhelmet",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_Cadia_FlakHelmet_TOGGLEDEF_GogglesUp",
+      "price": 500
+    },
+    {
+      "abr": "cadianpatternhelmet(goggled)",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_Cadia_FlakHelmet_TOGGLEDEF_GogglesDown",
+      "price": 500
+    },
+    {
+      "abr": "catalepseannode(t3)",
+      "category": "Imperial Augments",
+      "defname": "IG_Aug_CATA",
+      "price": 5000
+    },
+    {
+      "abr": "ceramite",
+      "category": "Imperial Raw Resources",
+      "defname": "Ceramite",
+      "price": -10
+    },
+    {
+      "abr": "chainchoppa(o)",
+      "category": "Ork Melee Weapons",
+      "defname": "OGO_Melee_ChainChoppa",
+      "price": 917
+    },
+    {
+      "abr": "chainaxe(c)",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_ChainAxe",
+      "price": 3392
+    },
+    {
+      "abr": "chainfist(i)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_ChainFistS",
+      "price": 2917
+    },
+    {
+      "abr": "chaingun(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_ReaperChaingun",
+      "price": 4192
+    },
+    {
+      "abr": "chainsword(c)",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_ChainSword",
+      "price": 1358
+    },
+    {
+      "abr": "chainsword(i)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_ChainSword",
+      "price": 500
+    },
+    {
+      "abr": "choppa(o)",
+      "category": "Ork Melee Weapons",
+      "defname": "OGO_Melee_Choppa",
+      "price": 833
+    },
+    {
+      "abr": "chordclaw(am)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGAM_Melee_SingleChordClaw",
+      "price": 6692
+    },
+    {
+      "abr": "cloak",
+      "category": "Apparel",
+      "defname": "OG_Apparel_Cloak",
+      "price": 279
+    },
+    {
+      "abr": "cognisflamer(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_FlamerCognis",
+      "price": 4167
+    },
+    {
+      "abr": "combatshield",
+      "category": "Imperial Wargear",
+      "defname": "OGI_Wargear_CombatShield",
+      "price": 16667
+    },
+    {
+      "abr": "combi-flamer(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_CombiFlamer",
+      "price": 4550
+    },
+    {
+      "abr": "combi-grav(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_CombiGrav",
+      "price": 4550
+    },
+    {
+      "abr": "combi-melta(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_CombiMelta",
+      "price": 4550
+    },
+    {
+      "abr": "combi-plasma(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_CombiPlasma",
+      "price": 4550
+    },
+    {
+      "abr": "commissarcap",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_CommissarCap",
+      "price": 583
+    },
+    {
+      "abr": "commissarjacket",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_CommissarJacket",
+      "price": 2158
+    },
+    {
+      "abr": "concertinawire",
+      "category": "Raw resources",
+      "defname": "RazorWire",
+      "price": 6
+    },
+    {
+      "abr": "conversionbeamer(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_ConversionBeamer",
+      "price": 3750
+    },
+    {
+      "abr": "cybork",
+      "category": "Animal",
+      "defname": "OG_Cyborg_Ork",
+      "price": 3333
+    },
+    {
+      "abr": "dakkadeffgun(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_DeffgunDakka",
+      "price": 2750
+    },
+    {
+      "abr": "darkeldarcraftingsupplies",
+      "category": "Production",
+      "defname": "OGDE_TableMachining",
+      "price": 758
+    },
+    {
+      "abr": "darklance(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_Darklance",
+      "price": 14167
+    },
+    {
+      "abr": "deathspinner(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_Deathspinner",
+      "price": 3750
+    },
+    {
+      "abr": "direavengerarmour",
+      "category": "Eldar",
+      "defname": "OGE_Apparel_DireAvengerArmour",
+      "price": 2500
+    },
+    {
+      "abr": "direavengerhhelmet",
+      "category": "Eldar",
+      "defname": "OGE_Apparel_DireAvengerHelmet",
+      "price": 833
+    },
+    {
+      "abr": "diresword(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_Diresword",
+      "price": 5833
+    },
+    {
+      "abr": "disintergratorcannon(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_DisintergratorCannon",
+      "price": 9583
+    },
+    {
+      "abr": "djinblade(de)",
+      "category": "Dark Eldar Melee Weapons",
+      "defname": "OGDE_Melee_DjinBlade",
+      "price": 5833
+    },
+    {
+      "abr": "droneneuralaugment(t2)",
+      "category": "Imperial Augments",
+      "defname": "IG_Aug_DRONE",
+      "price": 3333
+    },
+    {
+      "abr": "druglab",
+      "category": "Production",
+      "defname": "OGO_DrugLab",
+      "price": 742
+    },
+    {
+      "abr": "duallightningclaws(c)",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_LightningClawD",
+      "price": 9767
+    },
+    {
+      "abr": "eatinsquig",
+      "category": "Animal",
+      "defname": "OG_Squig_Eatin",
+      "price": 333
+    },
+    {
+      "abr": "eatinsquigmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Squig_Eatin",
+      "price": 3
+    },
+    {
+      "abr": "'eavy'ardhat",
+      "category": "Ork",
+      "defname": "OGO_Apparel_EavyElmet",
+      "price": 2833
+    },
+    {
+      "abr": "'eavyarma",
+      "category": "Ork",
+      "defname": "OGO_Apparel_EavyArmour",
+      "price": 2833
+    },
+    {
+      "abr": "eldar",
+      "category": "Animal",
+      "defname": "OG_Alien_Eldar",
+      "price": -10
+    },
+    {
+      "abr": "eldarcraftingsupplies",
+      "category": "Production",
+      "defname": "OGE_TableMachining",
+      "price": 758
+    },
+    {
+      "abr": "eldarleather",
+      "category": "Leathers",
+      "defname": "Leather_Eldar",
+      "price": 7
+    },
+    {
+      "abr": "eldarmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Alien_Eldar",
+      "price": 3
+    },
+    {
+      "abr": "empgrenadepack(t)",
+      "category": "Tau Wargear",
+      "defname": "OGT_GrenadePack_EMP",
+      "price": 2500
+    },
+    {
+      "abr": "enginseerhood",
+      "category": "Adeptus Mechanicus",
+      "defname": "OGAM_Apparel_EnginseerHood",
+      "price": 1925
+    },
+    {
+      "abr": "enginseerrobe",
+      "category": "Adeptus Mechanicus",
+      "defname": "OGAM_Apparel_EnginseerRobe",
+      "price": 3608
+    },
+    {
+      "abr": "eviscerator(i)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_Eviscerator",
+      "price": 583
+    },
+    {
+      "abr": "executioner(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_Executioner",
+      "price": 23750
+    },
+    {
+      "abr": "executionerpistol(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_ExecutionerPistol",
+      "price": 1250
+    },
+    {
+      "abr": "exituspistol(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_ExitusPistol",
+      "price": 1975
+    },
+    {
+      "abr": "exitusrifle(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_ExitusRifle",
+      "price": 3108
+    },
+    {
+      "abr": "fabricatorclaw(n)",
+      "category": "Necron Melee Weapons",
+      "defname": "OGN_Melee_FabricatorClaw",
+      "price": 25000
+    },
+    {
+      "abr": "farseerrunearmour",
+      "category": "Eldar",
+      "defname": "OGE_Apparel_RuneArmourFarseer",
+      "price": 2500
+    },
+    {
+      "abr": "fieldcap",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_FieldCap",
+      "price": 500
+    },
+    {
+      "abr": "fightingstaff(k)",
+      "category": "Kroot Melee Weapons",
+      "defname": "OGK_Melee_FightingStaff",
+      "price": 358
+    },
+    {
+      "abr": "fiocomponents",
+      "category": "Manufactured",
+      "defname": "OGT_Component",
+      "price": 160
+    },
+    {
+      "abr": "fio'tak",
+      "category": "Manufactured",
+      "defname": "OGT_Fiotak",
+      "price": 10
+    },
+    {
+      "abr": "flakarma",
+      "category": "Ork",
+      "defname": "OGO_Apparel_Armour",
+      "price": 1833
+    },
+    {
+      "abr": "flamer(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_Flamer",
+      "price": 2392
+    },
+    {
+      "abr": "flayingtalons(n)",
+      "category": "Necron Melee Weapons",
+      "defname": "OGN_Melee_FlayingTalon",
+      "price": 2500
+    },
+    {
+      "abr": "forcestaff(i)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_ForceStaff",
+      "price": 9192
+    },
+    {
+      "abr": "forcesword(i)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_ForceSword",
+      "price": 750
+    },
+    {
+      "abr": "fraggrenadepack(i)",
+      "category": "Imperial Wargear",
+      "defname": "OGI_GrenadePack_Frag",
+      "price": 2500
+    },
+    {
+      "abr": "fragstikkbombz(o)",
+      "category": "Ork Wargear",
+      "defname": "OGO_GrenadePack_Frag",
+      "price": 2500
+    },
+    {
+      "abr": "fueledstove",
+      "category": "Production",
+      "defname": "OGO_FueledStove",
+      "price": 265
+    },
+    {
+      "abr": "fusiongun(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_FusionGun",
+      "price": 10000
+    },
+    {
+      "abr": "fusionpistol(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_FusionPistol",
+      "price": 10000
+    },
+    {
+      "abr": "galvanicrifle(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_GalvanicRifle",
+      "price": 5833
+    },
+    {
+      "abr": "gaussblaster(n)",
+      "category": "Necron Ranged Weapons",
+      "defname": "OGN_Gun_GaussBlaster",
+      "price": 25000
+    },
+    {
+      "abr": "gausscannon(n)",
+      "category": "Necron Ranged Weapons",
+      "defname": "OGN_Gun_GaussCannon",
+      "price": 41667
+    },
+    {
+      "abr": "gaussflayer(n)",
+      "category": "Necron Ranged Weapons",
+      "defname": "OGN_Gun_GaussFlayer",
+      "price": 12500
+    },
+    {
+      "abr": "geneseed",
+      "category": "Drugs",
+      "defname": "GeneSeed",
+      "price": 333
+    },
+    {
+      "abr": "geneseed(custodes)",
+      "category": "Drugs",
+      "defname": "GeneSeedCustodes",
+      "price": 20000
+    },
+    {
+      "abr": "ghostaxe(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_GhostAxe",
+      "price": 7083
+    },
+    {
+      "abr": "ghostsword(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_GhostSword",
+      "price": 5833
+    },
+    {
+      "abr": "ghosthelm",
+      "category": "Eldar",
+      "defname": "OGE_Apparel_Ghosthelm",
+      "price": 833
+    },
+    {
+      "abr": "grenadiergauntlet(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_OgrynGrenadeGauntlet",
+      "price": 3017
+    },
+    {
+      "abr": "grot",
+      "category": "Animal",
+      "defname": "OG_Alien_Grot",
+      "price": -10
+    },
+    {
+      "abr": "grotblasta(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_GrotBlasta",
+      "price": 94
+    },
+    {
+      "abr": "grotleather",
+      "category": "Leathers",
+      "defname": "Leather_Grot",
+      "price": 4
+    },
+    {
+      "abr": "grotmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Alien_Grot",
+      "price": 3
+    },
+    {
+      "abr": "guardianspear(bolter)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_GuardianSpear",
+      "price": 23750
+    },
+    {
+      "abr": "gue'vesaflakarmour",
+      "category": "Tau",
+      "defname": "OGT_Apparel_GueVesaArmour",
+      "price": 483
+    },
+    {
+      "abr": "gue'vesaflakgreaves",
+      "category": "Tau",
+      "defname": "OGT_Apparel_GueVesaArmourGreaves",
+      "price": 375
+    },
+    {
+      "abr": "gundronemeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Tau_GunDrone",
+      "price": 3
+    },
+    {
+      "abr": "gyrinx",
+      "category": "Animal",
+      "defname": "OG_Gyrinx",
+      "price": 917
+    },
+    {
+      "abr": "gyrinxmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Gyrinx",
+      "price": 3
+    },
+    {
+      "abr": "hallucinogengrenadepack(e)",
+      "category": "Eldar Wargear",
+      "defname": "OGE_GrenadePack_Hallucinogen",
+      "price": 2500
+    },
+    {
+      "abr": "handflamer(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_FlamerHand",
+      "price": 1542
+    },
+    {
+      "abr": "harlequin'skiss(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_HarlequinsKiss",
+      "price": 12500
+    },
+    {
+      "abr": "haywireblaster(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_HaywireBlaster",
+      "price": 14167
+    },
+    {
+      "abr": "haywirecannon(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_HaywireCannon",
+      "price": 14167
+    },
+    {
+      "abr": "haywiregrenadepack(e)",
+      "category": "Eldar Wargear",
+      "defname": "OGE_GrenadePack_Haywire",
+      "price": 2500
+    },
+    {
+      "abr": "h-barriercell",
+      "category": "Raw resources",
+      "defname": "HBarrierShell",
+      "price": 25
+    },
+    {
+      "abr": "heatlance(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_HeatLance",
+      "price": 10000
+    },
+    {
+      "abr": "heavybolter(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_HeavyBolter",
+      "price": 3683
+    },
+    {
+      "abr": "heavybolter(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_HeavyBolter",
+      "price": 3683
+    },
+    {
+      "abr": "heavyflamer(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_FlamerHeavy",
+      "price": 2033
+    },
+    {
+      "abr": "heavygausscannon(n)",
+      "category": "Necron Ranged Weapons",
+      "defname": "OGN_Gun_GaussCannonHeavy",
+      "price": 41667
+    },
+    {
+      "abr": "heavyshieldbelt",
+      "category": "Apparel",
+      "defname": "Apparel_HeavyShieldBelt",
+      "price": 1025
+    },
+    {
+      "abr": "heavystubber(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_HeavyStubber",
+      "price": 2317
+    },
+    {
+      "abr": "hellblade",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_Hellblade",
+      "price": 3117
+    },
+    {
+      "abr": "hellglaive(de)",
+      "category": "Dark Eldar Melee Weapons",
+      "defname": "OGDE_Melee_Hellglaive",
+      "price": 7083
+    },
+    {
+      "abr": "hellgun(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_Hellgun",
+      "price": 4125
+    },
+    {
+      "abr": "holodisk",
+      "category": "Items",
+      "defname": "HoloDisk",
+      "price": 11667
+    },
+    {
+      "abr": "honorblade(t)",
+      "category": "Tau Melee Weapons",
+      "defname": "OGT_Melee_HonorBlade",
+      "price": 4583
+    },
+    {
+      "abr": "honouredimperialstatue",
+      "category": "Art",
+      "defname": "IG_Statue_HonImp",
+      "price": 1875
+    },
+    {
+      "abr": "hospitallerservoskull",
+      "category": "Imperial Wargear",
+      "defname": "OGI_Apparel_ServoSkullA",
+      "price": 2500
+    },
+    {
+      "abr": "hugecapturedasteroid,bottom",
+      "category": "Ship parts",
+      "defname": "AS_HugeAsteroidBottom",
+      "price": 2500
+    },
+    {
+      "abr": "hugecapturedasteroid,left",
+      "category": "Ship parts",
+      "defname": "AS_HugeAsteroidLeft",
+      "price": 2500
+    },
+    {
+      "abr": "hugecapturedasteroid,right",
+      "category": "Ship parts",
+      "defname": "AS_HugeAsteroidRight",
+      "price": 2500
+    },
+    {
+      "abr": "hugecapturedasteroid,top",
+      "category": "Ship parts",
+      "defname": "AS_HugeAsteroidTop",
+      "price": 2500
+    },
+    {
+      "abr": "huskblade(de)",
+      "category": "Dark Eldar Melee Weapons",
+      "defname": "OGDE_Melee_HuskBlade",
+      "price": 12500
+    },
+    {
+      "abr": "hyperactivenymuneorgan",
+      "category": "Natural",
+      "defname": "OG_Kroot_Mutation_HyperactiveNymuneOrgan",
+      "price": 833
+    },
+    {
+      "abr": "hyperphasesword(n)",
+      "category": "Necron Melee Weapons",
+      "defname": "OGN_Melee_HyperphaseSword",
+      "price": 5833
+    },
+    {
+      "abr": "impaler(de)",
+      "category": "Dark Eldar Melee Weapons",
+      "defname": "OGDE_Melee_Impaler",
+      "price": 5833
+    },
+    {
+      "abr": "impeialrejuvenat",
+      "category": "Imperial Augments",
+      "defname": "IG_IMP_Rejuvenat",
+      "price": 8333
+    },
+    {
+      "abr": "imperialarmorfabricator",
+      "category": "Production",
+      "defname": "ImperialArmorFab",
+      "price": 8617
+    },
+    {
+      "abr": "imperialbasicservoarm",
+      "category": "Imperial Armor Addons",
+      "defname": "IGStd-ServoArm",
+      "price": 2500
+    },
+    {
+      "abr": "imperialbattery",
+      "category": "Power",
+      "defname": "ImpBattery",
+      "price": 1742
+    },
+    {
+      "abr": "imperialcadianshocktrooperarmor",
+      "category": "Imperial Armor",
+      "defname": "IG_ARM_CadianArmor",
+      "price": 1500
+    },
+    {
+      "abr": "imperialcadianshocktrooperhelmet",
+      "category": "Imperial Headgear",
+      "defname": "IG_ARM_CadianHelmet",
+      "price": 583
+    },
+    {
+      "abr": "imperialcomponent",
+      "category": "Imperial Manufactured Resources",
+      "defname": "ImperialComponent",
+      "price": 250
+    },
+    {
+      "abr": "imperialconstructionfabricator",
+      "category": "Production",
+      "defname": "IG_ImperialCONFabricator",
+      "price": 2217
+    },
+    {
+      "abr": "imperialdemocharge",
+      "category": "Security",
+      "defname": "IG_DEMOBlastCharge",
+      "price": 7158
+    },
+    {
+      "abr": "imperialdoublebed",
+      "category": "Furniture",
+      "defname": "ImpDoubleBed",
+      "price": 508
+    },
+    {
+      "abr": "imperialempcharge",
+      "category": "Security",
+      "defname": "IG_EMPBlastCharge",
+      "price": 5842
+    },
+    {
+      "abr": "imperialescortship,bottom",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkBottom",
+      "price": 2500
+    },
+    {
+      "abr": "imperialescortship,leftside",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkSideLeft",
+      "price": 2500
+    },
+    {
+      "abr": "imperialescortship,rightside",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkSideRight",
+      "price": 2500
+    },
+    {
+      "abr": "imperialescortship,roundcore",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkRound",
+      "price": 2500
+    },
+    {
+      "abr": "imperialescortship,roundsideleft",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkRoundSideLeft",
+      "price": 2500
+    },
+    {
+      "abr": "imperialescortship,roundsideright",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkRoundSideRight",
+      "price": 2500
+    },
+    {
+      "abr": "imperialescortship,smallleftside",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkSmallSideLeft",
+      "price": 2500
+    },
+    {
+      "abr": "imperialescortship,smallrightside",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkSmallSideRight",
+      "price": 2500
+    },
+    {
+      "abr": "imperialescortship,smallwingleft",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkSmallWingLeft",
+      "price": 2500
+    },
+    {
+      "abr": "imperialescortship,smallwingright",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkSmallWingRight",
+      "price": 2500
+    },
+    {
+      "abr": "imperialescortship,top",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkTop",
+      "price": 2500
+    },
+    {
+      "abr": "imperialescortship,topalternate",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkTopAlternate",
+      "price": 2500
+    },
+    {
+      "abr": "imperialescortship,toplarge",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkTopPointy",
+      "price": 2500
+    },
+    {
+      "abr": "imperialescortship,topnarrowantennas",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkTopAntennasNarrow",
+      "price": 2500
+    },
+    {
+      "abr": "imperialescortship,topwithantennas",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkTopAntennas",
+      "price": 2500
+    },
+    {
+      "abr": "imperialescortship,widebottom",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkBottomAlternate",
+      "price": 2500
+    },
+    {
+      "abr": "imperialescortship,wingleft",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkWingLeft",
+      "price": 2500
+    },
+    {
+      "abr": "imperialescortship,wingright",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkWingRight",
+      "price": 2500
+    },
+    {
+      "abr": "imperialfabricator",
+      "category": "Production",
+      "defname": "ImperialFabricator",
+      "price": 6825
+    },
+    {
+      "abr": "imperialferrocrete",
+      "category": "Imperial Construction Materials",
+      "defname": "IG_RES_FerroCrete",
+      "price": -10
+    },
+    {
+      "abr": "imperialflakplate",
+      "category": "Imperial Armor Addons",
+      "defname": "IGStd-FlakPlate",
+      "price": 3333
+    },
+    {
+      "abr": "imperialflooraquilaseal3x3",
+      "category": "Art",
+      "defname": "IGFL_3x3_Aquila",
+      "price": 1283
+    },
+    {
+      "abr": "imperialflooraquilaseal5x5",
+      "category": "Art",
+      "defname": "IGFL_5x5_Aquila",
+      "price": 1817
+    },
+    {
+      "abr": "imperialfloorskullrug2x3",
+      "category": "Art",
+      "defname": "IGFL_2x3_Skull",
+      "price": 1283
+    },
+    {
+      "abr": "imperialfloortenthrug2x3",
+      "category": "Art",
+      "defname": "IGFL_2x3_Tenth",
+      "price": 1317
+    },
+    {
+      "abr": "imperialgrenadelauncher",
+      "category": "Imperial Ranged Weapons",
+      "defname": "Gun_ImpGrenadeLauncher",
+      "price": 3333
+    },
+    {
+      "abr": "imperialguardcommissarcap",
+      "category": "Imperial Clothes",
+      "defname": "IGCommissarCap",
+      "price": 583
+    },
+    {
+      "abr": "imperialguardflakarmor",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_FlakArmour",
+      "price": 833
+    },
+    {
+      "abr": "imperialguardgasmask",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_GasMask",
+      "price": 667
+    },
+    {
+      "abr": "imperialguardgreatcoat",
+      "category": "Imperial Clothes",
+      "defname": "IGGreatCoat",
+      "price": 833
+    },
+    {
+      "abr": "imperialguardhelmet",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_BasicFlakHelm",
+      "price": 500
+    },
+    {
+      "abr": "imperialguardhelmet(goggled)",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_GoggledFlakHelm",
+      "price": 583
+    },
+    {
+      "abr": "imperialguardjumpsuit",
+      "category": "Imperial Clothes",
+      "defname": "IGJumpSuit",
+      "price": 583
+    },
+    {
+      "abr": "imperialhospitalbed",
+      "category": "Furniture",
+      "defname": "ImpHospitalBed",
+      "price": 2450
+    },
+    {
+      "abr": "imperiallamp",
+      "category": "Furniture",
+      "defname": "IG_WH40kSciFiLamp",
+      "price": 65
+    },
+    {
+      "abr": "imperialmanufacturingcogitator",
+      "category": "Misc",
+      "defname": "ManCogitator",
+      "price": 6142
+    },
+    {
+      "abr": "imperialmedicalfabricator",
+      "category": "Production",
+      "defname": "ImperialMedicalFab",
+      "price": 8617
+    },
+    {
+      "abr": "imperialmedkit",
+      "category": "Medicine",
+      "defname": "IG_IMPMedKit",
+      "price": 167
+    },
+    {
+      "abr": "imperialnanocomponent",
+      "category": "Imperial Manufactured Resources",
+      "defname": "IG_ImperialNanoComponent",
+      "price": 833
+    },
+    {
+      "abr": "imperialoribtalbombardmentdesignator",
+      "category": "Imperial Ranged Weapons",
+      "defname": "IG_Orbital_QXBomb",
+      "price": 4167
+    },
+    {
+      "abr": "imperialoribtallancedesignator",
+      "category": "Imperial Ranged Weapons",
+      "defname": "IG_Orbital_QXBeam",
+      "price": 4167
+    },
+    {
+      "abr": "imperialplascrete",
+      "category": "Imperial Construction Materials",
+      "defname": "IG_RES_PlasCrete",
+      "price": -10
+    },
+    {
+      "abr": "imperialpowercore",
+      "category": "Imperial Manufactured Resources",
+      "defname": "ImperialPowercore",
+      "price": 833
+    },
+    {
+      "abr": "imperialpromethiumfuelblock",
+      "category": "Imperial Manufactured Resources",
+      "defname": "ImperialPromFuel",
+      "price": 833
+    },
+    {
+      "abr": "imperialquadrocketlauncher",
+      "category": "Imperial Ranged Weapons",
+      "defname": "Gun_QuadRktLauncher",
+      "price": 3333
+    },
+    {
+      "abr": "imperialresearchcogitator",
+      "category": "Misc",
+      "defname": "ResCogitator",
+      "price": 8700
+    },
+    {
+      "abr": "imperialrockcrete",
+      "category": "Imperial Construction Materials",
+      "defname": "IG_RES_RockCrete",
+      "price": -10
+    },
+    {
+      "abr": "imperialstatuetoarbites",
+      "category": "Art",
+      "defname": "StatueArbites",
+      "price": 1283
+    },
+    {
+      "abr": "imperialstatuetoastramilitarum",
+      "category": "Art",
+      "defname": "StatueSkull",
+      "price": 1283
+    },
+    {
+      "abr": "imperialthermaldrill",
+      "category": "Security",
+      "defname": "IG_IMPThermalDrill",
+      "price": 6592
+    },
+    {
+      "abr": "imperialthuddmortars",
+      "category": "Imperial Manufactured Resources",
+      "defname": "IG_Ammo_Thudd",
+      "price": -10
+    },
+    {
+      "abr": "imperialundershirt",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_UniformShirt",
+      "price": 167
+    },
+    {
+      "abr": "imperialvoidshieldbelt",
+      "category": "Imperial Armor Addons",
+      "defname": "IGVoidShieldBelt",
+      "price": 583
+    },
+    {
+      "abr": "imperialwalllightgold",
+      "category": "Furniture",
+      "defname": "IG_WallLightGOLD",
+      "price": 16
+    },
+    {
+      "abr": "imperialwalllightsilver",
+      "category": "Furniture",
+      "defname": "IG_WallLightSilver",
+      "price": 16
+    },
+    {
+      "abr": "imperialweaponfabricator",
+      "category": "Production",
+      "defname": "ImperialWeaponFab",
+      "price": 8617
+    },
+    {
+      "abr": "inquisitorialservoskull",
+      "category": "Imperial Wargear",
+      "defname": "OGI_Apparel_ServoSkullB",
+      "price": 2500
+    },
+    {
+      "abr": "ionrifle(t)",
+      "category": "Ranged weapons",
+      "defname": "OGT_Gun_IonRifle",
+      "price": 11667
+    },
+    {
+      "abr": "irongob",
+      "category": "Ork",
+      "defname": "OGO_Apparel_IronGob",
+      "price": 667
+    },
+    {
+      "abr": "ironhalo",
+      "category": "Imperial Wargear",
+      "defname": "OGI_Wargear_IronHalo",
+      "price": 23333
+    },
+    {
+      "abr": "kantraelpatternlasrifle(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LasGun_Kantrael",
+      "price": 1717
+    },
+    {
+      "abr": "klaive(de)",
+      "category": "Dark Eldar Melee Weapons",
+      "defname": "OGDE_Melee_Klaive",
+      "price": 7083
+    },
+    {
+      "abr": "knarloc",
+      "category": "Animal",
+      "defname": "OG_Knarloc",
+      "price": 500
+    },
+    {
+      "abr": "knarloc",
+      "category": "Animal",
+      "defname": "OG_Knarloc_Kindred",
+      "price": 500
+    },
+    {
+      "abr": "knarlocmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Knarloc",
+      "price": 3
+    },
+    {
+      "abr": "kombi-burna(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_KombiBurna",
+      "price": 2767
+    },
+    {
+      "abr": "kombi-rokkit(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_KombiRokkit",
+      "price": 2783
+    },
+    {
+      "abr": "komponent",
+      "category": "Manufactured",
+      "defname": "OGO_Component",
+      "price": 160
+    },
+    {
+      "abr": "korastartearmor",
+      "category": "Imperial Armor",
+      "defname": "IG_ARM_PwrAstarte",
+      "price": 3333
+    },
+    {
+      "abr": "korastartehelmet",
+      "category": "Imperial Headgear",
+      "defname": "IG_HELM_PwrAstarte",
+      "price": 1667
+    },
+    {
+      "abr": "korterminatorarmor",
+      "category": "Imperial Armor",
+      "defname": "IG_ARM_KR_Terminator",
+      "price": 4167
+    },
+    {
+      "abr": "korterminatorhelmet",
+      "category": "Imperial Headgear",
+      "defname": "IG_HELM_KR_Terminator",
+      "price": 2083
+    },
+    {
+      "abr": "krakgrenade",
+      "category": "Imperial Grenades",
+      "defname": "Grenade_Krak",
+      "price": 583
+    },
+    {
+      "abr": "krakgrenadepack(i)",
+      "category": "Imperial Wargear",
+      "defname": "OGI_GrenadePack_Krak",
+      "price": 2500
+    },
+    {
+      "abr": "krakstikkbombz(o)",
+      "category": "Ork Wargear",
+      "defname": "OGO_GrenadePack_Krak",
+      "price": 2500
+    },
+    {
+      "abr": "kriegpatternhelmet",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_Krieg_FlakHelmet_TOGGLEDEF_A",
+      "price": 500
+    },
+    {
+      "abr": "kriegpatternhelmet(spiked)",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_Krieg_FlakHelmet_TOGGLEDEF_B",
+      "price": 500
+    },
+    {
+      "abr": "kriegpatternrebreather",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_Krieg_Gasmask",
+      "price": 667
+    },
+    {
+      "abr": "kriegpatterntrenchcoat",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_Krieg_Uniform_Trenchcoat",
+      "price": 392
+    },
+    {
+      "abr": "kroot",
+      "category": "Animal",
+      "defname": "OG_Alien_Kroot",
+      "price": -10
+    },
+    {
+      "abr": "krootheaddress",
+      "category": "Tau Apparel",
+      "defname": "OGK_Apparel_TribalHeaddress",
+      "price": 136
+    },
+    {
+      "abr": "kroothunterrifle",
+      "category": "Ranged weapons",
+      "defname": "OGK_Gun_KrootHunterRifle",
+      "price": 2917
+    },
+    {
+      "abr": "krootleather",
+      "category": "Leathers",
+      "defname": "Leather_Kroot",
+      "price": 4
+    },
+    {
+      "abr": "krootmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Alien_Kroot",
+      "price": 3
+    },
+    {
+      "abr": "krootox",
+      "category": "Animal",
+      "defname": "OG_KrootOx",
+      "price": 500
+    },
+    {
+      "abr": "krootox",
+      "category": "Animal",
+      "defname": "OG_KrootOx_Kindred",
+      "price": 500
+    },
+    {
+      "abr": "krootoxmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_KrootOx",
+      "price": 3
+    },
+    {
+      "abr": "krootpistol",
+      "category": "Ranged weapons",
+      "defname": "OGK_Gun_KrootPistol",
+      "price": 833
+    },
+    {
+      "abr": "krootrifle",
+      "category": "Ranged weapons",
+      "defname": "OGK_Gun_KrootRifle",
+      "price": 1250
+    },
+    {
+      "abr": "kroottribalwear",
+      "category": "Tau Apparel",
+      "defname": "OGK_Apparel_Tribalwear",
+      "price": 833
+    },
+    {
+      "abr": "kroothound",
+      "category": "Animal",
+      "defname": "OG_Kroothound",
+      "price": 750
+    },
+    {
+      "abr": "kroothound",
+      "category": "Animal",
+      "defname": "OG_Kroothound_Kindred",
+      "price": 750
+    },
+    {
+      "abr": "kroothoundmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Kroothound",
+      "price": 3
+    },
+    {
+      "abr": "krudebionikarm",
+      "category": "Bionic",
+      "defname": "OG_KrudeBionikArm",
+      "price": 500
+    },
+    {
+      "abr": "krudebionikbludgeon",
+      "category": "Bionic",
+      "defname": "OG_KrudeBionikArm_Bludgeon",
+      "price": 1667
+    },
+    {
+      "abr": "krudebionikeye",
+      "category": "Bionic",
+      "defname": "OG_KrudeBionikEye",
+      "price": 667
+    },
+    {
+      "abr": "krudebionikleg",
+      "category": "Bionic",
+      "defname": "OG_KrudeBionikLeg",
+      "price": 500
+    },
+    {
+      "abr": "krudebionikrangedweaponplatform",
+      "category": "Bionic",
+      "defname": "OG_KrudeBionikArm_RangedWeaponPlatform",
+      "price": 1333
+    },
+    {
+      "abr": "krudebionikspike",
+      "category": "Bionic",
+      "defname": "OG_KrudeBionikArm_Spike",
+      "price": 1667
+    },
+    {
+      "abr": "krudebionikspine",
+      "category": "Bionic",
+      "defname": "OG_KrudeBionikSpine",
+      "price": 667
+    },
+    {
+      "abr": "krudechoppa(o)",
+      "category": "Ork Melee Weapons",
+      "defname": "OGO_Melee_CrudeChoppa",
+      "price": 375
+    },
+    {
+      "abr": "kustomforcefield",
+      "category": "Ork Wargear",
+      "defname": "OGO_Wargear_KustomForcefield",
+      "price": 56667
+    },
+    {
+      "abr": "lasblaster(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_LasBlaster",
+      "price": 4167
+    },
+    {
+      "abr": "lascannon(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_LasCannon",
+      "price": 7650
+    },
+    {
+      "abr": "lascannon(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LasCannon",
+      "price": 7650
+    },
+    {
+      "abr": "lasgun(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_LasGun",
+      "price": 1717
+    },
+    {
+      "abr": "laspistol(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_LasPistol",
+      "price": 1200
+    },
+    {
+      "abr": "laspistol(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LasPistol",
+      "price": 850
+    },
+    {
+      "abr": "lightflakarmour",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_FlakArmourLight",
+      "price": 683
+    },
+    {
+      "abr": "lightflakgreaves",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_FlakArmourLightGreaves",
+      "price": 567
+    },
+    {
+      "abr": "lightningclaw(c)",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_LightningClawS",
+      "price": 6633
+    },
+    {
+      "abr": "lightningclaw(i)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_LightningClawS",
+      "price": 1083
+    },
+    {
+      "abr": "lockepatternlascarbine(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LasGun_Locke",
+      "price": 1117
+    },
+    {
+      "abr": "long-las(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LongLas",
+      "price": 4408
+    },
+    {
+      "abr": "longrifle(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_RangerLongrifle",
+      "price": 1667
+    },
+    {
+      "abr": "luciuspatternlasgun(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LasGun_Lucius",
+      "price": 1908
+    },
+    {
+      "abr": "lyman'sear(t3)",
+      "category": "Imperial Augments",
+      "defname": "IG_Aug_LYMAN",
+      "price": 5000
+    },
+    {
+      "abr": "m14mine(unarmed)",
+      "category": "Manufactured",
+      "defname": "M14Mine",
+      "price": 17
+    },
+    {
+      "abr": "macrostubber(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_MacroStubber",
+      "price": 10833
+    },
+    {
+      "abr": "manreaper",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_ManReaper",
+      "price": 1833
+    },
+    {
+      "abr": "mandrakeblade(de)",
+      "category": "Dark Eldar Melee Weapons",
+      "defname": "OGDE_Melee_MandrakeBlade",
+      "price": 442
+    },
+    {
+      "abr": "markerdrone",
+      "category": "Tau Wargear",
+      "defname": "OGT_Wargear_MarkerDrone",
+      "price": 23333
+    },
+    {
+      "abr": "martianpatternlasrifle(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LasGun_Mars",
+      "price": 1800
+    },
+    {
+      "abr": "mechanariumservoskull",
+      "category": "Imperial Wargear",
+      "defname": "OGI_Apparel_ServoSkullC",
+      "price": 2500
+    },
+    {
+      "abr": "mechanoidship,bottom",
+      "category": "Ship parts",
+      "defname": "AS_MechanoidShipBottom",
+      "price": 2500
+    },
+    {
+      "abr": "mechanoidship,bottomalternate",
+      "category": "Ship parts",
+      "defname": "AS_MechanoidShipBottomLong",
+      "price": 2500
+    },
+    {
+      "abr": "mechanoidship,sideleft",
+      "category": "Ship parts",
+      "defname": "AS_MechanoidSideLeft",
+      "price": 2500
+    },
+    {
+      "abr": "mechanoidship,sideright",
+      "category": "Ship parts",
+      "defname": "AS_MechanoidSideRight",
+      "price": 2500
+    },
+    {
+      "abr": "mechanoidship,tankleft",
+      "category": "Ship parts",
+      "defname": "AS_MechanoidTankLeft",
+      "price": 2500
+    },
+    {
+      "abr": "mechanoidship,tankright",
+      "category": "Ship parts",
+      "defname": "AS_MechanoidTankRight",
+      "price": 2500
+    },
+    {
+      "abr": "mechanoidship,top",
+      "category": "Ship parts",
+      "defname": "AS_MechanoidShipTop",
+      "price": 2500
+    },
+    {
+      "abr": "mechanoidship,wingleft",
+      "category": "Ship parts",
+      "defname": "AS_MechanoidWingLeft",
+      "price": 2500
+    },
+    {
+      "abr": "mechanoidship,wingright",
+      "category": "Ship parts",
+      "defname": "AS_MechanoidWingRight",
+      "price": 2500
+    },
+    {
+      "abr": "mediumcapturedasteroid,bottom",
+      "category": "Ship parts",
+      "defname": "AS_AsteroidChunkBigBottom",
+      "price": 2500
+    },
+    {
+      "abr": "mediumcapturedasteroid,left",
+      "category": "Ship parts",
+      "defname": "AS_AsteroidChunkBigSide",
+      "price": 2500
+    },
+    {
+      "abr": "mediumcapturedasteroid,right",
+      "category": "Ship parts",
+      "defname": "AS_AsteroidChunkBigReactors",
+      "price": 2500
+    },
+    {
+      "abr": "mediumcapturedasteroid,top",
+      "category": "Ship parts",
+      "defname": "AS_AsteroidChunkBigTop",
+      "price": 2500
+    },
+    {
+      "abr": "megaarma",
+      "category": "Ork",
+      "defname": "OGO_Apparel_MegaArmour",
+      "price": 6942
+    },
+    {
+      "abr": "mega'elmet",
+      "category": "Ork",
+      "defname": "OGO_Apparel_MegaArmourElmet",
+      "price": 1242
+    },
+    {
+      "abr": "meltabombpack(e)",
+      "category": "Eldar Wargear",
+      "defname": "OGE_GrenadePack_Melta",
+      "price": 2500
+    },
+    {
+      "abr": "meltabombpack(i)",
+      "category": "Imperial Wargear",
+      "defname": "OGI_GrenadePack_Melta",
+      "price": 2500
+    },
+    {
+      "abr": "meltagun(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_MeltaGun",
+      "price": 8358
+    },
+    {
+      "abr": "meltagun(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_MeltaGun",
+      "price": 8358
+    },
+    {
+      "abr": "mesharmour",
+      "category": "Eldar",
+      "defname": "OGE_Apparel_MeshArmour",
+      "price": 2500
+    },
+    {
+      "abr": "mesharmourhelmet",
+      "category": "Eldar",
+      "defname": "OGE_Apparel_MeshArmourHelmet",
+      "price": 833
+    },
+    {
+      "abr": "m-galaxypatternlasgun(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LasGun_Galaxy",
+      "price": 1717
+    },
+    {
+      "abr": "miniautogunturret",
+      "category": "Imperial Defenses",
+      "defname": "ATMiniAutoGunPowered",
+      "price": 500
+    },
+    {
+      "abr": "mirrorsword(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_MirrorswordS",
+      "price": 5833
+    },
+    {
+      "abr": "missilelauncher(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_RocketLaucher",
+      "price": 2875
+    },
+    {
+      "abr": "missilelauncher(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_RocketLaucher",
+      "price": 2875
+    },
+    {
+      "abr": "miststave(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_Miststave",
+      "price": 2917
+    },
+    {
+      "abr": "mitralock(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_Mitralock",
+      "price": 2025
+    },
+    {
+      "abr": "mkivcatachanlascarbine(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LasGun_Catachan",
+      "price": 1517
+    },
+    {
+      "abr": "moodstabiliserelectoo(t2)",
+      "category": "Imperial Augments",
+      "defname": "IG_Aug_MOOD",
+      "price": 3333
+    },
+    {
+      "abr": "mor'tonium",
+      "category": "Manufactured",
+      "defname": "OGT_Mortonium",
+      "price": 4
+    },
+    {
+      "abr": "multilauncher",
+      "category": "Ranged weapons",
+      "defname": "Gun_MultiLauncher",
+      "price": 567
+    },
+    {
+      "abr": "multimelta(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_MultiMelta",
+      "price": 8725
+    },
+    {
+      "abr": "nanomachinery",
+      "category": "Textiles",
+      "defname": "Nanomachinery",
+      "price": 167
+    },
+    {
+      "abr": "neurodisruptor(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_NeuroDisruptor",
+      "price": 7500
+    },
+    {
+      "abr": "neutronblaster(t)",
+      "category": "Ranged weapons",
+      "defname": "OGT_Gun_NeutronBlaster",
+      "price": 6250
+    },
+    {
+      "abr": "nutrientsolution",
+      "category": "Manufactured",
+      "defname": "OG_NutrientSolution",
+      "price": 3
+    },
+    {
+      "abr": "nymuneorgan",
+      "category": "Natural",
+      "defname": "OG_Kroot_NymuneOrgan",
+      "price": 417
+    },
+    {
+      "abr": "occulobe(t3)",
+      "category": "Imperial Augments",
+      "defname": "IG_Aug_OCCU",
+      "price": 5000
+    },
+    {
+      "abr": "officercap",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_OfficerCap",
+      "price": 500
+    },
+    {
+      "abr": "oilysquig",
+      "category": "Animal",
+      "defname": "OG_Squig_Oily",
+      "price": 583
+    },
+    {
+      "abr": "oilysquigmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Squig_Oily",
+      "price": 3
+    },
+    {
+      "abr": "omophagea(t3)",
+      "category": "Imperial Augments",
+      "defname": "IG_Aug_OMOP",
+      "price": 5000
+    },
+    {
+      "abr": "ork",
+      "category": "Animal",
+      "defname": "OG_Alien_Ork",
+      "price": -10
+    },
+    {
+      "abr": "orkcraftingsupplies",
+      "category": "Production",
+      "defname": "OGO_TableMachining",
+      "price": 758
+    },
+    {
+      "abr": "orkjacket",
+      "category": "Ork",
+      "defname": "OGO_Apparel_UniformJacket",
+      "price": 209
+    },
+    {
+      "abr": "orkleather",
+      "category": "Leathers",
+      "defname": "Leather_Ork",
+      "price": 7
+    },
+    {
+      "abr": "orkmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Alien_Ork",
+      "price": 3
+    },
+    {
+      "abr": "orkundershirt",
+      "category": "Ork",
+      "defname": "OGO_Apparel_UniformShirt",
+      "price": 167
+    },
+    {
+      "abr": "orkoidfungus",
+      "category": "Vegetarian",
+      "defname": "OG_Raw_Orkoid_Fungus",
+      "price": 2
+    },
+    {
+      "abr": "ossmodula(t3)",
+      "category": "Imperial Augments",
+      "defname": "IG_Aug_OSSM",
+      "price": 5000
+    },
+    {
+      "abr": "painelectoo(t2)",
+      "category": "Imperial Augments",
+      "defname": "IG_Aug_PAIN",
+      "price": 3333
+    },
+    {
+      "abr": "paradoxpokertable",
+      "category": "Furniture",
+      "defname": "ParadoxPokerGame",
+      "price": 358
+    },
+    {
+      "abr": "particlebeamer(n)",
+      "category": "Necron Ranged Weapons",
+      "defname": "OGN_Gun_ParticleBeamer",
+      "price": 25000
+    },
+    {
+      "abr": "pathfinderarmour",
+      "category": "Tau",
+      "defname": "OGT_Apparel_PathfinderArmour",
+      "price": 2500
+    },
+    {
+      "abr": "pathfinderhelmet",
+      "category": "Tau",
+      "defname": "OGT_Apparel_PathfinderHelmet",
+      "price": 833
+    },
+    {
+      "abr": "phosphorblastpistol(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_PhosphorBlastPistol",
+      "price": 1250
+    },
+    {
+      "abr": "phosphorserpenta(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_PhosphorSerpenta",
+      "price": 1250
+    },
+    {
+      "abr": "photongrenadepack(t)",
+      "category": "Tau Wargear",
+      "defname": "OGT_GrenadePack_Photon",
+      "price": 2500
+    },
+    {
+      "abr": "picomachinery",
+      "category": "Textiles",
+      "defname": "Picomachinery",
+      "price": 333
+    },
+    {
+      "abr": "pilotka",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_ValhallanPilotka",
+      "price": 97
+    },
+    {
+      "abr": "pintle-mountedheavybolter",
+      "category": "Security",
+      "defname": "OGI_Turret_HeavyBolter_Manual",
+      "price": 1083
+    },
+    {
+      "abr": "pintle-mountedstormbolter",
+      "category": "Security",
+      "defname": "OGI_Turret_StormBolter_Manual",
+      "price": 1083
+    },
+    {
+      "abr": "pirateship,bottom",
+      "category": "Ship parts",
+      "defname": "AS_GreyShipChunkBottom",
+      "price": 2500
+    },
+    {
+      "abr": "pirateship,largewingleft",
+      "category": "Ship parts",
+      "defname": "AS_GreyShipChukWingAlternateLeft",
+      "price": 2500
+    },
+    {
+      "abr": "pirateship,largewingright",
+      "category": "Ship parts",
+      "defname": "AS_GreyShipChukWingAlternateRight",
+      "price": 2500
+    },
+    {
+      "abr": "pirateship,sideleft",
+      "category": "Ship parts",
+      "defname": "AS_GreyShipChunkSideLeft",
+      "price": 2500
+    },
+    {
+      "abr": "pirateship,sideright",
+      "category": "Ship parts",
+      "defname": "AS_GreyShipChunkSideRight",
+      "price": 2500
+    },
+    {
+      "abr": "pirateship,top",
+      "category": "Ship parts",
+      "defname": "AS_GreyShipChunkTop",
+      "price": 2500
+    },
+    {
+      "abr": "pirateship,toplarge",
+      "category": "Ship parts",
+      "defname": "AS_GreyShipChunkTopPointy",
+      "price": 2500
+    },
+    {
+      "abr": "pirateship,wingleft",
+      "category": "Ship parts",
+      "defname": "AS_GreyShipChukWingLeft",
+      "price": 2500
+    },
+    {
+      "abr": "pirateship,wingright",
+      "category": "Ship parts",
+      "defname": "AS_GreyShipChukWingRight",
+      "price": 2500
+    },
+    {
+      "abr": "plagueknife",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_PlagueKnife",
+      "price": 208
+    },
+    {
+      "abr": "plasmacaliver(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_PlasmaCaliver",
+      "price": 5417
+    },
+    {
+      "abr": "plasmacannon(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_PlasmaCannon",
+      "price": 9683
+    },
+    {
+      "abr": "plasmacannon(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_PlasmaCannon",
+      "price": 9683
+    },
+    {
+      "abr": "plasmaculverin(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_PlasmaCulverin",
+      "price": 26667
+    },
+    {
+      "abr": "plasmadeffgun(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_DeffgunPlasma",
+      "price": 2775
+    },
+    {
+      "abr": "plasmagrenadepack(e)",
+      "category": "Eldar Wargear",
+      "defname": "OGE_GrenadePack_Plasma",
+      "price": 2500
+    },
+    {
+      "abr": "plasmagun(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_PlasmaGun",
+      "price": 6225
+    },
+    {
+      "abr": "plasmagun(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_PlasmaGun",
+      "price": 6225
+    },
+    {
+      "abr": "plasmapistol(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_PlasmaPistol",
+      "price": 3883
+    },
+    {
+      "abr": "plasmapistol(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_PlasmaPistol",
+      "price": 3883
+    },
+    {
+      "abr": "powaklaw(o)",
+      "category": "Ork Melee Weapons",
+      "defname": "OGO_Melee_PowerKlaw",
+      "price": 2917
+    },
+    {
+      "abr": "poweraxe(c)",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_PowerAxe",
+      "price": 3392
+    },
+    {
+      "abr": "poweraxe(i)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_PowerAxe",
+      "price": 3450
+    },
+    {
+      "abr": "powerfist(c)",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_PowerFist",
+      "price": 6967
+    },
+    {
+      "abr": "powerfist(i)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_PowerFistS",
+      "price": 2917
+    },
+    {
+      "abr": "powermaul(c)",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_PowerMaul",
+      "price": 6633
+    },
+    {
+      "abr": "powermaul(i)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_PowerMaul",
+      "price": 1083
+    },
+    {
+      "abr": "powersword(c)",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_PowerSword",
+      "price": 3117
+    },
+    {
+      "abr": "powersword(de)",
+      "category": "Dark Eldar Melee Weapons",
+      "defname": "OGDE_Melee_PowerSword",
+      "price": 5833
+    },
+    {
+      "abr": "powersword(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_PowerSword",
+      "price": 5833
+    },
+    {
+      "abr": "powersword(i)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_PowerSword",
+      "price": 833
+    },
+    {
+      "abr": "powersword(k)",
+      "category": "Kroot Melee Weapons",
+      "defname": "OGK_Melee_PowerSword",
+      "price": 1092
+    },
+    {
+      "abr": "prismrifle(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_PrismRifle",
+      "price": 14167
+    },
+    {
+      "abr": "promethium",
+      "category": "Imperial Raw Resources",
+      "defname": "Promethium",
+      "price": -10
+    },
+    {
+      "abr": "proteinmash",
+      "category": "Manufactured",
+      "defname": "OG_ProteinMash",
+      "price": 3
+    },
+    {
+      "abr": "psychiccircuitry",
+      "category": "Manufactured",
+      "defname": "OGE_Component",
+      "price": 160
+    },
+    {
+      "abr": "pulseblaster(t)",
+      "category": "Ranged weapons",
+      "defname": "OGT_Gun_PulseBlaster",
+      "price": 2500
+    },
+    {
+      "abr": "pulsecarbine(t)",
+      "category": "Ranged weapons",
+      "defname": "OGT_Gun_PulseCarbine",
+      "price": 2917
+    },
+    {
+      "abr": "pulsepistol(t)",
+      "category": "Ranged weapons",
+      "defname": "OGT_Gun_PulsePistol",
+      "price": 833
+    },
+    {
+      "abr": "pulserifle(t)",
+      "category": "Ranged weapons",
+      "defname": "OGT_Gun_PulseRifle",
+      "price": 3333
+    },
+    {
+      "abr": "purityseal",
+      "category": "Imperial Wargear",
+      "defname": "OGI_Apparel_PuritySealA_TOGGLEDEF_S",
+      "price": 2500
+    },
+    {
+      "abr": "purityseal(wargearslot1)",
+      "category": "Imperial Wargear",
+      "defname": "OGI_Apparel_PuritySealA_TOGGLEDEF_1S",
+      "price": 2500
+    },
+    {
+      "abr": "purityseal(wargearslot2)",
+      "category": "Imperial Wargear",
+      "defname": "OGI_Apparel_PuritySealA_TOGGLEDEF_2S",
+      "price": 2500
+    },
+    {
+      "abr": "purityseal(wargearslot3)",
+      "category": "Imperial Wargear",
+      "defname": "OGI_Apparel_PuritySealA_TOGGLEDEF_3S",
+      "price": 2500
+    },
+    {
+      "abr": "quick-rechargeshieldbelt",
+      "category": "Apparel",
+      "defname": "Apparel_QRShieldBelt",
+      "price": 900
+    },
+    {
+      "abr": "radiumcarbine(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_RadiumCarbine",
+      "price": 6667
+    },
+    {
+      "abr": "radiumjezzail(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_RadiumJezzail",
+      "price": 8333
+    },
+    {
+      "abr": "radiumpistol(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_RadiumPistol",
+      "price": 2917
+    },
+    {
+      "abr": "railrifle(t)",
+      "category": "Ranged weapons",
+      "defname": "OGT_Gun_RailRifle",
+      "price": 8333
+    },
+    {
+      "abr": "rangedshieldbelt",
+      "category": "Apparel",
+      "defname": "Apparel_RangedShieldBelt",
+      "price": 2283
+    },
+    {
+      "abr": "rangedweaponneuralaugment(t2)",
+      "category": "Imperial Augments",
+      "defname": "IG_Aug_RWNA",
+      "price": 3333
+    },
+    {
+      "abr": "rangerarmour",
+      "category": "Eldar",
+      "defname": "OGE_Apparel_RangerArmour",
+      "price": 2500
+    },
+    {
+      "abr": "rangerhelmet",
+      "category": "Eldar",
+      "defname": "OGE_Apparel_RangerArmourHelmet",
+      "price": 833
+    },
+    {
+      "abr": "reaperautocannon(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_RAutocannon",
+      "price": 558
+    },
+    {
+      "abr": "reaperlauncher(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_ReaperLauncher",
+      "price": 9583
+    },
+    {
+      "abr": "recurvebow(k)",
+      "category": "Ranged weapons",
+      "defname": "OGK_Bow_Recurve",
+      "price": 110
+    },
+    {
+      "abr": "refinedadamantium",
+      "category": "Imperial Manufactured Resources",
+      "defname": "RefinedAdamantium",
+      "price": 583
+    },
+    {
+      "abr": "refinedceramite",
+      "category": "Imperial Manufactured Resources",
+      "defname": "RefinedCeramite",
+      "price": 333
+    },
+    {
+      "abr": "refinedkalma",
+      "category": "Imperial Manufactured Resources",
+      "defname": "IG_RefinedKalma",
+      "price": 33
+    },
+    {
+      "abr": "respiratoryaugmetic(t2)",
+      "category": "Imperial Augments",
+      "defname": "IG_Aug_RESPI",
+      "price": 3333
+    },
+    {
+      "abr": "rippergun(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_OgrynRipperGun",
+      "price": 1808
+    },
+    {
+      "abr": "riteofpurethought(t3)",
+      "category": "Imperial Augments",
+      "defname": "IG_Aug_RoPT",
+      "price": 5000
+    },
+    {
+      "abr": "rokkitlauncha(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_RokkitLaucha",
+      "price": 2117
+    },
+    {
+      "abr": "rosarius",
+      "category": "Imperial Wargear",
+      "defname": "OGI_Wargear_Rosarius",
+      "price": 56667
+    },
+    {
+      "abr": "runeoffortune",
+      "category": "Eldar",
+      "defname": "OGE_Apparel_RuneFortune",
+      "price": 2500
+    },
+    {
+      "abr": "runeofwarding",
+      "category": "Eldar",
+      "defname": "OGE_Apparel_RuneWarding",
+      "price": 23333
+    },
+    {
+      "abr": "runeofwrath",
+      "category": "Eldar",
+      "defname": "OGE_Apparel_RuneWrath",
+      "price": 833
+    },
+    {
+      "abr": "scorcha(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_Scorcha",
+      "price": 1633
+    },
+    {
+      "abr": "scorpionchainsword(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_ScorpionChainsword",
+      "price": 2500
+    },
+    {
+      "abr": "scorpion'sclaw(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_ScorpionsClaw",
+      "price": 2917
+    },
+    {
+      "abr": "secondaryheart(t3)",
+      "category": "Imperial Augments",
+      "defname": "IG_Aug_SECHRT",
+      "price": 5000
+    },
+    {
+      "abr": "shadowweaver",
+      "category": "Security",
+      "defname": "OGE_Turret_ShadowWeaver_Manual",
+      "price": 1058
+    },
+    {
+      "abr": "shamanstaff(k)",
+      "category": "Kroot Melee Weapons",
+      "defname": "OGK_Melee_ShamanStaff",
+      "price": 3367
+    },
+    {
+      "abr": "shardcarbine(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_Shardcarbine",
+      "price": 3083
+    },
+    {
+      "abr": "shoota(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_Shoota",
+      "price": 625
+    },
+    {
+      "abr": "shredder(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_Shredder",
+      "price": 3750
+    },
+    {
+      "abr": "shurikencannon(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_ShurikenCannon",
+      "price": 3083
+    },
+    {
+      "abr": "shurikencatapult(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_ShurikenCatapult",
+      "price": 2083
+    },
+    {
+      "abr": "shurikenpistol(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_ShurikenPistol",
+      "price": 833
+    },
+    {
+      "abr": "singingspear(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_SingingSpear",
+      "price": 6250
+    },
+    {
+      "abr": "skitariilegionnairearmour",
+      "category": "Adeptus Mechanicus",
+      "defname": "OGAM_Apparel_SkitariiLegionnaireArmour",
+      "price": 3975
+    },
+    {
+      "abr": "skitariilegionnairehelmet",
+      "category": "Adeptus Mechanicus",
+      "defname": "OGAM_Apparel_SkitariiLegionnaireHelmet_TOGGLEDEF_Unhooded",
+      "price": 1492
+    },
+    {
+      "abr": "skitariilegionnairehelmet(hooded)",
+      "category": "Adeptus Mechanicus",
+      "defname": "OGAM_Apparel_SkitariiLegionnaireHelmet_TOGGLEDEF_Hooded",
+      "price": 1492
+    },
+    {
+      "abr": "skitariiprimushelmet",
+      "category": "Adeptus Mechanicus",
+      "defname": "OGAM_Apparel_SkitariiPrimusHelmet_TOGGLEDEF_Unhooded",
+      "price": 833
+    },
+    {
+      "abr": "skitariiprimushelmet(hooded)",
+      "category": "Adeptus Mechanicus",
+      "defname": "OGAM_Apparel_SkitariiPrimusHelmet_TOGGLEDEF_Hooded",
+      "price": 833
+    },
+    {
+      "abr": "slavacowl",
+      "category": "Ork",
+      "defname": "OGO_Apparel_SlavaCowl",
+      "price": 500
+    },
+    {
+      "abr": "slugga(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_Slugga",
+      "price": 278
+    },
+    {
+      "abr": "smallcapturedasteroid,bottom",
+      "category": "Ship parts",
+      "defname": "AS_AsteroidChunkDown",
+      "price": 2500
+    },
+    {
+      "abr": "smallcapturedasteroid,left",
+      "category": "Ship parts",
+      "defname": "AS_AsteroidChunkLeft",
+      "price": 2500
+    },
+    {
+      "abr": "smallcapturedasteroid,right",
+      "category": "Ship parts",
+      "defname": "AS_AsteroidChunkReactor",
+      "price": 2500
+    },
+    {
+      "abr": "smallcapturedasteroid,top",
+      "category": "Ship parts",
+      "defname": "AS_AsteroidChunkTop",
+      "price": 2500
+    },
+    {
+      "abr": "smallsculpture",
+      "category": "Art",
+      "defname": "OG_Ork_SculptureSmall",
+      "price": 275
+    },
+    {
+      "abr": "snazzgun(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_Snazzgun",
+      "price": 1708
+    },
+    {
+      "abr": "snotling",
+      "category": "Animal",
+      "defname": "OG_Snotling",
+      "price": 750
+    },
+    {
+      "abr": "snotlingleather",
+      "category": "Leathers",
+      "defname": "Leather_Snotling",
+      "price": 3
+    },
+    {
+      "abr": "snotlingmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Snotling",
+      "price": 3
+    },
+    {
+      "abr": "sonicblaster(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_SonicBlaster",
+      "price": 500
+    },
+    {
+      "abr": "sorcerersstaff",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_SorcerersStaff",
+      "price": 9133
+    },
+    {
+      "abr": "sororitaspowerarmour",
+      "category": "Imperial",
+      "defname": "OGAS_Apparel_PowerArmour",
+      "price": 2500
+    },
+    {
+      "abr": "speckledbloodshade",
+      "category": "Medicine",
+      "defname": "OG_Orkoid_MedicineFungal",
+      "price": 12
+    },
+    {
+      "abr": "spiritstones",
+      "category": "Manufactured",
+      "defname": "OGE_SpiritStone",
+      "price": 4
+    },
+    {
+      "abr": "splintercannon(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_SplinterCannon",
+      "price": 3083
+    },
+    {
+      "abr": "splinterpistol(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_SplinterPistol",
+      "price": 1750
+    },
+    {
+      "abr": "splinterrifle(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_SplinterRifle",
+      "price": 3083
+    },
+    {
+      "abr": "squig",
+      "category": "Animal",
+      "defname": "OG_Squig",
+      "price": 500
+    },
+    {
+      "abr": "squig",
+      "category": "Animal",
+      "defname": "OG_Squig_Ork",
+      "price": 500
+    },
+    {
+      "abr": "squigleather",
+      "category": "Leathers",
+      "defname": "Leather_Squig",
+      "price": 4
+    },
+    {
+      "abr": "squigmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Squig",
+      "price": 3
+    },
+    {
+      "abr": "staffoflight(n)",
+      "category": "Necron Melee Weapons",
+      "defname": "OGN_Gun_StaffOfLight",
+      "price": 62500
+    },
+    {
+      "abr": "stalkerpatternbolter(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_StalkerBolter",
+      "price": 3158
+    },
+    {
+      "abr": "starcannon(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_Starcannon",
+      "price": 9583
+    },
+    {
+      "abr": "stcdatacore",
+      "category": "Items",
+      "defname": "OGI_STC_Datacore",
+      "price": 1667
+    },
+    {
+      "abr": "stingerpistol(de)",
+      "category": "Ranged weapons",
+      "defname": "OGDE_Gun_StingerPistol",
+      "price": 1750
+    },
+    {
+      "abr": "stolengene-seed",
+      "category": "Imperial Augments",
+      "defname": "IG_Aug_GENE",
+      "price": 12500
+    },
+    {
+      "abr": "stormbolter(c)",
+      "category": "Ranged weapons",
+      "defname": "OGC_Gun_StormBolter",
+      "price": 3358
+    },
+    {
+      "abr": "stormbolter(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_StormBolter",
+      "price": 3358
+    },
+    {
+      "abr": "stormshield",
+      "category": "Imperial Wargear",
+      "defname": "OGI_Wargear_StormShield",
+      "price": 23333
+    },
+    {
+      "abr": "strikingscorpionarmour",
+      "category": "Eldar",
+      "defname": "OGE_Apparel_StrikingScorpionArmour",
+      "price": 2500
+    },
+    {
+      "abr": "stubcarbine(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_StubCarbine",
+      "price": 4167
+    },
+    {
+      "abr": "studdedarma",
+      "category": "Ork",
+      "defname": "OGO_Apparel_LevaArmour",
+      "price": 1833
+    },
+    {
+      "abr": "studdedelmet",
+      "category": "Ork",
+      "defname": "OGO_Apparel_LevaElmet",
+      "price": 1833
+    },
+    {
+      "abr": "synapticdisintergrator(n)",
+      "category": "Necron Ranged Weapons",
+      "defname": "OGN_Gun_SynapticDisintergrator",
+      "price": 25000
+    },
+    {
+      "abr": "synthskinarmoraugment(t2)",
+      "category": "Imperial Augments",
+      "defname": "IG_Aug_SSAA",
+      "price": 3333
+    },
+    {
+      "abr": "tankbustabombz(o)",
+      "category": "Ork Wargear",
+      "defname": "OGO_GrenadePack_Melta",
+      "price": 2500
+    },
+    {
+      "abr": "tarantulatwinbolter",
+      "category": "Imperial Defenses",
+      "defname": "ATDualHeavyBolter",
+      "price": 12392
+    },
+    {
+      "abr": "tarantulatwinlascannon",
+      "category": "Imperial Defenses",
+      "defname": "ATDualLasCannon",
+      "price": 12392
+    },
+    {
+      "abr": "tasergoad(am)",
+      "category": "Mechanicus Melee Weapons",
+      "defname": "OGAM_Melee_TaserGoad",
+      "price": 7967
+    },
+    {
+      "abr": "tau",
+      "category": "Animal",
+      "defname": "OG_Alien_Tau",
+      "price": -10
+    },
+    {
+      "abr": "taucombatarmour",
+      "category": "Tau",
+      "defname": "OGT_Apparel_CombatArmour",
+      "price": 2500
+    },
+    {
+      "abr": "taucombathelmet",
+      "category": "Tau",
+      "defname": "OGT_Apparel_CombatHelmet",
+      "price": 833
+    },
+    {
+      "abr": "taucraftingsupplies",
+      "category": "Production",
+      "defname": "OGT_TableMachining",
+      "price": 758
+    },
+    {
+      "abr": "tauleather",
+      "category": "Leathers",
+      "defname": "Leather_Tau",
+      "price": 7
+    },
+    {
+      "abr": "taumeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Alien_Tau",
+      "price": 3
+    },
+    {
+      "abr": "taushielddrone",
+      "category": "Tau Wargear",
+      "defname": "OGT_Wargear_ShieldDrone",
+      "price": 56667
+    },
+    {
+      "abr": "tauxv25battlesuit",
+      "category": "Tau",
+      "defname": "OGT_Apparel_XV25Battlesuit",
+      "price": 2500
+    },
+    {
+      "abr": "techprint(callidustemple)",
+      "category": "Techprints",
+      "defname": "Techprint_OG_Assassinorum_Tech_Weapons_Callidus",
+      "price": 1667
+    },
+    {
+      "abr": "techprint(culexustemple)",
+      "category": "Techprints",
+      "defname": "Techprint_OG_Assassinorum_Tech_Weapons_Culexus",
+      "price": 1667
+    },
+    {
+      "abr": "techprint(eversortemple)",
+      "category": "Techprints",
+      "defname": "Techprint_OG_Assassinorum_Tech_Weapons_Eversor",
+      "price": 1667
+    },
+    {
+      "abr": "techprint(vindicaretemple)",
+      "category": "Techprints",
+      "defname": "Techprint_OG_Assassinorum_Tech_Weapons_Vindicare",
+      "price": 1667
+    },
+    {
+      "abr": "techprint(volkitetech)",
+      "category": "Techprints",
+      "defname": "Techprint_OG_Mechanicus_Tech_Weapons_Volkite",
+      "price": 1667
+    },
+    {
+      "abr": "tempestusscioncarapacearmor",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_TempestusScion_CarapaceArmour",
+      "price": 833
+    },
+    {
+      "abr": "tempestusscionomnishieldhelmet",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_TempestusScion_CarapaceHelmet",
+      "price": 500
+    },
+    {
+      "abr": "teslacarbine(n)",
+      "category": "Necron Ranged Weapons",
+      "defname": "OGN_Gun_TeslaCarbine",
+      "price": 25000
+    },
+    {
+      "abr": "thunderhammer(c)",
+      "category": "Chaos Melee Weapons",
+      "defname": "OGC_Melee_ThunderHammer",
+      "price": 8967
+    },
+    {
+      "abr": "thunderhammer(i)",
+      "category": "Imperial Melee Weapons",
+      "defname": "OGI_Melee_ThunderHammer",
+      "price": 9025
+    },
+    {
+      "abr": "toolcabinet(shelf)",
+      "category": "Misc",
+      "defname": "ToolCabinetShelf",
+      "price": 642
+    },
+    {
+      "abr": "tradeship,bottom",
+      "category": "Ship parts",
+      "defname": "AS_OrangeShipBottom",
+      "price": 2500
+    },
+    {
+      "abr": "tradeship,bottomalternate",
+      "category": "Ship parts",
+      "defname": "AS_OrangeShipBottomAlternate",
+      "price": 2500
+    },
+    {
+      "abr": "tradeship,sideleft",
+      "category": "Ship parts",
+      "defname": "AS_OrangeShipLeft",
+      "price": 2500
+    },
+    {
+      "abr": "tradeship,sideright",
+      "category": "Ship parts",
+      "defname": "AS_OrangeShipRight",
+      "price": 2500
+    },
+    {
+      "abr": "tradeship,tanksleft",
+      "category": "Ship parts",
+      "defname": "AS_OrangeShipTanksLeft",
+      "price": 2500
+    },
+    {
+      "abr": "tradeship,tanksright",
+      "category": "Ship parts",
+      "defname": "AS_OrangeShipTanksRight",
+      "price": 2500
+    },
+    {
+      "abr": "tradeship,top",
+      "category": "Ship parts",
+      "defname": "AS_OrangeShipTop",
+      "price": 2500
+    },
+    {
+      "abr": "transonicblade(am)",
+      "category": "Mechanicus Melee Weapons",
+      "defname": "OGAM_Melee_TransonicBlade",
+      "price": 3117
+    },
+    {
+      "abr": "transonicrazor(am)",
+      "category": "Mechanicus Melee Weapons",
+      "defname": "OGAM_Melee_TransonicRazor",
+      "price": 2750
+    },
+    {
+      "abr": "transuranicarquebus(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_TransuranicArquebus",
+      "price": 12083
+    },
+    {
+      "abr": "tribalcloak",
+      "category": "Apparel",
+      "defname": "OG_Apparel_Tribal_Cloak",
+      "price": 211
+    },
+    {
+      "abr": "triplexpatternlasrifle(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LasGun_Triplex",
+      "price": 2000
+    },
+    {
+      "abr": "twin-linkedgaussblaster(n)",
+      "category": "Necron Ranged Weapons",
+      "defname": "OGN_Gun_GaussBlasterTwinLinked",
+      "price": 25000
+    },
+    {
+      "abr": "twin-linkedpulsecarbine",
+      "category": "Ranged weapons",
+      "defname": "OGT_Gun_PulseCarbineTwinLinked",
+      "price": 16650
+    },
+    {
+      "abr": "twin-linkedshoota(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_TwinLinkedShoota",
+      "price": 1033
+    },
+    {
+      "abr": "twin-linkedteslacarbine(n)",
+      "category": "Necron Ranged Weapons",
+      "defname": "OGN_Gun_TeslaCarbineTwinLinked",
+      "price": 25000
+    },
+    {
+      "abr": "tyranidstew",
+      "category": "Meals",
+      "defname": "TyranidStew",
+      "price": 67
+    },
+    {
+      "abr": "ultramarineastartearmor",
+      "category": "Imperial Armor",
+      "defname": "IG_ARM_UM_PwrAstarte",
+      "price": 3333
+    },
+    {
+      "abr": "ultramarineastartehelmet",
+      "category": "Imperial Headgear",
+      "defname": "IG_HELM_UM_PwrAstarte",
+      "price": 1667
+    },
+    {
+      "abr": "ultramarineterminatorarmor",
+      "category": "Imperial Armor",
+      "defname": "IG_ARM_UM_Terminator",
+      "price": 4167
+    },
+    {
+      "abr": "ultramarineterminatorhelmet",
+      "category": "Imperial Headgear",
+      "defname": "IG_HELM_UM_Terminator",
+      "price": 2083
+    },
+    {
+      "abr": "umbrapatternbolter(t2)(i)",
+      "category": "Imperial Ranged Weapons",
+      "defname": "OGI_Gun_T2BoltGun",
+      "price": 5000
+    },
+    {
+      "abr": "ushanka",
+      "category": "Imperial",
+      "defname": "OGIG_Apparel_ValhallanUshanhka",
+      "price": 147
+    },
+    {
+      "abr": "vanaheimshotgun(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_Vanaheim",
+      "price": 1008
+    },
+    {
+      "abr": "vanometricfoodprocessor",
+      "category": "Special",
+      "defname": "AS_VanometricFoodProcessor",
+      "price": 2500
+    },
+    {
+      "abr": "vanometricheatsink",
+      "category": "Misc",
+      "defname": "AS_ArchotechHeatsink",
+      "price": 1483
+    },
+    {
+      "abr": "venomblade(de)",
+      "category": "Dark Eldar Melee Weapons",
+      "defname": "OGDE_Melee_VenomBlade",
+      "price": 5833
+    },
+    {
+      "abr": "vespid",
+      "category": "Animal",
+      "defname": "OG_Alien_Vespid",
+      "price": -10
+    },
+    {
+      "abr": "vespidcombathelmet",
+      "category": "Tau",
+      "defname": "OGV_Apparel_VespidHelmet",
+      "price": 833
+    },
+    {
+      "abr": "vespidmeat",
+      "category": "Meat",
+      "defname": "Meat_OG_Alien_Vespid",
+      "price": 3
+    },
+    {
+      "abr": "vocalaugmetic(t2)",
+      "category": "Imperial Augments",
+      "defname": "IG_Aug_VOCA",
+      "price": 3333
+    },
+    {
+      "abr": "voidshieldgeneratorgroundfire",
+      "category": "Security",
+      "defname": "IG_VoidShieldGenerator_GRN",
+      "price": 1667
+    },
+    {
+      "abr": "voidshieldgeneratormortars",
+      "category": "Security",
+      "defname": "IG_VoidShieldGenerator_AIR",
+      "price": 1667
+    },
+    {
+      "abr": "volkitecaliver(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_VolkiteCaliver",
+      "price": 14167
+    },
+    {
+      "abr": "volkitecharger(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_VolkiteCharger",
+      "price": 6667
+    },
+    {
+      "abr": "volkiteserpenta(am)",
+      "category": "Ranged weapons",
+      "defname": "OGAM_Gun_VolkiteSerpenta",
+      "price": 1250
+    },
+    {
+      "abr": "vosspatternlascarbine(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LasGun_Voss",
+      "price": 1383
+    },
+    {
+      "abr": "vostroyapatternlasgun(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_LasGun_Vostroya",
+      "price": 1800
+    },
+    {
+      "abr": "waaagh!banner",
+      "category": "Furniture",
+      "defname": "OG_Ork_HighBannerAA",
+      "price": 215
+    },
+    {
+      "abr": "warlockhelmet",
+      "category": "Eldar",
+      "defname": "OGE_Apparel_WarlockHelmet",
+      "price": 833
+    },
+    {
+      "abr": "warlockrunearmour",
+      "category": "Eldar",
+      "defname": "OGE_Apparel_RuneArmourWarlock",
+      "price": 2500
+    },
+    {
+      "abr": "warptaintedmachiningtable",
+      "category": "Production",
+      "defname": "OGC_TableMachining",
+      "price": 758
+    },
+    {
+      "abr": "warscythe(n)",
+      "category": "Necron Melee Weapons",
+      "defname": "OGN_Melee_WarScythe",
+      "price": 23750
+    },
+    {
+      "abr": "webber",
+      "category": "Imperial Ranged Weapons",
+      "defname": "Gun_Webber",
+      "price": 1250
+    },
+    {
+      "abr": "webber(i)",
+      "category": "Ranged weapons",
+      "defname": "OGI_Gun_Webber",
+      "price": 1008
+    },
+    {
+      "abr": "weirdboystaff(o)",
+      "category": "Ork Melee Weapons",
+      "defname": "OGO_Melee_WeirdboyStaff",
+      "price": 2917
+    },
+    {
+      "abr": "witchblade(e)",
+      "category": "Eldar Melee Weapons",
+      "defname": "OGE_Melee_Witchblade",
+      "price": 5833
+    },
+    {
+      "abr": "wraithbone",
+      "category": "Manufactured",
+      "defname": "OGE_Wraithbone",
+      "price": 10
+    },
+    {
+      "abr": "wraithcannon(e)",
+      "category": "Ranged weapons",
+      "defname": "OGE_Gun_Wraithcannon",
+      "price": 10833
+    },
+    {
+      "abr": "wytchknife(de)",
+      "category": "Dark Eldar Melee Weapons",
+      "defname": "OGDE_Melee_WytchKnife",
+      "price": 111
+    },
+    {
+      "abr": "zappkannon(o)",
+      "category": "Ranged weapons",
+      "defname": "OGO_Gun_ZappKannon",
+      "price": 2208
+    },
+    {
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "BedGuest",
@@ -18535,167 +22153,17 @@
       "price": 1483
     },
     {
-      "abr": "advancedarchotecharm",
-      "category": "Archotech",
-      "defname": "AdvancedArchotechArm",
-      "price": 33333
+      "abr": "guestimperialdoublebed",
+      "category": "Furniture",
+      "defname": "ImpDoubleBedGuest",
+      "price": 508
     },
     {
-      "abr": "advancedarchotechleg",
-      "category": "Archotech",
-      "defname": "AdvancedArchotechLeg",
-      "price": 33333
-    },
-    {
-      "abr": "archotechbrainmelder",
-      "category": "Archotech",
-      "defname": "ArchotechBrainMelder",
-      "price": 33333
-    },
-    {
-      "abr": "archotechdeathclaw",
-      "category": "Archotech",
-      "defname": "ArchotechDeathClaw",
-      "price": 33333
-    },
-    {
-      "abr": "archotechdenture",
-      "category": "Prosthetic",
-      "defname": "ArchotechDenture",
-      "price": 4667
-    },
-    {
-      "abr": "archotechear",
-      "category": "Prosthetic",
-      "defname": "ArchotechEar",
-      "price": 4667
-    },
-    {
-      "abr": "archotechheart",
-      "category": "Prosthetic",
-      "defname": "ArchotechHeart",
-      "price": 4667
-    },
-    {
-      "abr": "archotechkidney",
-      "category": "Prosthetic",
-      "defname": "ArchotechKidney",
-      "price": 4667
-    },
-    {
-      "abr": "archotechliver",
-      "category": "Prosthetic",
-      "defname": "ArchotechLiver",
-      "price": 4667
-    },
-    {
-      "abr": "archotechlung",
-      "category": "Prosthetic",
-      "defname": "ArchotechLung",
-      "price": 4667
-    },
-    {
-      "abr": "archotechmembrane",
-      "category": "Archotech",
-      "defname": "ArchotechMembrane",
-      "price": 33333
-    },
-    {
-      "abr": "archotechobliterator",
-      "category": "Archotech",
-      "defname": "ArchotechObliterator",
-      "price": 33333
-    },
-    {
-      "abr": "archotechpelvis",
-      "category": "Prosthetic",
-      "defname": "ArchotechPelvis",
-      "price": 4667
-    },
-    {
-      "abr": "archotechspine",
-      "category": "Prosthetic",
-      "defname": "ArchotechSpine",
-      "price": 4667
-    },
-    {
-      "abr": "archotechstomach",
-      "category": "Prosthetic",
-      "defname": "ArchotechStomach",
-      "price": 4667
-    },
-    {
-      "abr": "astartecustodes",
-      "category": "Animal",
-      "defname": "AdaptusCustodes",
-      "price": 84583
-    },
-    {
-      "abr": "astartecustodesmeat",
-      "category": "Meat",
-      "defname": "Meat_AdaptusCustodes",
-      "price": 1
-    },
-    {
-      "abr": "astartespacemarine",
-      "category": "Animal",
-      "defname": "AstarteSpaceMarine",
-      "price": -10
-    },
-    {
-      "abr": "astartespacemarinemeat",
-      "category": "Meat",
-      "defname": "Meat_AstarteSpaceMarine",
-      "price": 1
-    },
-    {
-      "abr": "astarteadaptuscore",
-      "category": "Animal",
-      "defname": "AstarteAdaptusCore",
-      "price": 2917
-    },
-    {
-      "abr": "astarteadaptuscoremeat",
-      "category": "Meat",
-      "defname": "Meat_AstarteAdaptusCore",
-      "price": 1
-    },
-    {
-      "abr": "attomachinery",
-      "category": "Textiles",
-      "defname": "Attomachinery",
-      "price": 500
-    },
-    {
-      "abr": "basicarchotechworkbench",
-      "category": "Production",
-      "defname": "BasicArchotechWorkbench",
-      "price": 2617
-    },
-    {
-      "abr": "geneseed",
-      "category": "Drugs",
-      "defname": "GeneSeed",
-      "price": 333
-    },
-    {
-      "abr": "geneseed(custodes)",
-      "category": "Drugs",
-      "defname": "GeneSeedCustodes",
-      "price": 20000
-    },
-    {
-      "abr": "nanomachinery",
-      "category": "Textiles",
-      "defname": "Nanomachinery",
-      "price": 167
-    },
-    {
-      "abr": "picomachinery",
-      "category": "Textiles",
-      "defname": "Picomachinery",
-      "price": 333
+      "abr": "guestimperialhospitalbed",
+      "category": "Furniture",
+      "defname": "ImpHospitalBedGuest",
+      "price": 2450
     }
   ],
-  "total": 3116
+  "total": 3694
 }
