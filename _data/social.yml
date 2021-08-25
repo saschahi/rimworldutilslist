@@ -1,6 +1,6 @@
 # Icons on the footer
 rss: false
-email_address: 
+email_address:
 behance:
 bitbucket:
 dribbble:
@@ -22,7 +22,8 @@ twitter:
 vimeo:
 wordpress:
 youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: saschahi
+twitch: sirrandoo
+tiktok:
 
 # Share button options
 share:
