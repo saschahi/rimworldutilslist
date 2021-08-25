@@ -41,11 +41,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "snowhard",
-		"price": 450,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "fog",
 		"price": 300,
 		"karmatype": "Neutral"
@@ -83,11 +78,6 @@
 	{
 		"abr": "resourcepodcrash",
 		"price": 300,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "transportpodcrash",
-		"price": 600,
 		"karmatype": "Good"
 	},
 	{
@@ -314,7 +304,52 @@
 		"abr": "backpack",
 		"price": 1,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "settraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "use",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "wear",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "equip",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomchildhood",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomadulthood",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "smite",
+		"price": 2500,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "sanctuary",
+		"price": 100000,
+		"karmatype": "Good"
 	}
 	],
-	"total": 63
+	"total": 70
 }
