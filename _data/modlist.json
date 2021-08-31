@@ -6,10 +6,22 @@
     "version": "1.1.1.0"
   },
   {
+    "author": "Samboy063",
+    "name": "BetterLoading",
+    "steamId": "1999454301",
+    "version": "3.2.0.1"
+  },
+  {
     "author": "aRandomKiwi",
     "name": "RimThemes",
     "steamId": "1668983184",
     "version": "2021.0.1.6"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Startup impact",
+    "steamId": "1684944322",
+    "version": "1.1.7867.20184"
   },
   {
     "author": "UnlimitedHugs",
@@ -33,13 +45,25 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.1.4.3"
+    "version": "6.1.3.4"
   },
   {
     "author": "jecrell and contributors",
     "name": "JecsTools",
     "steamId": "932008009",
     "version": "1.3.0.4"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.0.3"
+  },
+  {
+    "author": "Kure",
+    "name": "Kure's Rimworld of Magic Class Expansion Pack",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "YAYO",
@@ -58,12 +82,6 @@
     "name": "EdB Prepare Carefully",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "AUTOMATIC",
-    "name": "Startup impact",
-    "steamId": "1684944322",
-    "version": "1.1.7867.20184"
   },
   {
     "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
@@ -130,12 +148,6 @@
     "name": "Astra Militarum Imperial Guard Core Mod v2.21",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Dual Wield",
-    "steamId": "1628211313",
-    "version": "0.5.0.0"
   },
   {
     "author": "Ogliss",
@@ -513,7 +525,7 @@
     "author": "Dubwise",
     "name": "Dub's Paint Shop",
     "steamId": "1579516669",
-    "version": "1.1.562"
+    "version": "1.1.569"
   },
   {
     "author": "Dubwise",
@@ -591,7 +603,7 @@
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
     "name": "[KV] Faction Control",
     "steamId": "1509102551",
-    "version": "1.0.7891.19201"
+    "version": "1.0.7911.25270"
   },
   {
     "author": "Kosaro",
@@ -686,8 +698,8 @@
   {
     "author": "Roolo and Updated by Ogliss",
     "name": "What the hack?!",
-    "steamId": null,
-    "version": null
+    "steamId": "1505914869",
+    "version": "0.5.0.0"
   },
   {
     "author": "Roolo",
@@ -948,12 +960,6 @@
     "version": "0.1.4.01"
   },
   {
-    "author": "Rah",
-    "name": "More Vanilla Turrets - Rebalanced",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Paradox",
     "name": "More Vanilla Turrets 1.1+",
     "steamId": null,
@@ -1014,10 +1020,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Fluffy and  TedDraws",
-    "name": "Pharmacist (Forked)",
-    "steamId": "2558369439",
-    "version": "3.0"
+    "author": "Fluffy",
+    "name": "Pharmacist",
+    "steamId": "1365242717",
+    "version": "2.9.140"
   },
   {
     "author": "Kiame Vivacity",
@@ -1135,21 +1141,15 @@
   },
   {
     "author": "Dubwise",
-    "name": "Rimatomics",
+    "name": "Dubs Rimatomics",
     "steamId": "1127530465",
-    "version": "1.7.2439"
+    "version": "1.7.2442"
   },
   {
     "author": "Cabbage",
     "name": "RimCities",
     "steamId": "1775170117",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Rimefeller",
-    "steamId": "1321849735",
-    "version": "1.2.1128"
   },
   {
     "author": "Jaxe",
@@ -1338,6 +1338,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.3.0"
+  },
+  {
     "author": "Grimm",
     "name": "Un-Limited",
     "steamId": null,
@@ -1491,7 +1497,7 @@
     "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder and  Taranchuk",
     "name": "Vanilla Factions Expanded - Mechanoids",
     "steamId": "2329011599",
-    "version": "1.0.1.1"
+    "version": "1.0.1.2"
   },
   {
     "author": "Oskar Potocki and  XeoNovaDan",
@@ -1682,6 +1688,42 @@
   {
     "author": "Sergkart",
     "name": "Immersive Technology Tree (BTTP)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oblitus",
+    "name": "Animals Logic",
+    "steamId": "1098354593",
+    "version": "1.0.7856.17248"
+  },
+  {
+    "author": "saschahi",
+    "name": "ToolkitAddon - [SR]Raid Extension",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "saschahi",
+    "name": "ToolkitAddon - [SR]Faction Wars",
+    "steamId": "2586711059",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Shadowrabbit",
+    "name": "[SR]Raid Extension",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Shadowrabbit",
+    "name": "[SR]Factional War",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy",
     "steamId": null,
     "version": null
   }
