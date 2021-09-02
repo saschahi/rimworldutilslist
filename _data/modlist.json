@@ -30,6 +30,12 @@
     "version": "9.0.0"
   },
   {
+    "author": "Dubwise",
+    "name": "Dubs Performance Analyzer",
+    "steamId": "2038874626",
+    "version": "1.0.0"
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -52,6 +58,24 @@
     "name": "JecsTools",
     "steamId": "932008009",
     "version": "1.3.0.4"
+  },
+  {
+    "author": "Madeline",
+    "name": "Better ModMismatch Window",
+    "steamId": "1872244972",
+    "version": "1.1.3"
+  },
+  {
+    "author": "Windows XP",
+    "name": "Realistic Planets Continued",
+    "steamId": "2557451791",
+    "version": "1.0.7888.27968"
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] Faction Control",
+    "steamId": "1509102551",
+    "version": "1.0.7911.25270"
   },
   {
     "author": "Torann",
@@ -96,6 +120,18 @@
     "version": null
   },
   {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "VinaLx",
+    "name": "ResearchPal - Forked",
+    "steamId": "2351393394",
+    "version": "1.3.0.1"
+  },
+  {
     "author": "Sarg Bjornson",
     "name": "Alpha Ships",
     "steamId": null,
@@ -126,12 +162,6 @@
     "version": null
   },
   {
-    "author": "AliceTries and  updated by Ogliss",
-    "name": "[WarHammer 40k] GeneSeed",
-    "steamId": "2017823407",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "spoonshortage",
     "name": "A Dog Said... Animal Prosthetics",
     "steamId": null,
@@ -144,50 +174,8 @@
     "version": "3.2.3.0"
   },
   {
-    "author": "QuantumX",
-    "name": "Astra Militarum Imperial Guard Core Mod v2.21",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ogliss",
-    "name": "Adeptus Mechanicus: Armoury",
-    "steamId": "1541438614",
-    "version": "1.6.5.1"
-  },
-  {
-    "author": "Ogliss",
-    "name": "Adeptus Mechanicus: Magos Xenobiologis",
-    "steamId": "1541499916",
-    "version": "1.6.5.1"
-  },
-  {
-    "author": "Ogliss",
-    "name": "Adeptus Xenobiologis: Aeldari",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ogliss",
-    "name": "Adeptus Xenobiologis: Orkoids",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ogliss",
-    "name": "Adeptus Xenobiologis: Tau, Kroot, Vespid",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "NukaFrog",
     "name": "Additional Verb Mod",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Infernal Pixel Studios",
-    "name": "Advanced Munitions",
     "steamId": null,
     "version": null
   },
@@ -310,12 +298,6 @@
     "name": "Better Map Sizes",
     "steamId": "2099101052",
     "version": "1.0.0"
-  },
-  {
-    "author": "Madeline",
-    "name": "Better ModMismatch Window",
-    "steamId": "1872244972",
-    "version": "1.1.3"
   },
   {
     "author": "VouLT",
@@ -450,20 +432,8 @@
     "version": null
   },
   {
-    "author": "LimeTreeSnake",
-    "name": "[LTS]Defense",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "N7Huntsman",
     "name": "Defenses Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Defensive Positions",
     "steamId": null,
     "version": null
   },
@@ -526,12 +496,6 @@
     "name": "Dub's Paint Shop",
     "steamId": "1579516669",
     "version": "1.1.569"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Performance Analyzer",
-    "steamId": "2038874626",
-    "version": "1.0.0"
   },
   {
     "author": "Dubwise",
@@ -600,12 +564,6 @@
     "version": null
   },
   {
-    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
-    "name": "[KV] Faction Control",
-    "steamId": "1509102551",
-    "version": "1.0.7911.25270"
-  },
-  {
     "author": "Kosaro",
     "name": "Fahrenheit and Celsius",
     "steamId": null,
@@ -652,12 +610,6 @@
     "name": "[KV] Force Do Job",
     "steamId": "1180719500",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "AobaKuma",
-    "name": "Fortifications - Neolithic",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "notfood",
@@ -710,12 +662,6 @@
   {
     "author": "Roolo",
     "name": "Giddy-up! Ride and Roll",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Xavior",
-    "name": "Glitter Tech",
     "steamId": null,
     "version": null
   },
@@ -814,12 +760,6 @@
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
     "version": "1.8.0.0"
-  },
-  {
-    "author": "Fuglypump",
-    "name": "Job Splitter",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "spoden",
@@ -1726,5 +1666,23 @@
     "name": "Search and Destroy",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Gradient Hair",
+    "steamId": "1687053679",
+    "version": "1.0.350.0854"
+  },
+  {
+    "author": "Sandy",
+    "name": "RPG Style Inventory Revamped",
+    "steamId": "2478833213",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and  Taranchuk",
+    "name": "Vanilla Social Interactions Expanded",
+    "steamId": "2439736083",
+    "version": "1.0.0.1"
   }
 ]
