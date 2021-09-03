@@ -51,7 +51,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.1.3.4"
+    "version": "6.1.4.3"
   },
   {
     "author": "jecrell and contributors",
@@ -75,7 +75,7 @@
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
     "name": "[KV] Faction Control",
     "steamId": "1509102551",
-    "version": "1.0.7911.25270"
+    "version": "1.0.7915.33200"
   },
   {
     "author": "Torann",
@@ -897,7 +897,7 @@
     "author": "Zylle",
     "name": "More Vanilla Biomes",
     "steamId": "1931453053",
-    "version": "0.1.4.01"
+    "version": "0.1.5.01"
   },
   {
     "author": "Paradox",
@@ -1281,7 +1281,7 @@
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
-    "version": "1.3.0"
+    "version": "1.5.0"
   },
   {
     "author": "Grimm",
@@ -1684,5 +1684,35 @@
     "name": "Vanilla Social Interactions Expanded",
     "steamId": "2439736083",
     "version": "1.0.0.1"
+  },
+  {
+    "author": "Alias, Gewen and Swenzi",
+    "name": "Additional Traits (Heroes + Gods Optional)",
+    "steamId": "1621571024",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - General Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - Vanilla Trait Colors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "1234_wsx",
+    "name": "Traits Expanded!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2195"
   }
 ]
