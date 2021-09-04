@@ -171,7 +171,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.2.3.0"
+    "version": "3.3.0.0"
   },
   {
     "author": "NukaFrog",
@@ -1638,18 +1638,6 @@
     "version": "1.0.7856.17248"
   },
   {
-    "author": "saschahi",
-    "name": "ToolkitAddon - [SR]Raid Extension",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "saschahi",
-    "name": "ToolkitAddon - [SR]Faction Wars",
-    "steamId": "2586711059",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Shadowrabbit",
     "name": "[SR]Raid Extension",
     "steamId": null,
@@ -1658,8 +1646,8 @@
   {
     "author": "Shadowrabbit",
     "name": "[SR]Factional War",
-    "steamId": null,
-    "version": null
+    "steamId": "2534328163",
+    "version": "1.0.0.0"
   },
   {
     "author": "Roolo",
@@ -1706,6 +1694,18 @@
   {
     "author": "1234_wsx",
     "name": "Traits Expanded!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "saschahi",
+    "name": "ToolkitAddon - [SR]Raid Extension",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "saschahi",
+    "name": "ToolkitAddon - [SR]Faction Wars",
     "steamId": null,
     "version": null
   },

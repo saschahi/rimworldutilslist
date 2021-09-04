@@ -40819,7 +40819,7 @@
     "Mod": "More Archotech Garbage Reupload",
     "KarmaType": null
   },
-  "archotechmatteraddingsomecraptoavoidproblems": {
+  "SpellOf_UnstableSingularity": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -40836,7 +40836,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "More Archotech Garbage Reupload",
+    "Mod": "Kure's Rimworld of Magic Class Expansion Pack",
     "KarmaType": null
   },
   "GunComplex": {
@@ -42199,7 +42199,7 @@
     "Mod": "Dubs Rimatomics",
     "KarmaType": null
   },
-  "turbineBlade": {
+  "SkillOf_AmbusherPoisonTrap": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -42209,14 +42209,14 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Kure's Rimworld of Magic Class Expansion Pack",
     "KarmaType": null
   },
   "UraniumPellets": {
@@ -63477,6 +63477,46 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "ReGrowth: Mutated Animals Pack",
+    "KarmaType": null
+  },
+  "archotechmatteraddingsomecraptoavoidproblems": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "More Archotech Garbage Reupload",
+    "KarmaType": null
+  },
+  "turbineBlade": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Rimatomics",
     "KarmaType": null
   }
 }

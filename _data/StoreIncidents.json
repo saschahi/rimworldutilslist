@@ -1,11 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 5000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -366,5 +361,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 73
+	"total": 72
 }

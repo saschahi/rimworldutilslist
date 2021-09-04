@@ -46198,7 +46198,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 1000
+      "price": 1500
     },
     {
       "data": {
@@ -46219,7 +46219,7 @@
       },
       "description": "A holographic projection operated by a mind located elsewhere. Despite its humanlike appearance, the avatar could belong to a machine persona with frighteningly alien goals.\n\nIf the projection is destroyed, its emitter will need a day to reestablish coherence, but the mind itself suffers no permanent harm.",
       "defName": "SoSHologramRace",
-      "enabled": true,
+      "enabled": false,
       "name": "hologram",
       "price": 1
     },
@@ -46242,7 +46242,7 @@
       },
       "description": "A race of humanlike robots which are mostly female in model variety.\n\nThe origins of these machines are mostly unknown. Some speculate they are escapees from a civilization which used them for labor and some just suggest they are outdated pleasure machines which got dumped by a passing space freighter.\n\nBy design by their previous masters they are weak physically but their raw fortitude is enough to make up for it. Beware of their biological reactor and capacitors violently exploding, if they die by overheating.",
       "defName": "ChjAndroid",
-      "enabled": true,
+      "enabled": false,
       "name": "Android",
       "price": 2500
     },
@@ -46275,7 +46275,7 @@
       },
       "description": "A race of rudimentary humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.\n\nNot capable of sapience, however their relative cheap cost and ability to work around the clock make them valuable workers.",
       "defName": "ChjDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "Droid",
       "price": 1417
     },
@@ -46474,7 +46474,7 @@
       },
       "description": "A Prototype android exclusive to this rimworld; developed by a secret R/D Laboratory, away from the eye of the rest of the planet and cosmos. This android features highly advanced locomotive and motor abilities, perfectly mimicing that of an average human. Although clunky and somewhat slow - this android features a modular component design, allowing for upgrades to be made to current parts at any point.",
       "defName": "Android3Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "T3 Android",
       "price": 8000
     },
@@ -46510,7 +46510,7 @@
       },
       "description": "As simple as sentient robotics can get. This design is the bare skeletal amount of components needed to create full autonomous functionality. Obviously not the best but it works well when needed.",
       "defName": "Android1Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "T1 Android",
       "price": 2333
     },
@@ -46546,7 +46546,7 @@
       },
       "description": "A somewhat advanced android, capable of almost perfectly storing an AI consciousness and with reasonable levels of motor skills. A good all round android that is uses extensively on glitterworlds for basic maintenance and cleaning.",
       "defName": "Android2Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "T2 Android",
       "price": 4167
     },
@@ -46582,7 +46582,7 @@
       },
       "description": "A special serie of T2 designed for infiltration missions, his slightly modified T2 exoskeleton is covered with a synthetic rubber skin which prevent him to rust, have a better social impact and to be EMP/solar flare proof, he is however more flammable.",
       "defName": "ATPP_Android2TX",
-      "enabled": true,
+      "enabled": false,
       "name": "TX2 Android",
       "price": 5833
     },
@@ -46615,7 +46615,7 @@
       },
       "description": "A special serie of T3 designed for infiltration missions, his slightly modified T3 exoskeleton is covered with living tissues which prevent him to rust, have a better social impact and to be EMP/solar flare proof, he is however more flammable.",
       "defName": "ATPP_Android3TX",
-      "enabled": true,
+      "enabled": false,
       "name": "TX3 Android",
       "price": 9667
     },
@@ -46685,7 +46685,7 @@
       },
       "description": "A prototype android designed to be used exclusively on the battlefield as heavy infantry, very resistant and inflicts severe melee damage, however quite slow due to its armor and he is unable to perform advanced tasks because of its limited processor essentially optimized for combat.",
       "defName": "ATPP_Android2KTX",
-      "enabled": true,
+      "enabled": false,
       "name": "TX2K Android",
       "price": 9167
     },
@@ -46721,7 +46721,7 @@
       },
       "description": "A prototype android (without skin) designed to be used exclusively on the battlefield as heavy infantry, very resistant and inflicts severe melee damage, however quite slow due to its armor and he is unable to perform advanced tasks because of its limited processor essentially optimized for combat.",
       "defName": "ATPP_Android2KITX",
-      "enabled": true,
+      "enabled": false,
       "name": "TX2KI Android",
       "price": 9167
     },
@@ -46757,7 +46757,7 @@
       },
       "description": "A serie of TX2 refurbished to be used as infantry on battlefields rather than T2, mainly due to the fear inspired on their organic enemies due to their particular appearance.",
       "defName": "ATPP_Android2ITX",
-      "enabled": true,
+      "enabled": false,
       "name": "TX2I Android",
       "price": 5833
     },
@@ -46790,7 +46790,7 @@
       },
       "description": "A serie of TX3 refurbished to be used as infantry on battlefields rather than T3, mainly due to the fear inspired on their organic enemies due to their particular appearance.",
       "defName": "ATPP_Android3ITX",
-      "enabled": true,
+      "enabled": false,
       "name": "TX3I Android",
       "price": 9667
     },
@@ -46930,7 +46930,7 @@
       "defName": "MG_Catgirl",
       "enabled": true,
       "name": "Catgirl",
-      "price": 2500
+      "price": 1500
     },
     {
       "data": {
@@ -46962,7 +46962,7 @@
       "defName": "MG_Centaur",
       "enabled": true,
       "name": "Centaur",
-      "price": 2917
+      "price": 1500
     },
     {
       "data": {
@@ -46994,7 +46994,7 @@
       "defName": "MG_Cowgirl",
       "enabled": true,
       "name": "Cowgirl",
-      "price": 2917
+      "price": 1500
     },
     {
       "data": {
@@ -47027,7 +47027,7 @@
       "defName": "MG_Dragon",
       "enabled": true,
       "name": "Dragon",
-      "price": 3667
+      "price": 2000
     },
     {
       "data": {
@@ -47059,7 +47059,7 @@
       "defName": "MG_ForestFairy",
       "enabled": true,
       "name": "ForestFairy",
-      "price": 3000
+      "price": 1500
     },
     {
       "data": {
@@ -47091,7 +47091,7 @@
       "defName": "MG_Foxgirl",
       "enabled": true,
       "name": "Foxgirl",
-      "price": 2500
+      "price": 1500
     },
     {
       "data": {
@@ -47123,7 +47123,7 @@
       "defName": "MG_Harpy",
       "enabled": true,
       "name": "Harpy",
-      "price": 2667
+      "price": 1500
     },
     {
       "data": {
@@ -47155,7 +47155,7 @@
       "defName": "MG_IceFairy",
       "enabled": true,
       "name": "IceFairy",
-      "price": 3000
+      "price": 1500
     },
     {
       "data": {
@@ -47187,7 +47187,7 @@
       "defName": "MG_Slime",
       "enabled": true,
       "name": "Slime",
-      "price": 3000
+      "price": 1500
     },
     {
       "data": {
@@ -47220,7 +47220,7 @@
       "defName": "MG_Thrumbogirl",
       "enabled": true,
       "name": "Thrumbogirl",
-      "price": 3667
+      "price": 2500
     },
     {
       "data": {
@@ -47252,7 +47252,7 @@
       "defName": "MG_Wolfgirl",
       "enabled": true,
       "name": "Wolfgirl",
-      "price": 2500
+      "price": 1500
     }
   ]
 }
