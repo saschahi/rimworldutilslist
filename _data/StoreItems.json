@@ -22,7 +22,7 @@
       "abr": "agavefruit",
       "category": "Vegetarian",
       "defname": "RawAgave",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "alpaca",
@@ -190,7 +190,7 @@
       "abr": "berries",
       "category": "Vegetarian",
       "defname": "RawBerries",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "billiardstable",
@@ -436,7 +436,7 @@
       "abr": "chickenegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggChickenUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "chickenmeat",
@@ -532,7 +532,7 @@
       "abr": "corn",
       "category": "Vegetarian",
       "defname": "RawCorn",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "coronet",
@@ -700,7 +700,7 @@
       "abr": "duckegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggDuckUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "duckmeat",
@@ -994,7 +994,7 @@
       "abr": "gooseegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggGooseUnfertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "grandsculpture",
@@ -1888,7 +1888,7 @@
       "abr": "potatoes",
       "category": "Vegetarian",
       "defname": "RawPotatoes",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "powerclaw",
@@ -2116,7 +2116,7 @@
       "abr": "rawfungus",
       "category": "Vegetarian",
       "defname": "RawFungus",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "reconarmor",
@@ -2182,7 +2182,7 @@
       "abr": "rice",
       "category": "Vegetarian",
       "defname": "RawRice",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "royalbed",
@@ -3658,7 +3658,7 @@
       "abr": "advancedholodeck",
       "category": "Recreation",
       "defname": "Holodeck_Standard",
-      "price": 3275
+      "price": -10
     },
     {
       "abr": "advancedinfernocannon",
@@ -3778,13 +3778,13 @@
       "abr": "afterlifecasket",
       "category": "Buildings",
       "defname": "Ship_AvatarCasket",
-      "price": 3575
+      "price": -10
     },
     {
       "abr": "agariluxrawfungus",
       "category": "Vegetarian",
       "defname": "AA_AgariluxRawFungus",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "agaripawn",
@@ -4510,7 +4510,7 @@
       "abr": "archolifepod",
       "category": "Items",
       "defname": "ArcholifePod",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "archolope",
@@ -4552,7 +4552,7 @@
       "abr": "archostrichegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggArchostrichUnfertilized",
-      "price": 38
+      "price": -10
     },
     {
       "abr": "archotechanimalproduct",
@@ -4582,7 +4582,7 @@
       "abr": "archotechbioadapter",
       "category": "Archotech",
       "defname": "ArchotechBioadapter",
-      "price": 4667
+      "price": 10000
     },
     {
       "abr": "archotechbio-reactor",
@@ -4624,7 +4624,7 @@
       "abr": "archotechcortex",
       "category": "Archotech",
       "defname": "ArchotechCortex",
-      "price": 4667
+      "price": 10000
     },
     {
       "abr": "archotechdeathclaw",
@@ -4834,31 +4834,31 @@
       "abr": "archotechpillaralpha",
       "category": "Misc",
       "defname": "ShipArchotechPillarA",
-      "price": 16783
+      "price": -10
     },
     {
       "abr": "archotechpillarbeta",
       "category": "Misc",
       "defname": "ShipArchotechPillarB",
-      "price": 16783
+      "price": -10
     },
     {
       "abr": "archotechpillardelta",
       "category": "Misc",
       "defname": "ShipArchotechPillarD",
-      "price": 16783
+      "price": -10
     },
     {
       "abr": "archotechpillargamma",
       "category": "Misc",
       "defname": "ShipArchotechPillarC",
-      "price": 16783
+      "price": -10
     },
     {
       "abr": "archotechplantmatter",
       "category": "Vegetarian",
       "defname": "SuperDuperArchoPlant",
-      "price": 8
+      "price": -10
     },
     {
       "abr": "archotechpowerconverter",
@@ -4870,7 +4870,7 @@
       "abr": "archotechregenerator",
       "category": "Archotech",
       "defname": "ArchotechRegenerator",
-      "price": 4667
+      "price": 10000
     },
     {
       "abr": "archotechresearchassistant",
@@ -4966,7 +4966,7 @@
       "abr": "archotechsubdermalarmor",
       "category": "Archotech",
       "defname": "ArchotechSubdermalArmor",
-      "price": 4667
+      "price": 10000
     },
     {
       "abr": "archotechteleporter",
@@ -4978,7 +4978,7 @@
       "abr": "archotechuplink",
       "category": "Misc",
       "defname": "ArchotechUplink",
-      "price": 8542
+      "price": -10
     },
     {
       "abr": "archotechviolencegenerator",
@@ -5482,7 +5482,7 @@
       "abr": "basicholodeck",
       "category": "Recreation",
       "defname": "Holodeck_Basic",
-      "price": 1792
+      "price": -10
     },
     {
       "abr": "basiclaborchip",
@@ -5626,7 +5626,7 @@
       "abr": "bedbugegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_BedBugEggUnfertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "beltmodule",
@@ -5854,55 +5854,55 @@
       "abr": "bioship,bottom",
       "category": "Ship parts",
       "defname": "AS_PurpleShipChunkBottom",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "bioship,bottomalternate",
       "category": "Ship parts",
       "defname": "AS_PurpleShipChunkBottomPointy",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "bioship,sideleft",
       "category": "Ship parts",
       "defname": "AS_PurpleShipChunkSideLeft",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "bioship,sideright",
       "category": "Ship parts",
       "defname": "AS_PurpleShipChunkSideRight",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "bioship,top",
       "category": "Ship parts",
       "defname": "AS_PurpleShipChunkTop",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "bioship,topleft",
       "category": "Ship parts",
       "defname": "AS_PurpleShipChunkTopLeft",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "bioship,topright",
       "category": "Ship parts",
       "defname": "AS_PurpleShipChunkTopRight",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "bioship,wingleft",
       "category": "Ship parts",
       "defname": "AS_PurpleShipChunkWingLeft",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "bioship,wingright",
       "category": "Ship parts",
       "defname": "AS_PurpleShipChunkWingRight",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "bishophat",
@@ -6052,7 +6052,7 @@
       "abr": "blizzariskegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_BlizzariskEggUnfertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "bloodbouquet",
@@ -6100,7 +6100,7 @@
       "abr": "bluefungus",
       "category": "Vegetarian",
       "defname": "AB_BlueRawFungus",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "bluegel",
@@ -6328,7 +6328,7 @@
       "abr": "brownbarrelcactus",
       "category": "Vegetarian",
       "defname": "AB_RawBrownBarrelCactus",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "bucket",
@@ -6412,7 +6412,7 @@
       "abr": "bumbledronejelly",
       "category": "Vegetarian",
       "defname": "AB_BumbledroneFood",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "bumbledronequeen",
@@ -6550,7 +6550,7 @@
       "abr": "cargoshuttle",
       "category": "Furniture",
       "defname": "CargoShuttle",
-      "price": 3925
+      "price": -10
     },
     {
       "abr": "cargoshuttle(hovermode)",
@@ -6982,7 +6982,7 @@
       "abr": "cinderliskegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_CinderliskEggUnfertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "cindersilk",
@@ -7600,7 +7600,7 @@
       "abr": "crepuscularbeetleegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_CrepuscularBeetleEggUnfertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "crescendoanole",
@@ -7630,7 +7630,7 @@
       "abr": "crocodileegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AEXP_EggCrocodileUnfertilized",
-      "price": 40
+      "price": -10
     },
     {
       "abr": "crocodilemeat",
@@ -7756,7 +7756,7 @@
       "abr": "crystalhorn",
       "category": "Vegetarian",
       "defname": "AB_RawCrystalHorn",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "crystallinecaracal",
@@ -8074,7 +8074,7 @@
       "abr": "deserttortoiseegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AEXP_EggDesertTortoiseUnfertilized",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "desk",
@@ -8410,7 +8410,7 @@
       "abr": "dunealiskegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_DunealiskEggUnfertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "duskrat",
@@ -8710,7 +8710,7 @@
       "abr": "entanglementmanifold",
       "category": "Items",
       "defname": "SoSEntanglementManifold",
-      "price": 6667
+      "price": -10
     },
     {
       "abr": "enviro-headgear",
@@ -9118,13 +9118,13 @@
       "abr": "feraliskegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_FeraliskEggUnfertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "fermentedrottingmound",
       "category": "Vegetarian",
       "defname": "AA_RottingMoundItem",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "ferret",
@@ -9352,7 +9352,7 @@
       "abr": "firewaspegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_FireWaspEggUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "firefightingmodule",
@@ -9940,7 +9940,7 @@
       "abr": "gilamonsteregg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AEXP_EggGilaMonsterUnfertilized",
-      "price": 20
+      "price": -10
     },
     {
       "abr": "giraffe",
@@ -10084,7 +10084,7 @@
       "abr": "grapes",
       "category": "Vegetarian",
       "defname": "VFEM_RawGrapes",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "greatdane",
@@ -10108,7 +10108,7 @@
       "abr": "greatdevoureregg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_GreatDevourerEggUnfertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "greatdress",
@@ -10330,7 +10330,7 @@
       "abr": "harpyegg",
       "category": "Eggs (unfert.)",
       "defname": "MG_EggHarpyUnfertilized",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "harpyegg(fert.)",
@@ -10456,7 +10456,7 @@
       "abr": "heavycargoshuttle",
       "category": "Furniture",
       "defname": "HeavyShuttle",
-      "price": 6292
+      "price": -10
     },
     {
       "abr": "heavycargoshuttle(hovermode)",
@@ -10480,7 +10480,7 @@
       "abr": "heavyevasuit",
       "category": "Armor",
       "defname": "Apparel_SpaceSuitBodyHeavy",
-      "price": 4117
+      "price": -10
     },
     {
       "abr": "heavyflakarmor",
@@ -10666,7 +10666,7 @@
       "abr": "hologramrelay",
       "category": "Buildings",
       "defname": "Ship_HologramRelay",
-      "price": 783
+      "price": -10
     },
     {
       "abr": "holosmithskill:coldopen",
@@ -10756,25 +10756,25 @@
       "abr": "hugecapturedasteroid,bottom",
       "category": "Ship parts",
       "defname": "AS_HugeAsteroidBottom",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "hugecapturedasteroid,left",
       "category": "Ship parts",
       "defname": "AS_HugeAsteroidLeft",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "hugecapturedasteroid,right",
       "category": "Ship parts",
       "defname": "AS_HugeAsteroidRight",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "hugecapturedasteroid,top",
       "category": "Ship parts",
       "defname": "AS_HugeAsteroidTop",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "hullfoamcanister",
@@ -10894,7 +10894,7 @@
       "abr": "iashiphusfruit",
       "category": "Vegetarian",
       "defname": "AB_RawIashiphus",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "icefairydust",
@@ -10960,109 +10960,109 @@
       "abr": "imperialescortship,bottom",
       "category": "Ship parts",
       "defname": "AS_BlueShipChunkBottom",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "imperialescortship,leftside",
       "category": "Ship parts",
       "defname": "AS_BlueShipChunkSideLeft",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "imperialescortship,rightside",
       "category": "Ship parts",
       "defname": "AS_BlueShipChunkSideRight",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "imperialescortship,roundcore",
       "category": "Ship parts",
       "defname": "AS_BlueShipChunkRound",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "imperialescortship,roundsideleft",
       "category": "Ship parts",
       "defname": "AS_BlueShipChunkRoundSideLeft",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "imperialescortship,roundsideright",
       "category": "Ship parts",
       "defname": "AS_BlueShipChunkRoundSideRight",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "imperialescortship,smallleftside",
       "category": "Ship parts",
       "defname": "AS_BlueShipChunkSmallSideLeft",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "imperialescortship,smallrightside",
       "category": "Ship parts",
       "defname": "AS_BlueShipChunkSmallSideRight",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "imperialescortship,smallwingleft",
       "category": "Ship parts",
       "defname": "AS_BlueShipChunkSmallWingLeft",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "imperialescortship,smallwingright",
       "category": "Ship parts",
       "defname": "AS_BlueShipChunkSmallWingRight",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "imperialescortship,top",
       "category": "Ship parts",
       "defname": "AS_BlueShipChunkTop",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "imperialescortship,topalternate",
       "category": "Ship parts",
       "defname": "AS_BlueShipChunkTopAlternate",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "imperialescortship,toplarge",
       "category": "Ship parts",
       "defname": "AS_BlueShipChunkTopPointy",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "imperialescortship,topnarrowantennas",
       "category": "Ship parts",
       "defname": "AS_BlueShipChunkTopAntennasNarrow",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "imperialescortship,topwithantennas",
       "category": "Ship parts",
       "defname": "AS_BlueShipChunkTopAntennas",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "imperialescortship,widebottom",
       "category": "Ship parts",
       "defname": "AS_BlueShipChunkBottomAlternate",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "imperialescortship,wingleft",
       "category": "Ship parts",
       "defname": "AS_BlueShipChunkWingLeft",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "imperialescortship,wingright",
       "category": "Ship parts",
       "defname": "AS_BlueShipChunkWingRight",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "implant",
@@ -11176,7 +11176,7 @@
       "abr": "insectoidegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "VFEI_EggInsectoidUnfertilized",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "insectoidhulk",
@@ -11254,7 +11254,7 @@
       "abr": "ironhuskbeetleegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_IronhuskEggUnfertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "isr2g",
@@ -11416,7 +11416,7 @@
       "abr": "jungleliskegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_JungleliskEggUnfertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "k-9cyberneticunit",
@@ -12652,7 +12652,7 @@
       "abr": "mammothwormegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_MammothWormEggUnfertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "manapotion",
@@ -12832,13 +12832,13 @@
       "abr": "mechanitecocktails",
       "category": "Grenades",
       "defname": "Weapon_GrenadeMechanite",
-      "price": 1675
+      "price": 999999
     },
     {
       "abr": "mechanitedisassemblercore",
       "category": "Items",
       "defname": "ArchotechMechaniteCore",
-      "price": 6667
+      "price": -10
     },
     {
       "abr": "mechaniterepairgel",
@@ -12886,55 +12886,55 @@
       "abr": "mechanoidship,bottom",
       "category": "Ship parts",
       "defname": "AS_MechanoidShipBottom",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "mechanoidship,bottomalternate",
       "category": "Ship parts",
       "defname": "AS_MechanoidShipBottomLong",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "mechanoidship,sideleft",
       "category": "Ship parts",
       "defname": "AS_MechanoidSideLeft",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "mechanoidship,sideright",
       "category": "Ship parts",
       "defname": "AS_MechanoidSideRight",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "mechanoidship,tankleft",
       "category": "Ship parts",
       "defname": "AS_MechanoidTankLeft",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "mechanoidship,tankright",
       "category": "Ship parts",
       "defname": "AS_MechanoidTankRight",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "mechanoidship,top",
       "category": "Ship parts",
       "defname": "AS_MechanoidShipTop",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "mechanoidship,wingleft",
       "category": "Ship parts",
       "defname": "AS_MechanoidWingLeft",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "mechanoidship,wingright",
       "category": "Ship parts",
       "defname": "AS_MechanoidWingRight",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "mechanoidsummoner",
@@ -13036,25 +13036,25 @@
       "abr": "mediumcapturedasteroid,bottom",
       "category": "Ship parts",
       "defname": "AS_AsteroidChunkBigBottom",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "mediumcapturedasteroid,left",
       "category": "Ship parts",
       "defname": "AS_AsteroidChunkBigSide",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "mediumcapturedasteroid,right",
       "category": "Ship parts",
       "defname": "AS_AsteroidChunkBigReactors",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "mediumcapturedasteroid,top",
       "category": "Ship parts",
       "defname": "AS_AsteroidChunkBigTop",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "megalouse",
@@ -13072,7 +13072,7 @@
       "abr": "megalouseegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_MegalouseEggUnfertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "megapede",
@@ -13258,7 +13258,7 @@
       "abr": "minimalshipbridge",
       "category": "Furniture",
       "defname": "ShipPilotSeatMini",
-      "price": 425
+      "price": -10
     },
     {
       "abr": "miningarm",
@@ -14314,7 +14314,7 @@
       "abr": "penguinegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AEXP_EggPenguinFertilized",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "pepperdroneassembler",
@@ -14332,7 +14332,7 @@
       "abr": "personalshuttle",
       "category": "Furniture",
       "defname": "PersonalShuttle",
-      "price": 1792
+      "price": -10
     },
     {
       "abr": "personalshuttle(hovermode)",
@@ -14392,7 +14392,7 @@
       "abr": "pinkfungus",
       "category": "Vegetarian",
       "defname": "AB_PinkRawFungus",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "pinnipedleather",
@@ -14416,55 +14416,55 @@
       "abr": "pirateship,bottom",
       "category": "Ship parts",
       "defname": "AS_GreyShipChunkBottom",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "pirateship,largewingleft",
       "category": "Ship parts",
       "defname": "AS_GreyShipChukWingAlternateLeft",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "pirateship,largewingright",
       "category": "Ship parts",
       "defname": "AS_GreyShipChukWingAlternateRight",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "pirateship,sideleft",
       "category": "Ship parts",
       "defname": "AS_GreyShipChunkSideLeft",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "pirateship,sideright",
       "category": "Ship parts",
       "defname": "AS_GreyShipChunkSideRight",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "pirateship,top",
       "category": "Ship parts",
       "defname": "AS_GreyShipChunkTop",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "pirateship,toplarge",
       "category": "Ship parts",
       "defname": "AS_GreyShipChunkTopPointy",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "pirateship,wingleft",
       "category": "Ship parts",
       "defname": "AS_GreyShipChukWingLeft",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "pirateship,wingright",
       "category": "Ship parts",
       "defname": "AS_GreyShipChukWingRight",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "plaguemask",
@@ -14476,7 +14476,7 @@
       "abr": "plantmeat",
       "category": "Vegetarian",
       "defname": "AA_CactusMeat",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "plasmacaliver",
@@ -14638,7 +14638,7 @@
       "abr": "pomanafruit",
       "category": "Vegetarian",
       "defname": "TM_RawPomanasyrrium",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "poncho",
@@ -14692,7 +14692,7 @@
       "abr": "portablehologramrelay",
       "category": "Utility",
       "defname": "Apparel_HologramRelay",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "portablereactor",
@@ -14908,7 +14908,7 @@
       "abr": "psychicflayercore",
       "category": "Items",
       "defname": "ArchotechPsychicCore",
-      "price": 6667
+      "price": -10
     },
     {
       "abr": "psychichealerlance",
@@ -14932,7 +14932,7 @@
       "abr": "psychicmanipulator",
       "category": "Archotech",
       "defname": "SoSPsychicManipulator",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "psychicmanipulator",
@@ -14950,7 +14950,7 @@
       "abr": "psychicpredictor",
       "category": "Archotech",
       "defname": "SoSPsychicPredictor",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "psychicpylon",
@@ -15010,7 +15010,7 @@
       "abr": "purplefungus",
       "category": "Vegetarian",
       "defname": "AB_PurpleRawFungus",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "pyramid",
@@ -15130,7 +15130,7 @@
       "abr": "raspberries",
       "category": "Vegetarian",
       "defname": "RG_RawRaspberries",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "rattlesnake",
@@ -15148,7 +15148,7 @@
       "abr": "rattlesnakeegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AEXP_EggRattlesnakeUnfertilized",
-      "price": 47
+      "price": -10
     },
     {
       "abr": "ravager",
@@ -15160,7 +15160,7 @@
       "abr": "rawcactus",
       "category": "Vegetarian",
       "defname": "RG_RawCactus",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "rawfish",
@@ -15172,7 +15172,7 @@
       "abr": "rawredslime",
       "category": "Vegetarian",
       "defname": "AB_RawRedSlime",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "rawrimenodules",
@@ -15226,7 +15226,7 @@
       "abr": "recyclotron",
       "category": "Production",
       "defname": "ArchoRecycler",
-      "price": 10292
+      "price": -10
     },
     {
       "abr": "redgoo",
@@ -15784,7 +15784,7 @@
       "abr": "sapientholodeck",
       "category": "Recreation",
       "defname": "Holodeck_AI",
-      "price": 10283
+      "price": -10
     },
     {
       "abr": "satchelcharge",
@@ -16114,19 +16114,19 @@
       "abr": "shipbridge",
       "category": "Furniture",
       "defname": "ShipPilotSeat",
-      "price": 1200
+      "price": -10
     },
     {
       "abr": "shipcapacitor",
       "category": "Furniture",
       "defname": "ShipCapacitorSmall",
-      "price": 908
+      "price": -10
     },
     {
       "abr": "shipsalvage",
       "category": "Special",
       "defname": "ShipChunkSalvage",
-      "price": 1758
+      "price": -10
     },
     {
       "abr": "shirtandtie",
@@ -16468,7 +16468,7 @@
       "abr": "slime",
       "category": "Vegetarian",
       "defname": "AB_RawSlime",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "slime",
@@ -16546,25 +16546,25 @@
       "abr": "smallcapturedasteroid,bottom",
       "category": "Ship parts",
       "defname": "AS_AsteroidChunkDown",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "smallcapturedasteroid,left",
       "category": "Ship parts",
       "defname": "AS_AsteroidChunkLeft",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "smallcapturedasteroid,right",
       "category": "Ship parts",
       "defname": "AS_AsteroidChunkReactor",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "smallcapturedasteroid,top",
       "category": "Ship parts",
       "defname": "AS_AsteroidChunkTop",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "smallrug",
@@ -16846,43 +16846,43 @@
       "abr": "sraf:canary",
       "category": "Buildings",
       "defname": "SRAF",
-      "price": 20258
+      "price": -10
     },
     {
       "abr": "sraf:tek-7",
       "category": "Buildings",
       "defname": "SRAFTek",
-      "price": 31292
+      "price": -10
     },
     {
       "abr": "srtsmk.i:skip",
       "category": "Buildings",
       "defname": "SRTSSkip",
-      "price": 9150
+      "price": -10
     },
     {
       "abr": "srtsmk.ii:albatross",
       "category": "Buildings",
       "defname": "SRTSMkII",
-      "price": 29875
+      "price": -10
     },
     {
       "abr": "srtsmk.iii:phoenix",
       "category": "Buildings",
       "defname": "SRTSMkIII",
-      "price": 52792
+      "price": -10
     },
     {
       "abr": "srtsmk.iiip:pelican",
       "category": "Buildings",
       "defname": "SRTSMkIIIp",
-      "price": 61100
+      "price": -10
     },
     {
       "abr": "srtsmk.iv:genesis",
       "category": "Buildings",
       "defname": "SRTSMkIV",
-      "price": 221117
+      "price": -10
     },
     {
       "abr": "stablehandtrousers",
@@ -17038,7 +17038,7 @@
       "abr": "sugarfamewort",
       "category": "Vegetarian",
       "defname": "AB_RawSugarFamewort",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "suitjacket",
@@ -17104,7 +17104,7 @@
       "abr": "superpod",
       "category": "Buildings",
       "defname": "SRTSSuperpod",
-      "price": 6958
+      "price": -10
     },
     {
       "abr": "supportspecialistskill:handheldrocket",
@@ -17872,43 +17872,43 @@
       "abr": "tradeship,bottom",
       "category": "Ship parts",
       "defname": "AS_OrangeShipBottom",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "tradeship,bottomalternate",
       "category": "Ship parts",
       "defname": "AS_OrangeShipBottomAlternate",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "tradeship,sideleft",
       "category": "Ship parts",
       "defname": "AS_OrangeShipLeft",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "tradeship,sideright",
       "category": "Ship parts",
       "defname": "AS_OrangeShipRight",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "tradeship,tanksleft",
       "category": "Ship parts",
       "defname": "AS_OrangeShipTanksLeft",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "tradeship,tanksright",
       "category": "Ship parts",
       "defname": "AS_OrangeShipTanksRight",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "tradeship,top",
       "category": "Ship parts",
       "defname": "AS_OrangeShipTop",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "trader'scoat",
@@ -18316,13 +18316,13 @@
       "abr": "vanometricfoodprocessor",
       "category": "Special",
       "defname": "AS_VanometricFoodProcessor",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "vanometricheatsink",
       "category": "Misc",
       "defname": "AS_ArchotechHeatsink",
-      "price": 1483
+      "price": -10
     },
     {
       "abr": "vanometricliquidprocessor",
@@ -18346,7 +18346,7 @@
       "abr": "vanoroot",
       "category": "Vegetarian",
       "defname": "RawVanoroot",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "vat-grownboomtick",
@@ -18808,7 +18808,7 @@
       "abr": "weathernormalizationdevice",
       "category": "Artifacts",
       "defname": "WeatherCancelDevice",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "weldingmask",
@@ -18850,7 +18850,7 @@
       "abr": "wildgooseegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AEXP_EggWildGooseUnfertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "wildebeest",
@@ -19798,7 +19798,7 @@
       "abr": "mechanoidshipradiator",
       "category": "Misc",
       "defname": "ShipInside_PassiveCoolerMechanoid",
-      "price": 1658
+      "price": -10
     },
     {
       "abr": "mechanoidshipvent",
@@ -19810,7 +19810,7 @@
       "abr": "ancientjohnson-tanakadrive",
       "category": "Misc",
       "defname": "JTDriveSalvage",
-      "price": 12208
+      "price": -10
     },
     {
       "abr": "wreckedhull",
@@ -19906,7 +19906,7 @@
       "abr": "advancedshipradiator",
       "category": "Misc",
       "defname": "ShipInside_PassiveCoolerAdvanced",
-      "price": 1658
+      "price": -10
     },
     {
       "abr": "shipvent",
@@ -19948,7 +19948,7 @@
       "abr": "xlhardpoint",
       "category": "Misc",
       "defname": "ShipHardpointLarge",
-      "price": 2275
+      "price": -10
     },
     {
       "abr": "smallrocketengine",
@@ -19960,85 +19960,85 @@
       "abr": "rocketengine",
       "category": "Misc",
       "defname": "Ship_Engine",
-      "price": 2117
+      "price": -10
     },
     {
       "abr": "nuclearengine",
       "category": "Misc",
       "defname": "Ship_Engine_Large",
-      "price": 7483
+      "price": -10
     },
     {
       "abr": "johnson-tanakadrive",
       "category": "Misc",
       "defname": "Ship_Engine_Interplanetary",
-      "price": 15542
+      "price": -10
     },
     {
       "abr": "shipcomputercore",
       "category": "Misc",
       "defname": "Ship_ComputerCore",
-      "price": 9742
+      "price": -10
     },
     {
       "abr": "basicsensors",
       "category": "Misc",
       "defname": "Ship_SensorCluster",
-      "price": 3008
+      "price": -10
     },
     {
       "abr": "advancedsensors",
       "category": "Misc",
       "defname": "Ship_SensorClusterAdv",
-      "price": 10150
+      "price": -10
     },
     {
       "abr": "lifesupportsystem",
       "category": "Misc",
       "defname": "Ship_LifeSupport",
-      "price": 5458
+      "price": -10
     },
     {
       "abr": "smalllifesupportsystem",
       "category": "Misc",
       "defname": "Ship_LifeSupport_Small",
-      "price": 6483
+      "price": -10
     },
     {
       "abr": "capacitorarray",
       "category": "Misc",
       "defname": "ShipCapacitor",
-      "price": 7750
+      "price": -10
     },
     {
       "abr": "shipfissionreactor",
       "category": "Misc",
       "defname": "Ship_Reactor",
-      "price": 11717
+      "price": -10
     },
     {
       "abr": "shuttlebay",
       "category": "Misc",
       "defname": "ShipShuttleBay",
-      "price": 3575
+      "price": -10
     },
     {
       "abr": "salvagebay",
       "category": "Misc",
       "defname": "ShipSalvageBay",
-      "price": 3575
+      "price": -10
     },
     {
       "abr": "cloakingdevice",
       "category": "Misc",
       "defname": "ShipCloakingDevice",
-      "price": 6442
+      "price": -10
     },
     {
       "abr": "auto-ejectcryptosleepcasket",
       "category": "Misc",
       "defname": "Ship_CryptosleepCasket",
-      "price": 1517
+      "price": -10
     },
     {
       "abr": "crittersleepcaskets(8)",
@@ -20050,7 +20050,7 @@
       "abr": "crittersleepcaskets(32)",
       "category": "Misc",
       "defname": "CrittersleepCasketLarge",
-      "price": 4275
+      "price": -10
     },
     {
       "abr": "cryptonest",
@@ -20080,13 +20080,13 @@
       "abr": "hullfoamdistributor",
       "category": "Misc",
       "defname": "HullFoamDistributor",
-      "price": 2208
+      "price": -10
     },
     {
       "abr": "shieldgenerator",
       "category": "Misc",
       "defname": "ShipCombatShieldGenerator",
-      "price": 7308
+      "price": -10
     },
     {
       "abr": "thermalconduit",
@@ -20104,109 +20104,109 @@
       "abr": "largeheatsink",
       "category": "Misc",
       "defname": "ShipHeatsinkLarge",
-      "price": 7400
+      "price": -10
     },
     {
       "abr": "heatmanifold",
       "category": "Misc",
       "defname": "ShipHeatManifold",
-      "price": 2258
+      "price": -10
     },
     {
       "abr": "emergencypurgeport",
       "category": "Misc",
       "defname": "ShipPurgePort",
-      "price": 2050
+      "price": -10
     },
     {
       "abr": "largeemergencypurgeport",
       "category": "Misc",
       "defname": "ShipPurgePortLarge",
-      "price": 10892
+      "price": -10
     },
     {
       "abr": "cannonturret",
       "category": "Misc",
       "defname": "ShipTurret_ACI",
-      "price": 2733
+      "price": -10
     },
     {
       "abr": "largecannonturret",
       "category": "Misc",
       "defname": "ShipTurret_ACII",
-      "price": 6175
+      "price": -10
     },
     {
       "abr": "artilleryturret",
       "category": "Misc",
       "defname": "ShipTurret_ACIII",
-      "price": 16633
+      "price": -10
     },
     {
       "abr": "laserturret",
       "category": "Misc",
       "defname": "ShipTurret_Laser",
-      "price": 3033
+      "price": -10
     },
     {
       "abr": "plasmaturret",
       "category": "Misc",
       "defname": "ShipTurret_Plasma",
-      "price": 3033
+      "price": -10
     },
     {
       "abr": "railgunturret",
       "category": "Misc",
       "defname": "ShipTurret_Kinetic",
-      "price": 3033
+      "price": -10
     },
     {
       "abr": "largelaserturret",
       "category": "Misc",
       "defname": "ShipTurret_Laser_Large",
-      "price": 9208
+      "price": -10
     },
     {
       "abr": "largeplasmaturret",
       "category": "Misc",
       "defname": "ShipTurret_Plasma_Large",
-      "price": 9208
+      "price": -10
     },
     {
       "abr": "largerailgunturret",
       "category": "Misc",
       "defname": "ShipTurret_Kinetic_Large",
-      "price": 9208
+      "price": -10
     },
     {
       "abr": "spinalcapacitor",
       "category": "Misc",
       "defname": "ShipSpinalEmitter",
-      "price": 9175
+      "price": -10
     },
     {
       "abr": "spinalamplifier",
       "category": "Misc",
       "defname": "ShipSpinalAmplifier",
-      "price": 2933
+      "price": -10
     },
     {
       "abr": "spinalbarrel:laser",
       "category": "Misc",
       "defname": "ShipSpinalBarrelLaser",
-      "price": 7075
+      "price": -10
     },
     {
       "abr": "spinalbarrel:plasma",
       "category": "Misc",
       "defname": "ShipSpinalBarrelPlasma",
-      "price": 7075
+      "price": -10
     },
     {
       "abr": "spinalbarrel:railgun",
       "category": "Misc",
       "defname": "ShipSpinalBarrelKinetic",
-      "price": 7075
+      "price": -10
     },
     {
       "abr": "torpedotube",
@@ -20224,7 +20224,7 @@
       "abr": "torpedotubes(6)",
       "category": "Misc",
       "defname": "ShipTorpedoSix",
-      "price": 2325
+      "price": -10
     },
     {
       "abr": "archotechshiphull",
@@ -20278,7 +20278,7 @@
       "abr": "archotechshipairlock",
       "category": "Misc",
       "defname": "ShipAirlockArchotech",
-      "price": 1675
+      "price": -10
     },
     {
       "abr": "archotechsolargenerator",
@@ -20290,7 +20290,7 @@
       "abr": "archotechshipradiator",
       "category": "Misc",
       "defname": "ShipInside_PassiveCoolerArchotech",
-      "price": 2075
+      "price": -10
     },
     {
       "abr": "archotechshipvent",
@@ -20308,49 +20308,49 @@
       "abr": "archotechspore",
       "category": "Misc",
       "defname": "ShipArchotechSpore",
-      "price": 17800
+      "price": -10
     },
     {
       "abr": "anti-entropicheatsink",
       "category": "Misc",
       "defname": "ShipHeatsinkAntiEntropy",
-      "price": 2850
+      "price": -10
     },
     {
       "abr": "archotechshieldgenerator",
       "category": "Misc",
       "defname": "ArchotechShieldGenerator",
-      "price": 15633
+      "price": -10
     },
     {
       "abr": "spinalbarrel:psychicflayer",
       "category": "Misc",
       "defname": "ShipSpinalBarrelPsychic",
-      "price": 13700
+      "price": -10
     },
     {
       "abr": "spinalbarrel:disassembler",
       "category": "Misc",
       "defname": "ShipSpinalBarrelMechanite",
-      "price": 13700
+      "price": -10
     },
     {
       "abr": "antimatterthruster",
       "category": "Misc",
       "defname": "Ship_Engine_Archotech",
-      "price": 13067
+      "price": -10
     },
     {
       "abr": "antimatterreactor",
       "category": "Misc",
       "defname": "ArchotechAntimatterReactor",
-      "price": 14317
+      "price": -10
     },
     {
       "abr": "bioturret",
       "category": "Misc",
       "defname": "AS_ShipTurret_Bio",
-      "price": 3033
+      "price": -10
     },
     {
       "abr": "hexagelcorereactor",
