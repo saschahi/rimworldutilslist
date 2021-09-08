@@ -36359,7 +36359,7 @@
     "Mod": "Expanded Prosthetics and Organ Engineering",
     "KarmaType": null
   },
-  "turbineBlade": {
+  "denture": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -36376,7 +36376,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "KarmaType": null
   },
   "PegLeg": {
@@ -63479,6 +63479,46 @@
     "Mod": "ReGrowth: Mutated Animals Pack",
     "KarmaType": null
   },
+  "SkillOf_CollapsingColumn": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Kure's Rimworld of Magic Class Expansion Pack",
+    "KarmaType": null
+  },
+  "SpellOf_BramblePatch": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Kure's Rimworld of Magic Class Expansion Pack",
+    "KarmaType": null
+  },
   "archotechmatteraddingsomecraptoavoidproblems": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -63499,7 +63539,7 @@
     "Mod": "More Archotech Garbage Reupload",
     "KarmaType": null
   },
-  "denture": {
+  "turbineBlade": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -63516,7 +63556,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Dubs Rimatomics",
     "KarmaType": null
   }
 }

@@ -3826,13 +3826,13 @@
       "abr": "ah-1zviper(attack)",
       "category": "Buildings",
       "defname": "ELIFAH-1ZVAttack",
-      "price": 10542
+      "price": -10
     },
     {
       "abr": "ah-6mlittlebird(attack)",
       "category": "Buildings",
       "defname": "ELIFMH-6LBAttack",
-      "price": 2967
+      "price": -10
     },
     {
       "abr": "aichip",
@@ -4582,7 +4582,7 @@
       "abr": "archotechbioadapter",
       "category": "Archotech",
       "defname": "ArchotechBioadapter",
-      "price": 10000
+      "price": 33333
     },
     {
       "abr": "archotechbio-reactor",
@@ -4624,7 +4624,7 @@
       "abr": "archotechcortex",
       "category": "Archotech",
       "defname": "ArchotechCortex",
-      "price": 10000
+      "price": 33333
     },
     {
       "abr": "archotechdeathclaw",
@@ -4870,7 +4870,7 @@
       "abr": "archotechregenerator",
       "category": "Archotech",
       "defname": "ArchotechRegenerator",
-      "price": 10000
+      "price": 33333
     },
     {
       "abr": "archotechresearchassistant",
@@ -4966,7 +4966,7 @@
       "abr": "archotechsubdermalarmor",
       "category": "Archotech",
       "defname": "ArchotechSubdermalArmor",
-      "price": 10000
+      "price": 33333
     },
     {
       "abr": "archotechteleporter",
@@ -5344,7 +5344,7 @@
       "abr": "aw109agustawestland(transport)",
       "category": "Buildings",
       "defname": "ELIFAW109VTransport",
-      "price": 14517
+      "price": -10
     },
     {
       "abr": "axehead",
@@ -6640,7 +6640,7 @@
       "abr": "ch-46eseaknight(transport)",
       "category": "Buildings",
       "defname": "ELIFCH-46ETransport",
-      "price": 18733
+      "price": -10
     },
     {
       "abr": "chain",
@@ -11428,7 +11428,7 @@
       "abr": "ka-50blackshark(attack)",
       "category": "Buildings",
       "defname": "ELIFKA-50BAttack",
-      "price": 11758
+      "price": -10
     },
     {
       "abr": "kangaroo",
@@ -13156,13 +13156,13 @@
       "abr": "mh-60ldapblackhawk(attack)",
       "category": "Buildings",
       "defname": "ELIFUH-60Attack",
-      "price": 6692
+      "price": -10
     },
     {
       "abr": "mh-6mlittlebird(transport)",
       "category": "Buildings",
       "defname": "ELIFMH-6LBTransport",
-      "price": 2650
+      "price": -10
     },
     {
       "abr": "microscyther",
@@ -18124,19 +18124,19 @@
       "abr": "uh-1yvenom(attack)",
       "category": "Buildings",
       "defname": "ELIFUH-1YVAttack",
-      "price": 4433
+      "price": -10
     },
     {
       "abr": "uh-1yvenom(transport)",
       "category": "Buildings",
       "defname": "ELIFUH-1YVTransport",
-      "price": 3858
+      "price": -10
     },
     {
       "abr": "uh-60blackhawk(transport)",
       "category": "Buildings",
       "defname": "ELIFUH-60Transport",
-      "price": 5758
+      "price": -10
     },
     {
       "abr": "ultrascreentelevision",
@@ -18310,7 +18310,7 @@
       "abr": "v-22osprey(transport)",
       "category": "Buildings",
       "defname": "ELIFV-22Transport",
-      "price": 21125
+      "price": -10
     },
     {
       "abr": "vanometricfoodprocessor",
@@ -24917,7 +24917,19 @@
       "category": "Scrolls",
       "defname": "SpellOf_UnstableSingularity",
       "price": 3000
+    },
+    {
+      "abr": "arbormancerspell:bramblepatch",
+      "category": "Scrolls",
+      "defname": "SpellOf_BramblePatch",
+      "price": 1333
+    },
+    {
+      "abr": "minerskill:collapsingcolumn",
+      "category": "Scrolls",
+      "defname": "SkillOf_CollapsingColumn",
+      "price": 1667
     }
   ],
-  "total": 4153
+  "total": 4155
 }

@@ -51,7 +51,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.1.4.3"
+    "version": "6.1.5.1"
   },
   {
     "author": "jecrell and contributors",
@@ -81,7 +81,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.6.0.3"
+    "version": "2.6.1.0"
   },
   {
     "author": "Kure",
@@ -171,7 +171,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.3.0.0"
+    "version": "3.3.4.0"
   },
   {
     "author": "NukaFrog",
@@ -242,8 +242,8 @@
   {
     "author": "marcin212",
     "name": "Architect Icons",
-    "steamId": null,
-    "version": null
+    "steamId": "1195427067",
+    "version": "1.2.0.0"
   },
   {
     "author": "Teok25",
@@ -427,7 +427,7 @@
   },
   {
     "author": "Troopersmith1 - Linq- deathrat",
-    "name": "Death Rattle Continued [1.2]",
+    "name": "Death Rattle Continued [1.2+]",
     "steamId": null,
     "version": null
   },
@@ -501,7 +501,7 @@
     "author": "Dubwise",
     "name": "Dubs Skylights",
     "steamId": "833899765",
-    "version": "1.5.1692"
+    "version": "1.0.0.0"
   },
   {
     "author": "NilchEi",
@@ -1251,7 +1251,7 @@
     "author": "SirRandoo",
     "name": "ToolkitResearch",
     "steamId": "2312827542",
-    "version": "1.0.2.5"
+    "version": "1.0.2.6"
   },
   {
     "author": "Smash Phil",
@@ -1699,15 +1699,15 @@
   },
   {
     "author": "saschahi",
-    "name": "ToolkitAddon - [SR]Raid Extension",
+    "name": "ToolkitAddon - More Stuff",
     "steamId": null,
     "version": null
   },
   {
-    "author": "saschahi",
-    "name": "ToolkitAddon - [SR]Faction Wars",
-    "steamId": null,
-    "version": null
+    "author": "Andreas Pardeike and  BleuSquid",
+    "name": "Puppeteer",
+    "steamId": "2594873651",
+    "version": "1.6.0.0"
   },
   {
     "author": "Krkr",
