@@ -36359,7 +36359,7 @@
     "Mod": "Expanded Prosthetics and Organ Engineering",
     "KarmaType": null
   },
-  "denture": {
+  "turbineBlade": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -36376,7 +36376,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Dubs Rimatomics",
     "KarmaType": null
   },
   "PegLeg": {
@@ -63539,7 +63539,7 @@
     "Mod": "More Archotech Garbage Reupload",
     "KarmaType": null
   },
-  "turbineBlade": {
+  "denture": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -63556,7 +63556,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "KarmaType": null
   }
 }

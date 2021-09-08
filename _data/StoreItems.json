@@ -24775,6 +24775,30 @@
       "price": 31342
     },
     {
+      "abr": "ambusherskill:poisontrap",
+      "category": "Scrolls",
+      "defname": "SkillOf_AmbusherPoisonTrap",
+      "price": 2000
+    },
+    {
+      "abr": "arbormancerspell:bramblepatch",
+      "category": "Scrolls",
+      "defname": "SpellOf_BramblePatch",
+      "price": 1333
+    },
+    {
+      "abr": "chronomancerspell:unstablesingularity",
+      "category": "Scrolls",
+      "defname": "SpellOf_UnstableSingularity",
+      "price": 3000
+    },
+    {
+      "abr": "minerskill:collapsingcolumn",
+      "category": "Scrolls",
+      "defname": "SkillOf_CollapsingColumn",
+      "price": 1667
+    },
+    {
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "BedGuest",
@@ -24802,7 +24826,7 @@
       "abr": "guestbedroll",
       "category": "Furniture",
       "defname": "BedrollGuest",
-      "price": -10
+      "price": 137
     },
     {
       "abr": "guestdoublebedroll",
@@ -24814,13 +24838,13 @@
       "abr": "guestancientbed",
       "category": "Misc",
       "defname": "AncientBedGuest",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "guestslabbed",
       "category": "Furniture",
       "defname": "SlabBedGuest",
-      "price": -10
+      "price": 102
     },
     {
       "abr": "guestslabdoublebed",
@@ -24874,13 +24898,13 @@
       "abr": "guestslabbed",
       "category": "Furniture",
       "defname": "Bed_StoneSlabGuest",
-      "price": -10
+      "price": 111
     },
     {
       "abr": "guestsimplebed",
       "category": "Furniture",
       "defname": "Bed_SimpleGuest",
-      "price": -10
+      "price": 137
     },
     {
       "abr": "guestoperatingtable",
@@ -24905,30 +24929,6 @@
       "category": "Furniture",
       "defname": "Bed_AdvDoubleBedGuest",
       "price": 1483
-    },
-    {
-      "abr": "ambusherskill:poisontrap",
-      "category": "Scrolls",
-      "defname": "SkillOf_AmbusherPoisonTrap",
-      "price": 2000
-    },
-    {
-      "abr": "chronomancerspell:unstablesingularity",
-      "category": "Scrolls",
-      "defname": "SpellOf_UnstableSingularity",
-      "price": 3000
-    },
-    {
-      "abr": "arbormancerspell:bramblepatch",
-      "category": "Scrolls",
-      "defname": "SpellOf_BramblePatch",
-      "price": 1333
-    },
-    {
-      "abr": "minerskill:collapsingcolumn",
-      "category": "Scrolls",
-      "defname": "SkillOf_CollapsingColumn",
-      "price": 1667
     }
   ],
   "total": 4155
