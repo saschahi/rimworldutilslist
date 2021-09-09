@@ -3520,7 +3520,7 @@
       "abr": "advandroidassemblykit",
       "category": "Manufactured",
       "defname": "AndroidT2Kit",
-      "price": 3667
+      "price": -10
     },
     {
       "abr": "advancedanimalprostheticstable",
@@ -4012,7 +4012,7 @@
       "abr": "androidassemblykit",
       "category": "Items",
       "defname": "AndroidT1Kit",
-      "price": 2250
+      "price": -10
     },
     {
       "abr": "androidchargingstation",
@@ -5554,7 +5554,7 @@
       "abr": "battledroidassemblykit",
       "category": "Items",
       "defname": "ChjAndroidBattleDroidAssemblyKit",
-      "price": 3958
+      "price": -10
     },
     {
       "abr": "battlemaidhat",
@@ -8278,7 +8278,7 @@
       "abr": "droidassemblykit",
       "category": "Items",
       "defname": "ChjAndroidDroidAssemblyKit",
-      "price": 1775
+      "price": -10
     },
     {
       "abr": "droidbattery",
