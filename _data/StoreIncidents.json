@@ -77,7 +77,7 @@
 	},
 	{
 		"abr": "tradercaravan",
-		"price": 275,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -127,7 +127,7 @@
 	},
 	{
 		"abr": "travelergroup",
-		"price": 80,
+		"price": 100,
 		"karmatype": "Good"
 	},
 	{
@@ -177,7 +177,7 @@
 	},
 	{
 		"abr": "levelskill",
-		"price": 1500,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -217,22 +217,22 @@
 	},
 	{
 		"abr": "reviveme",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healall",
-		"price": 17336,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healanypawn",
 		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "healme",
+		"abr": "healall",
+		"price": 10000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healanypawn",
 		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healme",
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -257,7 +257,7 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 2500,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -317,7 +317,7 @@
 	},
 	{
 		"abr": "sanctuary",
-		"price": 10000,
+		"price": 50000,
 		"karmatype": "Good"
 	},
 	{

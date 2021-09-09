@@ -8140,7 +8140,7 @@
       "abr": "doormat",
       "category": "Furniture",
       "defname": "LT_DoorMatLeather",
-      "price": 8
+      "price": -10
     },
     {
       "abr": "doormat(blue)",
