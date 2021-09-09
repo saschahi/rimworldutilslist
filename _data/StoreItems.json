@@ -14314,7 +14314,7 @@
       "abr": "penguinegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AEXP_EggPenguinFertilized",
-      "price": 32
+      "price": -10
     },
     {
       "abr": "pepperdroneassembler",
@@ -24775,30 +24775,6 @@
       "price": 31342
     },
     {
-      "abr": "ambusherskill:poisontrap",
-      "category": "Scrolls",
-      "defname": "SkillOf_AmbusherPoisonTrap",
-      "price": 2000
-    },
-    {
-      "abr": "arbormancerspell:bramblepatch",
-      "category": "Scrolls",
-      "defname": "SpellOf_BramblePatch",
-      "price": 1333
-    },
-    {
-      "abr": "chronomancerspell:unstablesingularity",
-      "category": "Scrolls",
-      "defname": "SpellOf_UnstableSingularity",
-      "price": 3000
-    },
-    {
-      "abr": "minerskill:collapsingcolumn",
-      "category": "Scrolls",
-      "defname": "SkillOf_CollapsingColumn",
-      "price": 1667
-    },
-    {
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "BedGuest",
@@ -24826,7 +24802,7 @@
       "abr": "guestbedroll",
       "category": "Furniture",
       "defname": "BedrollGuest",
-      "price": 137
+      "price": -10
     },
     {
       "abr": "guestdoublebedroll",
@@ -24838,13 +24814,13 @@
       "abr": "guestancientbed",
       "category": "Misc",
       "defname": "AncientBedGuest",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "guestslabbed",
       "category": "Furniture",
       "defname": "SlabBedGuest",
-      "price": 102
+      "price": -10
     },
     {
       "abr": "guestslabdoublebed",
@@ -24898,13 +24874,13 @@
       "abr": "guestslabbed",
       "category": "Furniture",
       "defname": "Bed_StoneSlabGuest",
-      "price": 111
+      "price": -10
     },
     {
       "abr": "guestsimplebed",
       "category": "Furniture",
       "defname": "Bed_SimpleGuest",
-      "price": 137
+      "price": -10
     },
     {
       "abr": "guestoperatingtable",
@@ -24929,7 +24905,451 @@
       "category": "Furniture",
       "defname": "Bed_AdvDoubleBedGuest",
       "price": 1483
+    },
+    {
+      "abr": "ambusherskill:poisontrap",
+      "category": "Scrolls",
+      "defname": "SkillOf_AmbusherPoisonTrap",
+      "price": 2000
+    },
+    {
+      "abr": "chronomancerspell:unstablesingularity",
+      "category": "Scrolls",
+      "defname": "SpellOf_UnstableSingularity",
+      "price": 3000
+    },
+    {
+      "abr": "acgl3grenadelauncher",
+      "category": "Security",
+      "defname": "Eccentric_Turret_M3ACGL",
+      "price": 4425
+    },
+    {
+      "abr": "angelcombatuniform",
+      "category": "Eccentric",
+      "defname": "EccentricUniformCombat",
+      "price": 8333
+    },
+    {
+      "abr": "angelleaderuniform",
+      "category": "Eccentric",
+      "defname": "EccentricUniformLeader",
+      "price": 10000
+    },
+    {
+      "abr": "angeltechuniform",
+      "category": "Eccentric",
+      "defname": "EccentricUniformTech",
+      "price": 8333
+    },
+    {
+      "abr": "angelworkeruniform",
+      "category": "Eccentric",
+      "defname": "EccentricUniformWorker",
+      "price": 6667
+    },
+    {
+      "abr": "antiairgun",
+      "category": "Security",
+      "defname": "FT_TurretAA",
+      "price": 3392
+    },
+    {
+      "abr": "antitankgun",
+      "category": "Security",
+      "defname": "FT_TurretAT",
+      "price": 3617
+    },
+    {
+      "abr": "apsaraundersuit",
+      "category": "Eccentric",
+      "defname": "EccentricUndersuitApsara",
+      "price": 6667
+    },
+    {
+      "abr": "arbormancerspell:bramblepatch",
+      "category": "Scrolls",
+      "defname": "SpellOf_BramblePatch",
+      "price": 1333
+    },
+    {
+      "abr": "arelundersuit",
+      "category": "Eccentric",
+      "defname": "EccentricUndersuitArel",
+      "price": 9167
+    },
+    {
+      "abr": "auroracore",
+      "category": "Misc",
+      "defname": "EccentricAuroraCore",
+      "price": 8467
+    },
+    {
+      "abr": "autocannon",
+      "category": "Security",
+      "defname": "FT_AutoCannon",
+      "price": 667
+    },
+    {
+      "abr": "brainstew",
+      "category": "Drugs",
+      "defname": "IH_BrainStew",
+      "price": 20
+    },
+    {
+      "abr": "caw5hedp",
+      "category": "Ranged weapons",
+      "defname": "Eccentric_Gun_M5CAW",
+      "price": 1992
+    },
+    {
+      "abr": "cgl1grenadelauncher",
+      "category": "Ranged weapons",
+      "defname": "Eccentric_Gun_M1CGL",
+      "price": 3700
+    },
+    {
+      "abr": "chemistrytable",
+      "category": "Production",
+      "defname": "FT_TableChemistry",
+      "price": 1767
+    },
+    {
+      "abr": "combathalo",
+      "category": "Headwear",
+      "defname": "EccentricFrillCombat",
+      "price": 4167
+    },
+    {
+      "abr": "combathalohelmet",
+      "category": "Headwear",
+      "defname": "EccentricFrillCombatHelmet",
+      "price": 5000
+    },
+    {
+      "abr": "combathalowithglasses",
+      "category": "Headwear",
+      "defname": "EccentricFrillCombatGlasses",
+      "price": 4167
+    },
+    {
+      "abr": "concretebarrier",
+      "category": "Security",
+      "defname": "FT_Barrier",
+      "price": 16
+    },
+    {
+      "abr": "concreteblocks",
+      "category": "Stone blocks",
+      "defname": "FT_BlocksConcrete",
+      "price": 2
+    },
+    {
+      "abr": "concretemixer",
+      "category": "Production",
+      "defname": "FT_TableConcrete",
+      "price": 600
+    },
+    {
+      "abr": "diagonalconcretebarrier",
+      "category": "Security",
+      "defname": "FT_BarrierDiagonal",
+      "price": 16
+    },
+    {
+      "abr": "dye",
+      "category": "Plant matter",
+      "defname": "Dye",
+      "price": 13
+    },
+    {
+      "abr": "e.n.i.a.c.",
+      "category": "Misc",
+      "defname": "FT_ENIAC",
+      "price": 3583
+    },
+    {
+      "abr": "e15chargerifle",
+      "category": "Ranged weapons",
+      "defname": "Eccentric_Gun_E15CR",
+      "price": 1983
+    },
+    {
+      "abr": "e16precisionchargerifle",
+      "category": "Ranged weapons",
+      "defname": "Eccentric_Gun_E16PR",
+      "price": 2883
+    },
+    {
+      "abr": "e18designatedmarksmanrifle",
+      "category": "Ranged weapons",
+      "defname": "Eccentric_Gun_E18DMR",
+      "price": 2808
+    },
+    {
+      "abr": "e9cchargecarbine",
+      "category": "Ranged weapons",
+      "defname": "Eccentric_Gun_E9C",
+      "price": 2100
+    },
+    {
+      "abr": "fiberconcreteplank",
+      "category": "Stone blocks",
+      "defname": "FT_WoodConcrete",
+      "price": 2
+    },
+    {
+      "abr": "hexagonalmortarlauncher",
+      "category": "Security",
+      "defname": "FT_TurretHexMortar",
+      "price": 7633
+    },
+    {
+      "abr": "high-densityhex-cell",
+      "category": "Manufactured",
+      "defname": "Eccentric_HexCell",
+      "price": 417
+    },
+    {
+      "abr": "infantrymortar",
+      "category": "Security",
+      "defname": "FT_Turret_Mortar",
+      "price": 1175
+    },
+    {
+      "abr": "l20cchargelmg",
+      "category": "Ranged weapons",
+      "defname": "Eccentric_Gun_L20C",
+      "price": 3083
+    },
+    {
+      "abr": "l32machinegun",
+      "category": "Security",
+      "defname": "Eccentric_Turret_L32MG",
+      "price": 3058
+    },
+    {
+      "abr": "lathe",
+      "category": "Production",
+      "defname": "FT_TableLathe",
+      "price": 933
+    },
+    {
+      "abr": "layeredshieldbelt",
+      "category": "Utility",
+      "defname": "Eccentric_LayeredShieldBelt",
+      "price": 1842
+    },
+    {
+      "abr": "m3rosethorn",
+      "category": "Melee weapons",
+      "defname": "Eccentric_Rosethorn",
+      "price": 450
+    },
+    {
+      "abr": "medicbag",
+      "category": "Apparel",
+      "defname": "Apparel_flyfire2002_MedicBag",
+      "price": 708
+    },
+    {
+      "abr": "minerskill:collapsingcolumn",
+      "category": "Scrolls",
+      "defname": "SkillOf_CollapsingColumn",
+      "price": 1667
+    },
+    {
+      "abr": "mobilechemfuelgenerator",
+      "category": "Security",
+      "defname": "FT_FuelGenerator",
+      "price": 492
+    },
+    {
+      "abr": "modulatedshieldbelt",
+      "category": "Utility",
+      "defname": "Eccentric_ModulatedShieldBelt",
+      "price": 1842
+    },
+    {
+      "abr": "nanoassembler",
+      "category": "Production",
+      "defname": "EccentricNanoassembler",
+      "price": 7808
+    },
+    {
+      "abr": "nanofabricator",
+      "category": "Production",
+      "defname": "EccentricNanofabricator",
+      "price": 4992
+    },
+    {
+      "abr": "nanoweave",
+      "category": "Textiles",
+      "defname": "Eccentric_Nanoweave",
+      "price": 15
+    },
+    {
+      "abr": "nanoweaveapron",
+      "category": "Gear",
+      "defname": "EccentricApron",
+      "price": 2500
+    },
+    {
+      "abr": "nanoweavehalf-apron",
+      "category": "Gear",
+      "defname": "EccentricApronHalf",
+      "price": 2500
+    },
+    {
+      "abr": "nanoweavetacticalgear",
+      "category": "Gear",
+      "defname": "EccentricLBEBasic",
+      "price": 4167
+    },
+    {
+      "abr": "nanoweavetechapron",
+      "category": "Gear",
+      "defname": "EccentricApronTech",
+      "price": 3333
+    },
+    {
+      "abr": "p12chargepdw",
+      "category": "Ranged weapons",
+      "defname": "Eccentric_Gun_P12PDW",
+      "price": 1158
+    },
+    {
+      "abr": "p17sentrygun",
+      "category": "Security",
+      "defname": "Eccentric_Turret_P17SG",
+      "price": 2167
+    },
+    {
+      "abr": "packedconcrete",
+      "category": "Manufactured",
+      "defname": "FT_ConcreteCompressed",
+      "price": 83
+    },
+    {
+      "abr": "phasedshieldbelt",
+      "category": "Utility",
+      "defname": "Eccentric_PhasedShieldBelt",
+      "price": 1275
+    },
+    {
+      "abr": "quadmachinegun",
+      "category": "Security",
+      "defname": "FT_Maxim4M",
+      "price": 825
+    },
+    {
+      "abr": "radioterminal",
+      "category": "Security",
+      "defname": "FT_Radio",
+      "price": 278
+    },
+    {
+      "abr": "recoillessgun",
+      "category": "Security",
+      "defname": "FT_RecoillessGun",
+      "price": 1758
+    },
+    {
+      "abr": "s8chargepistol",
+      "category": "Ranged weapons",
+      "defname": "Eccentric_Gun_S8P",
+      "price": 942
+    },
+    {
+      "abr": "seraphundersuit",
+      "category": "Eccentric",
+      "defname": "EccentricUndersuitSeraph",
+      "price": 6667
+    },
+    {
+      "abr": "severedhead",
+      "category": "Drugs",
+      "defname": "IH_Head",
+      "price": 20
+    },
+    {
+      "abr": "tetrapods",
+      "category": "Security",
+      "defname": "FT_Tetrapods",
+      "price": 16
+    },
+    {
+      "abr": "utilityhalo",
+      "category": "Headwear",
+      "defname": "EccentricFrillWorker",
+      "price": 2500
+    },
+    {
+      "abr": "antennatower",
+      "category": "Misc",
+      "defname": "FT_AntennaTower",
+      "price": 875
+    },
+    {
+      "abr": "machinegunnest",
+      "category": "Misc",
+      "defname": "FT_Turret_Bunker",
+      "price": 1142
+    },
+    {
+      "abr": "machinegunbunker",
+      "category": "Misc",
+      "defname": "FT_Turret_BunkerM",
+      "price": 1142
+    },
+    {
+      "abr": "machinegunbunker",
+      "category": "Misc",
+      "defname": "FT_Turret_BunkerC",
+      "price": 1150
+    },
+    {
+      "abr": "militarymachinegunnest",
+      "category": "Misc",
+      "defname": "FT_Turret_BunkerF",
+      "price": 1142
+    },
+    {
+      "abr": "militarysandbag",
+      "category": "Misc",
+      "defname": "FT_Sandbag",
+      "price": 25
+    },
+    {
+      "abr": "militarysandbagwall",
+      "category": "Misc",
+      "defname": "FT_WallSandbag",
+      "price": 36
+    },
+    {
+      "abr": "tanktrap",
+      "category": "Misc",
+      "defname": "FT_TankTrap",
+      "price": 9
+    },
+    {
+      "abr": "reinforcedditch",
+      "category": "Misc",
+      "defname": "FT_ReinforcedDitch",
+      "price": 23
+    },
+    {
+      "abr": "castlewall",
+      "category": "Misc",
+      "defname": "FT_CastleWall",
+      "price": 71
+    },
+    {
+      "abr": "castlewallembrasures",
+      "category": "Misc",
+      "defname": "FT_CastleWallEmbrasures",
+      "price": 55
     }
   ],
-  "total": 4155
+  "total": 4225
 }

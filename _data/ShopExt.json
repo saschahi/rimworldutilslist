@@ -46334,7 +46334,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 3000
+      "price": 1500
     },
     {
       "data": {
@@ -46447,7 +46447,7 @@
       "defName": "ChjBattleDroid",
       "enabled": true,
       "name": "Battle droid",
-      "price": 3000
+      "price": 3167
     },
     {
       "data": {
@@ -46477,7 +46477,7 @@
       },
       "description": "A form of mechanized infantry, produced during an ancient time on this rimworld. These units are very strong, powerful war machines but are subsequently slow and have limited battery to them.",
       "defName": "M7Mech",
-      "enabled": false,
+      "enabled": true,
       "name": "M7 Mechanised infantry",
       "price": 30000
     },
@@ -47002,7 +47002,7 @@
       "defName": "Kurin_Race",
       "enabled": true,
       "name": "Kurin",
-      "price": 3000
+      "price": 5833
     },
     {
       "data": {
@@ -47034,7 +47034,7 @@
       "defName": "MG_Baphomet",
       "enabled": true,
       "name": "Baphomet",
-      "price": 3000
+      "price": 3083
     },
     {
       "data": {
@@ -47066,7 +47066,7 @@
       "defName": "MG_Catgirl",
       "enabled": true,
       "name": "Catgirl",
-      "price": 3000
+      "price": 1500
     },
     {
       "data": {
@@ -47098,7 +47098,7 @@
       "defName": "MG_Centaur",
       "enabled": true,
       "name": "Centaur",
-      "price": 3000
+      "price": 1500
     },
     {
       "data": {
@@ -47130,7 +47130,7 @@
       "defName": "MG_Cowgirl",
       "enabled": true,
       "name": "Cowgirl",
-      "price": 3000
+      "price": 1500
     },
     {
       "data": {
@@ -47163,7 +47163,7 @@
       "defName": "MG_Dragon",
       "enabled": true,
       "name": "Dragon",
-      "price": 3000
+      "price": 2000
     },
     {
       "data": {
@@ -47195,7 +47195,7 @@
       "defName": "MG_ForestFairy",
       "enabled": true,
       "name": "ForestFairy",
-      "price": 3000
+      "price": 1500
     },
     {
       "data": {
@@ -47227,7 +47227,7 @@
       "defName": "MG_Foxgirl",
       "enabled": true,
       "name": "Foxgirl",
-      "price": 3000
+      "price": 1500
     },
     {
       "data": {
@@ -47259,7 +47259,7 @@
       "defName": "MG_Harpy",
       "enabled": true,
       "name": "Harpy",
-      "price": 3000
+      "price": 1500
     },
     {
       "data": {
@@ -47291,7 +47291,7 @@
       "defName": "MG_IceFairy",
       "enabled": true,
       "name": "IceFairy",
-      "price": 3000
+      "price": 1500
     },
     {
       "data": {
@@ -47323,7 +47323,7 @@
       "defName": "MG_Slime",
       "enabled": true,
       "name": "Slime",
-      "price": 3000
+      "price": 1500
     },
     {
       "data": {
@@ -47356,7 +47356,7 @@
       "defName": "MG_Thrumbogirl",
       "enabled": true,
       "name": "Thrumbogirl",
-      "price": 3000
+      "price": 2500
     },
     {
       "data": {
@@ -47388,7 +47388,7 @@
       "defName": "MG_Wolfgirl",
       "enabled": true,
       "name": "Wolfgirl",
-      "price": 3000
+      "price": 1500
     }
   ]
 }

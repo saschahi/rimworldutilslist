@@ -171,11 +171,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "reviveanypawn",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "pawn",
 		"price": 1,
 		"karmatype": "Good"
@@ -232,7 +227,7 @@
 	},
 	{
 		"abr": "healanypawn",
-		"price": 1000,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -326,6 +321,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "immortality",
+		"price": 500000,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "alphaasteroid",
 		"price": 1000,
 		"karmatype": "Neutral"
@@ -381,11 +381,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "raidblackhive",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "fungalhuskwandersin",
 		"price": 600,
 		"karmatype": "Neutral"
@@ -431,5 +426,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 86
+	"total": 85
 }
