@@ -4744,7 +4744,7 @@
       "abr": "archotechlimbassembler",
       "category": "Special",
       "defname": "ArchoPartAssembler",
-      "price": 41667
+      "price": -10
     },
     {
       "abr": "archotechliver",
@@ -5398,7 +5398,7 @@
       "abr": "bandolier",
       "category": "Apparel",
       "defname": "Apparello_Ammobelt",
-      "price": 124
+      "price": -10
     },
     {
       "abr": "banner",
@@ -11902,7 +11902,7 @@
       "abr": "largearchotechreplicator",
       "category": "Special",
       "defname": "MAG_ArchoReproductorLarge",
-      "price": 2625000
+      "price": -10
     },
     {
       "abr": "largebattery",
@@ -13030,7 +13030,7 @@
       "abr": "mediumarchotechreplicator",
       "category": "Special",
       "defname": "MAG_ArchoReproductorMedium",
-      "price": 262500
+      "price": -10
     },
     {
       "abr": "mediumcapturedasteroid,bottom",
@@ -16528,7 +16528,7 @@
       "abr": "smallarchotechreplicator",
       "category": "Special",
       "defname": "ArchoReproductor",
-      "price": 26250
+      "price": -10
     },
     {
       "abr": "smallbattery",
@@ -20602,7 +20602,7 @@
       "abr": "skycloudcore",
       "category": "Misc",
       "defname": "ATPP_SkyCloudCore",
-      "price": 28367
+      "price": -10
     },
     {
       "abr": "concertinawireobstacle",
@@ -24775,138 +24775,6 @@
       "price": 31342
     },
     {
-      "abr": "guestbed",
-      "category": "Furniture",
-      "defname": "BedGuest",
-      "price": 155
-    },
-    {
-      "abr": "guestdoublebed",
-      "category": "Furniture",
-      "defname": "DoubleBedGuest",
-      "price": 292
-    },
-    {
-      "abr": "guestroyalbed",
-      "category": "Furniture",
-      "defname": "RoyalBedGuest",
-      "price": 1467
-    },
-    {
-      "abr": "guesthospitalbed",
-      "category": "Furniture",
-      "defname": "HospitalBedGuest",
-      "price": 667
-    },
-    {
-      "abr": "guestbedroll",
-      "category": "Furniture",
-      "defname": "BedrollGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestdoublebedroll",
-      "category": "Furniture",
-      "defname": "BedrollDoubleGuest",
-      "price": 290
-    },
-    {
-      "abr": "guestancientbed",
-      "category": "Misc",
-      "defname": "AncientBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "SlabBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestslabdoublebed",
-      "category": "Furniture",
-      "defname": "SlabDoubleBedGuest",
-      "price": 288
-    },
-    {
-      "abr": "guestandroidpod",
-      "category": "Furniture",
-      "defname": "ATPP_AndroidPodGuest",
-      "price": 282
-    },
-    {
-      "abr": "guestm7pod",
-      "category": "Furniture",
-      "defname": "ATPP_AndroidPodMechGuest",
-      "price": 1483
-    },
-    {
-      "abr": "guestandroidupgradestation",
-      "category": "Furniture",
-      "defname": "AndroidOperationBedGuest",
-      "price": 1142
-    },
-    {
-      "abr": "guestsleevecasket",
-      "category": "Furniture",
-      "defname": "UT_SleeveCasketGuest",
-      "price": 808
-    },
-    {
-      "abr": "guestergonomicbed",
-      "category": "Furniture",
-      "defname": "Bed_ErgonomicGuest",
-      "price": 450
-    },
-    {
-      "abr": "guestergonomicdoublebed",
-      "category": "Furniture",
-      "defname": "Bed_DoubleErgonomicGuest",
-      "price": 867
-    },
-    {
-      "abr": "guestroyalposterbed",
-      "category": "Furniture",
-      "defname": "Bed_KingsizeGuest",
-      "price": 2008
-    },
-    {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "Bed_StoneSlabGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestsimplebed",
-      "category": "Furniture",
-      "defname": "Bed_SimpleGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestoperatingtable",
-      "category": "Furniture",
-      "defname": "Bed_OperatingTableGuest",
-      "price": 508
-    },
-    {
-      "abr": "guestcryptosleepsuspender",
-      "category": "Furniture",
-      "defname": "Bed_CryptoBedGuest",
-      "price": 733
-    },
-    {
-      "abr": "guestadvancedbed",
-      "category": "Furniture",
-      "defname": "Bed_AdvBedGuest",
-      "price": 833
-    },
-    {
-      "abr": "guestadvanceddoublebed",
-      "category": "Furniture",
-      "defname": "Bed_AdvDoubleBedGuest",
-      "price": 1483
-    },
-    {
       "abr": "ambusherskill:poisontrap",
       "category": "Scrolls",
       "defname": "SkillOf_AmbusherPoisonTrap",
@@ -25349,7 +25217,349 @@
       "category": "Misc",
       "defname": "FT_CastleWallEmbrasures",
       "price": 55
+    },
+    {
+      "abr": "troubadourskill:misery'send",
+      "category": "Scrolls",
+      "defname": "SkillOf_MiserysEnd",
+      "price": 2000
+    },
+    {
+      "abr": "troubadourskill:swiftsong",
+      "category": "Scrolls",
+      "defname": "SkillOf_Swiftsong",
+      "price": 1833
+    },
+    {
+      "abr": "autoclave",
+      "category": "Oil",
+      "defname": "Autoclave",
+      "price": 1108
+    },
+    {
+      "abr": "chemfuelpowerplant",
+      "category": "Oil",
+      "defname": "FuelPowerplant",
+      "price": 1558
+    },
+    {
+      "abr": "chemfuelpump",
+      "category": "Oil",
+      "defname": "ChemfuelHopper",
+      "price": 49
+    },
+    {
+      "abr": "chemfuelsiphon",
+      "category": "Oil",
+      "defname": "ChemfuelSiphon",
+      "price": 49
+    },
+    {
+      "abr": "combatform:striker",
+      "category": "Skill books",
+      "defname": "BookOfStriker",
+      "price": 4292
+    },
+    {
+      "abr": "hyperweaverefiner",
+      "category": "Oil",
+      "defname": "HyperweaveRefiner",
+      "price": 2075
+    },
+    {
+      "abr": "napalmbomb",
+      "category": "Oil",
+      "defname": "NapalmBomb",
+      "price": 350
+    },
+    {
+      "abr": "napalmrefiner",
+      "category": "Oil",
+      "defname": "NapalmRefiner",
+      "price": 758
+    },
+    {
+      "abr": "napalmshell",
+      "category": "Mortar shells",
+      "defname": "Shell_Napalm",
+      "price": 92
+    },
+    {
+      "abr": "neutroaminerefiner",
+      "category": "Oil",
+      "defname": "NeutroamineRefiner",
+      "price": 1583
+    },
+    {
+      "abr": "pipelinevalve",
+      "category": "Oil",
+      "defname": "pipelineValve",
+      "price": 50
+    },
+    {
+      "abr": "refineryunloadingbay",
+      "category": "Oil",
+      "defname": "RefineryLoadingBay",
+      "price": 49
+    },
+    {
+      "abr": "resourceconsole",
+      "category": "Oil",
+      "defname": "ResourceConsole",
+      "price": 642
+    },
+    {
+      "abr": "strikerskill:howlingfist",
+      "category": "Scrolls",
+      "defname": "SkillOf_HowlingFist",
+      "price": 2500
+    },
+    {
+      "abr": "strikerskill:rockbreaker",
+      "category": "Scrolls",
+      "defname": "SkillOf_Rockbreaker",
+      "price": 3000
+    },
+    {
+      "abr": "synthamiderefiner",
+      "category": "Oil",
+      "defname": "SynthamideRefiner",
+      "price": 1167
+    },
+    {
+      "abr": "synthreadrefiner",
+      "category": "Oil",
+      "defname": "SynthreadRefiner",
+      "price": 808
+    },
+    {
+      "abr": "synthylenerefiner",
+      "category": "Oil",
+      "defname": "SynthyleneRefiner",
+      "price": 758
+    },
+    {
+      "abr": "uncuredplasteel",
+      "category": "Raw resources",
+      "defname": "UncuredPlasteel",
+      "price": 3
+    },
+    {
+      "abr": "uncuredsynthamidecomposite",
+      "category": "Synthamide",
+      "defname": "UncuredComposite",
+      "price": 3
+    },
+    {
+      "abr": "tradingspot",
+      "category": "Misc",
+      "defname": "TradingSpot",
+      "price": 1
+    },
+    {
+      "abr": "napalmtrail",
+      "category": "Misc",
+      "defname": "Filth_NapalmTrail",
+      "price": 9
+    },
+    {
+      "abr": "sparkgrid",
+      "category": "Misc",
+      "defname": "SparkGrid",
+      "price": 79
+    },
+    {
+      "abr": "oilpipeline",
+      "category": "Misc",
+      "defname": "OilPipeline",
+      "price": 5
+    },
+    {
+      "abr": "oilwellhead",
+      "category": "Misc",
+      "defname": "OilWellHead",
+      "price": 90
+    },
+    {
+      "abr": "deepoilwellhead",
+      "category": "Misc",
+      "defname": "DeepOilWellHead",
+      "price": 90
+    },
+    {
+      "abr": "oilwell",
+      "category": "Misc",
+      "defname": "OilWell",
+      "price": 792
+    },
+    {
+      "abr": "deepoilwell",
+      "category": "Misc",
+      "defname": "DeepOilWell",
+      "price": 792
+    },
+    {
+      "abr": "crudeoilstorage",
+      "category": "Misc",
+      "defname": "OilStorage",
+      "price": 458
+    },
+    {
+      "abr": "chemfuelstorage",
+      "category": "Misc",
+      "defname": "FuelStorage",
+      "price": 458
+    },
+    {
+      "abr": "crudecracker",
+      "category": "Misc",
+      "defname": "CrudeCracker",
+      "price": 1683
+    },
+    {
+      "abr": "largechemfuelpowerplant",
+      "category": "Misc",
+      "defname": "LargeFuelPowerplant",
+      "price": 3750
+    },
+    {
+      "abr": "iedantigrainwarheadtrap",
+      "category": "Misc",
+      "defname": "TrapIED_AntigrainWarhead_Large",
+      "price": 8
+    },
+    {
+      "abr": "guestbed",
+      "category": "Furniture",
+      "defname": "BedGuest",
+      "price": 155
+    },
+    {
+      "abr": "guestdoublebed",
+      "category": "Furniture",
+      "defname": "DoubleBedGuest",
+      "price": 292
+    },
+    {
+      "abr": "guestroyalbed",
+      "category": "Furniture",
+      "defname": "RoyalBedGuest",
+      "price": 1467
+    },
+    {
+      "abr": "guesthospitalbed",
+      "category": "Furniture",
+      "defname": "HospitalBedGuest",
+      "price": 667
+    },
+    {
+      "abr": "guestbedroll",
+      "category": "Furniture",
+      "defname": "BedrollGuest",
+      "price": 137
+    },
+    {
+      "abr": "guestdoublebedroll",
+      "category": "Furniture",
+      "defname": "BedrollDoubleGuest",
+      "price": 290
+    },
+    {
+      "abr": "guestancientbed",
+      "category": "Misc",
+      "defname": "AncientBedGuest",
+      "price": 5
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "SlabBedGuest",
+      "price": 102
+    },
+    {
+      "abr": "guestslabdoublebed",
+      "category": "Furniture",
+      "defname": "SlabDoubleBedGuest",
+      "price": 288
+    },
+    {
+      "abr": "guestandroidpod",
+      "category": "Furniture",
+      "defname": "ATPP_AndroidPodGuest",
+      "price": 282
+    },
+    {
+      "abr": "guestm7pod",
+      "category": "Furniture",
+      "defname": "ATPP_AndroidPodMechGuest",
+      "price": 1483
+    },
+    {
+      "abr": "guestandroidupgradestation",
+      "category": "Furniture",
+      "defname": "AndroidOperationBedGuest",
+      "price": 1142
+    },
+    {
+      "abr": "guestsleevecasket",
+      "category": "Furniture",
+      "defname": "UT_SleeveCasketGuest",
+      "price": 808
+    },
+    {
+      "abr": "guestergonomicbed",
+      "category": "Furniture",
+      "defname": "Bed_ErgonomicGuest",
+      "price": 450
+    },
+    {
+      "abr": "guestergonomicdoublebed",
+      "category": "Furniture",
+      "defname": "Bed_DoubleErgonomicGuest",
+      "price": 867
+    },
+    {
+      "abr": "guestroyalposterbed",
+      "category": "Furniture",
+      "defname": "Bed_KingsizeGuest",
+      "price": 2008
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "Bed_StoneSlabGuest",
+      "price": 111
+    },
+    {
+      "abr": "guestsimplebed",
+      "category": "Furniture",
+      "defname": "Bed_SimpleGuest",
+      "price": 137
+    },
+    {
+      "abr": "guestoperatingtable",
+      "category": "Furniture",
+      "defname": "Bed_OperatingTableGuest",
+      "price": 508
+    },
+    {
+      "abr": "guestcryptosleepsuspender",
+      "category": "Furniture",
+      "defname": "Bed_CryptoBedGuest",
+      "price": 733
+    },
+    {
+      "abr": "guestadvancedbed",
+      "category": "Furniture",
+      "defname": "Bed_AdvBedGuest",
+      "price": 833
+    },
+    {
+      "abr": "guestadvanceddoublebed",
+      "category": "Furniture",
+      "defname": "Bed_AdvDoubleBedGuest",
+      "price": 1483
     }
   ],
-  "total": 4225
+  "total": 4260
 }
