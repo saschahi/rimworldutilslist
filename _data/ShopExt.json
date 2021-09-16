@@ -42255,1556 +42255,6 @@
       "degree": 0
     },
     {
-      "description": "Timmy likes making apparel. he can work wonders with a needle and thread a hammer and anvil, not so much.",
-      "stats": [
-        "+1 crafting",
-        "-50% smithing speed",
-        "+50% tailoring speed"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+1 crafting",
-          "-50% smithing speed",
-          "+50% tailoring speed"
-        ]
-      },
-      "defName": "GAT_ProfessionalTailor",
-      "name": "naturaltailor",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is an eccentric artist. he has an affinity for the arts, he often gets lost in his work and forget to take care of himself.",
-      "stats": [
-        "+1 artistic",
-        "+50% sculpting speed",
-        "+10% toxic sensitivity",
-        "-10% immunity gain speed",
-        "+10% psychic sensitivity",
-        "+10% mental break threshold"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+1 artistic",
-          "+50% sculpting speed",
-          "+10% toxic sensitivity",
-          "-10% immunity gain speed",
-          "+10% psychic sensitivity",
-          "+10% mental break threshold"
-        ]
-      },
-      "defName": "GAT_AvidArtist",
-      "name": "eccentricartist",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is confident that everything will work out for the best.",
-      "stats": [
-        "+2 social",
-        "-6% mental break threshold"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+2 social",
-          "-6% mental break threshold"
-        ]
-      },
-      "defName": "GAT_Confident",
-      "name": "confident",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is seriously overweight. he moves slowly, and works even slower.",
-      "stats": [
-        "-0.30 move speed",
-        "-25% global work speed",
-        "+10 meat amount"
-      ],
-      "conflicts": [
-        "athletic"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "athletic"
-        ],
-        "stats": [
-          "-0.30 move speed",
-          "-25% global work speed",
-          "+10 meat amount"
-        ]
-      },
-      "defName": "GAT_Overweight",
-      "name": "overweight",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has honed his mind and body for most of his life.",
-      "stats": [
-        "+2 melee",
-        "+2 shooting",
-        "+1 construction",
-        "+0.35 move speed",
-        "+25% global work speed",
-        "-10% aiming time",
-        "+0.1 shooting accuracy"
-      ],
-      "conflicts": [
-        "overweight"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "overweight"
-        ],
-        "stats": [
-          "+2 melee",
-          "+2 shooting",
-          "+1 construction",
-          "+0.35 move speed",
-          "+25% global work speed",
-          "-10% aiming time",
-          "+0.1 shooting accuracy"
-        ]
-      },
-      "defName": "GAT_Athletic",
-      "name": "athletic",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3000,
-      "removePrice": 3000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy demonstrates neat skill, especially with his hands.",
-      "stats": [
-        "+2 crafting",
-        "+2 artistic",
-        "+25% global work speed",
-        "-10% aiming time"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+2 crafting",
-          "+2 artistic",
-          "+25% global work speed",
-          "-10% aiming time"
-        ]
-      },
-      "defName": "GAT_Dexterous",
-      "name": "dexterous",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has a keen eye, and can quickly spot a target.",
-      "stats": [
-        "+1 shooting",
-        "+0.3 shooting accuracy",
-        "+0.1 melee hit chance"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+1 shooting",
-          "+0.3 shooting accuracy",
-          "+0.1 melee hit chance"
-        ]
-      },
-      "defName": "GAT_Perceptive",
-      "name": "perceptive",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is fastidious to a fault.",
-      "stats": [
-        "+1 cooking",
-        "-25% global work speed",
-        "-50.00% food poison chance",
-        "+20% immunity gain speed",
-        "+20% medical surgery success chance",
-        "+20% medical tend quality",
-        "+20% medical operation speed",
-        "+20% medical tend speed"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+1 cooking",
-          "-25% global work speed",
-          "-50.00% food poison chance",
-          "+20% immunity gain speed",
-          "+20% medical surgery success chance",
-          "+20% medical tend quality",
-          "+20% medical operation speed",
-          "+20% medical tend speed"
-        ]
-      },
-      "defName": "GAT_Clean",
-      "name": "clean",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has a hard time seeing things clearly unless he is relatively close to it.",
-      "stats": [
-        "-10% global work speed",
-        "-0.3 shooting accuracy"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "-10% global work speed",
-          "-0.3 shooting accuracy"
-        ]
-      },
-      "defName": "GAT_Nearsighted",
-      "name": "near-sighted",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has always picked up skills pretty quickly.",
-      "stats": [
-        "+25% global learning factor"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+25% global learning factor"
-        ]
-      },
-      "defName": "GAT_QuickLearner",
-      "name": "quicklearner",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 0
-    },
-    {
-      "description": "Some people use a spoon to eat. Timmy uses a shovel...",
-      "stats": [
-        "+25% eating speed"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+25% eating speed"
-        ]
-      },
-      "defName": "GAT_Glutton",
-      "name": "glutton",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is good at persuading someone to do or believe something through reasoning or the use of temptation.",
-      "stats": [
-        "+10.00% negotiation ability",
-        "+10.00% social impact",
-        "+5.00% trade price improvement"
-      ],
-      "conflicts": [
-        "sucker",
-        "amateurhaggler",
-        "hagglingenthusiast"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "sucker",
-          "amateurhaggler",
-          "hagglingenthusiast"
-        ],
-        "stats": [
-          "+10.00% negotiation ability",
-          "+10.00% social impact",
-          "+5.00% trade price improvement"
-        ]
-      },
-      "defName": "GAT_Persuasive",
-      "name": "persuasive",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy could sleep through an earthquake.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "GAT_HeavySleeper",
-      "name": "heavysleeper",
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is an extreme pervert. he doesn't mind sharing a room, or streaking. It makes others feel incredibly uncomfortable.",
-      "stats": [
-        "-1 social"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "-1 social"
-        ]
-      },
-      "defName": "GAT_Pervert",
-      "name": "pervert",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
-      "degree": 0
-    },
-    {
-      "description": "Ashes to ashes and dust to dust. Timmy is fascinated by corpses and decay.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "GAT_Morbid",
-      "name": "morbid",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy takes medicine very seriously. he wants to do no harm and isn't afraid to take longer to do the job right.",
-      "stats": [
-        "+1 medical",
-        "+20% medical operation speed",
-        "+20% medical tend speed",
-        "+60% medical surgery success chance",
-        "+50% medical tend quality"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+1 medical",
-          "+20% medical operation speed",
-          "+20% medical tend speed",
-          "+60% medical surgery success chance",
-          "+50% medical tend quality"
-        ]
-      },
-      "defName": "GAT_CarefulSurgeon",
-      "name": "carefulsurgeon",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 0
-    },
-    {
-      "description": "Sometimes it's hard to tell where the knife stops and Timmy starts. People like to say that \"if it bleeds Timmy can skin it and split it\".",
-      "stats": [
-        "+1 cooking",
-        "-50% mechanoid shredding speed",
-        "+50% butchery speed"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+1 cooking",
-          "-50% mechanoid shredding speed",
-          "+50% butchery speed"
-        ]
-      },
-      "defName": "GAT_ProfessionalButcher",
-      "name": "naturalbutcher",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is loved by animals, but people don't feel quite the same.",
-      "stats": [
-        "+1 animals",
-        "+50.00% train animal chance",
-        "+50.00% tame animal chance",
-        "-50.00% social impact"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+1 animals",
-          "+50.00% train animal chance",
-          "+50.00% tame animal chance",
-          "-50.00% social impact"
-        ]
-      },
-      "defName": "GAT_LovedByAnimals",
-      "name": "lovedbyanimals",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 0
-    },
-    {
-      "description": "Strange new ideas just appear in the mind of Timmy. Researching new technology comes easily to Timmy, but he always seems distracted.",
-      "stats": [
-        "+1 intellectual",
-        "+70% research speed",
-        "-20% global work speed",
-        "-0.10 move speed",
-        "+10% psychic sensitivity",
-        "+10% mental break threshold"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+1 intellectual",
-          "+70% research speed",
-          "-20% global work speed",
-          "-0.10 move speed",
-          "+10% psychic sensitivity",
-          "+10% mental break threshold"
-        ]
-      },
-      "defName": "GAT_GeniusResearcher",
-      "name": "geniusinventor",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy has a passion for gardening. he knows exactly what a plant needs to grow happily.",
-      "stats": [
-        "+1 plants",
-        "+50% plant work speed",
-        "+150% plant harvest yield"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+1 plants",
-          "+50% plant work speed",
-          "+150% plant harvest yield"
-        ]
-      },
-      "defName": "GAT_GreenestThumb",
-      "name": "greenthumb",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy doesn't like to waste materials. he takes great care in his work.",
-      "stats": [
-        "+1 construction",
-        "-10% construction speed",
-        "+150% construct success chance"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+1 construction",
-          "-10% construction speed",
-          "+150% construct success chance"
-        ]
-      },
-      "defName": "GAT_EfficientBuilder",
-      "name": "efficientbuilder",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy knows how to exploit the cleavage of rocks. he doesn't understand why plants are so much more fragile though.",
-      "stats": [
-        "+1 mining",
-        "+50% mining speed",
-        "+50% smoothing speed",
-        "-75% plant harvest yield"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+1 mining",
-          "+50% mining speed",
-          "+50% smoothing speed",
-          "-75% plant harvest yield"
-        ]
-      },
-      "defName": "GAT_FastMiner",
-      "name": "fastminer",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 0
-    },
-    {
-      "description": "They say a sucker is born every minute, and Timmy is that sucker.",
-      "stats": [
-        "-20.00% trade price improvement"
-      ],
-      "conflicts": [
-        "persuasive"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "persuasive"
-        ],
-        "stats": [
-          "-20.00% trade price improvement"
-        ]
-      },
-      "defName": "GAT_TradePriceImprovementOffset",
-      "name": "sucker",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
-      "degree": -1
-    },
-    {
-      "description": "Timmy likes to haggle. he gets better prices than most people.",
-      "stats": [
-        "+20.00% trade price improvement"
-      ],
-      "conflicts": [
-        "persuasive"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "persuasive"
-        ],
-        "stats": [
-          "+20.00% trade price improvement"
-        ]
-      },
-      "defName": "GAT_TradePriceImprovementOffset",
-      "name": "amateurhaggler",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 1
-    },
-    {
-      "description": "Timmy always gets the best deals - so much so that others often fail to realize they're being duped.",
-      "stats": [
-        "+40.00% trade price improvement"
-      ],
-      "conflicts": [
-        "persuasive"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "persuasive"
-        ],
-        "stats": [
-          "+40.00% trade price improvement"
-        ]
-      },
-      "defName": "GAT_TradePriceImprovementOffset",
-      "name": "hagglingenthusiast",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 2
-    },
-    {
-      "description": "The elephant in the room is named Timmy.",
-      "stats": [
-        "-20.00% social impact"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "-20.00% social impact"
-        ]
-      },
-      "defName": "GAT_SocialImpactOffset",
-      "name": "awkward",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
-      "degree": -1
-    },
-    {
-      "description": "\"That's a lotta graves. Lotta holes to fill. Bow-Chicka-Bow-Wow\" - Timmy, probably.",
-      "stats": [
-        "+20.00% social impact"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+20.00% social impact"
-        ]
-      },
-      "defName": "GAT_SocialImpactOffset",
-      "name": "tucker",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 1
-    },
-    {
-      "description": "Timmy could talk for days on end and people would still listen to that sweet voice.",
-      "stats": [
-        "+40.00% social impact"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+40.00% social impact"
-        ]
-      },
-      "defName": "GAT_SocialImpactOffset",
-      "name": "melodicvoice",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 2
-    },
-    {
-      "description": "Subtle is the game of diplomacy, and subtle, Timmy is not.",
-      "stats": [
-        "-20.00% negotiation ability"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "-20.00% negotiation ability"
-        ]
-      },
-      "defName": "GAT_DiplomacyPowerOffset",
-      "name": "uncouth",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
-      "degree": -1
-    },
-    {
-      "description": "Timmy knows how to grease the wheels of diplomacy.",
-      "stats": [
-        "+20.00% negotiation ability"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+20.00% negotiation ability"
-        ]
-      },
-      "defName": "GAT_DiplomacyPowerOffset",
-      "name": "diplomatic",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 1
-    },
-    {
-      "description": "Timmy has such a way with him words and gifts that he always manages to cool down a tense situation.",
-      "stats": [
-        "+40.00% negotiation ability"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+40.00% negotiation ability"
-        ]
-      },
-      "defName": "GAT_DiplomacyPowerOffset",
-      "name": "verydiplomatic",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 2
-    },
-    {
-      "description": "Timmy has never held a gun in him hands. The weight of the cold metal in him hands makes he shudder uncontrollably.",
-      "stats": [
-        "-2 shooting",
-        "-0.2 shooting accuracy"
-      ],
-      "conflicts": [
-        "brawler"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "brawler"
-        ],
-        "stats": [
-          "-2 shooting",
-          "-0.2 shooting accuracy"
-        ]
-      },
-      "defName": "GAT_ShootingOffsetTrait",
-      "name": "shootingamateur",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
-      "degree": -1
-    },
-    {
-      "description": "Timmy knows him way with a gun.",
-      "stats": [
-        "+2 shooting",
-        "+0.2 shooting accuracy"
-      ],
-      "conflicts": [
-        "brawler"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "brawler"
-        ],
-        "stats": [
-          "+2 shooting",
-          "+0.2 shooting accuracy"
-        ]
-      },
-      "defName": "GAT_ShootingOffsetTrait",
-      "name": "shootingenthusiast",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 1
-    },
-    {
-      "description": "\"My rifle is my best friend. It is my life. I must master it as I must master my life.\" - Timmy, probably.",
-      "stats": [
-        "+4 shooting",
-        "+0.4 shooting accuracy"
-      ],
-      "conflicts": [
-        "brawler"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-          "brawler"
-        ],
-        "stats": [
-          "+4 shooting",
-          "+0.4 shooting accuracy"
-        ]
-      },
-      "defName": "GAT_ShootingOffsetTrait",
-      "name": "shootingprofessional",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
-      "degree": 2
-    },
-    {
-      "description": "Brave Timmy, born with impossible strength and force of will.",
-      "stats": [
-        "+6 melee",
-        "-100% mental break threshold",
-        "+150 carrying capacity",
-        "+50.0% Armor - Blunt",
-        "+70.0% Armor - Sharp"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+6 melee",
-          "-100% mental break threshold",
-          "+150 carrying capacity",
-          "+50.0% Armor - Blunt",
-          "+70.0% Armor - Sharp"
-        ]
-      },
-      "defName": "GAT_Hercules",
-      "name": "herculean",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 10000,
-      "removePrice": 10000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is said to have been dipped in the river of death, he seems invulnerable in battle.",
-      "stats": [
-        "+2 melee",
-        "+2 shooting",
-        "+100% immunity gain speed",
-        "+0.50 move speed",
-        "+80.0% Armor - Blunt",
-        "+80.0% Armor - Sharp"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+2 melee",
-          "+2 shooting",
-          "+100% immunity gain speed",
-          "+0.50 move speed",
-          "+80.0% Armor - Blunt",
-          "+80.0% Armor - Sharp"
-        ]
-      },
-      "defName": "GAT_Achilles",
-      "name": "achillean",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 10000,
-      "removePrice": 10000,
-      "degree": 0
-    },
-    {
-      "description": "Craftier by far than any mortal man, Timmy is also a very capable warrior.",
-      "stats": [
-        "+1 melee",
-        "+1 shooting",
-        "+100% global learning factor",
-        "+0.5 shooting accuracy",
-        "+0.5 melee hit chance"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+1 melee",
-          "+1 shooting",
-          "+100% global learning factor",
-          "+0.5 shooting accuracy",
-          "+0.5 melee hit chance"
-        ]
-      },
-      "defName": "GAT_Odysseus",
-      "name": "odyssean",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 4500,
-      "removePrice": 4500,
-      "degree": 0
-    },
-    {
-      "description": "Feared by him enemies and worshiped by warriors, Timmy is a bloodthirsty embodiment of war.",
-      "stats": [
-        "+8 melee",
-        "+1.0 shooting accuracy",
-        "+0.50 move speed",
-        "+1.0 melee hit chance",
-        "+100.0% Armor - Blunt",
-        "+120.0% Armor - Sharp"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+8 melee",
-          "+1.0 shooting accuracy",
-          "+0.50 move speed",
-          "+1.0 melee hit chance",
-          "+100.0% Armor - Blunt",
-          "+120.0% Armor - Sharp"
-        ]
-      },
-      "defName": "GAT_Ares",
-      "name": "ares'wrath",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 10000,
-      "removePrice": 10000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy's natural instinct to protect and nurture the people led him to champion the hunt.",
-      "stats": [
-        "+8 shooting",
-        "+50% hunting stealth",
-        "+1.0 shooting accuracy",
-        "-100% aiming time",
-        "+100% butchery speed",
-        "+1.0 cooking speed",
-        "+100.0% Armor - Blunt",
-        "+120.0% Armor - Sharp",
-        "+1 foraged food amount"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+8 shooting",
-          "+50% hunting stealth",
-          "+1.0 shooting accuracy",
-          "-100% aiming time",
-          "+100% butchery speed",
-          "+1.0 cooking speed",
-          "+100.0% Armor - Blunt",
-          "+120.0% Armor - Sharp",
-          "+1 foraged food amount"
-        ]
-      },
-      "defName": "GAT_Artemis",
-      "name": "artemis'blessing",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 10000,
-      "removePrice": 10000,
-      "degree": 0
-    },
-    {
-      "description": "So wondrous is Timmy to behold that one look can inspire tears, desire, jealousy, and love.",
-      "stats": [
-        "+8 social",
-        "+100.00% negotiation ability",
-        "+100.00% social impact",
-        "+100.00% trade price improvement",
-        "+100.0% Armor - Blunt",
-        "+120.0% Armor - Sharp"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+8 social",
-          "+100.00% negotiation ability",
-          "+100.00% social impact",
-          "+100.00% trade price improvement",
-          "+100.0% Armor - Blunt",
-          "+120.0% Armor - Sharp"
-        ]
-      },
-      "defName": "GAT_Aphrodite",
-      "name": "aphrodite'sgrace",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 10000,
-      "removePrice": 10000,
-      "degree": 0
-    },
-    {
-      "description": "It is said that Timmy can leap the space between lightning and thunder, outfox the fox king, and reach tomorrow before the sun.",
-      "stats": [
-        "+8 intellectual",
-        "+100% eating speed",
-        "+100% global work speed",
-        "+100% global learning factor",
-        "+1.00 move speed",
-        "+100.0% Armor - Blunt",
-        "+120.0% Armor - Sharp"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+8 intellectual",
-          "+100% eating speed",
-          "+100% global work speed",
-          "+100% global learning factor",
-          "+1.00 move speed",
-          "+100.0% Armor - Blunt",
-          "+120.0% Armor - Sharp"
-        ]
-      },
-      "defName": "GAT_Mercury",
-      "name": "mercury'sblessing",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 10000,
-      "removePrice": 10000,
-      "degree": 0
-    },
-    {
-      "description": "Companion to all woodland creatures, both mundane and fantastic, Timmy protects and nurtures those that respect his domain.",
-      "stats": [
-        "+4 plants",
-        "+4 animals",
-        "+100.00% tame animal chance",
-        "+100.00% train animal chance",
-        "+100% plant work speed",
-        "+200% plant harvest yield",
-        "+100.0% Armor - Blunt",
-        "+120.0% Armor - Sharp",
-        "+1 foraged food amount"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+4 plants",
-          "+4 animals",
-          "+100.00% tame animal chance",
-          "+100.00% train animal chance",
-          "+100% plant work speed",
-          "+200% plant harvest yield",
-          "+100.0% Armor - Blunt",
-          "+120.0% Armor - Sharp",
-          "+1 foraged food amount"
-        ]
-      },
-      "defName": "GAT_Sylvanus",
-      "name": "sylvanus'blessing",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 10000,
-      "removePrice": 10000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy crafts with fire and forge as an artist would with paint and brush.",
-      "stats": [
-        "+4 crafting",
-        "+4 construction",
-        "+200% construct success chance",
-        "+100% construction speed",
-        "+100% smelting speed",
-        "+100% smithing speed",
-        "+100.0% Armor - Blunt",
-        "+120.0% Armor - Sharp"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+4 crafting",
-          "+4 construction",
-          "+200% construct success chance",
-          "+100% construction speed",
-          "+100% smelting speed",
-          "+100% smithing speed",
-          "+100.0% Armor - Blunt",
-          "+120.0% Armor - Sharp"
-        ]
-      },
-      "defName": "GAT_Vulcan",
-      "name": "vulcan'sfire",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 10000,
-      "removePrice": 10000,
-      "degree": 0
-    },
-    {
-      "description": "Timmy sends to sleep those who suffer, the new day bringing good health to them.",
-      "stats": [
-        "+8 medical",
-        "+100% medical tend speed",
-        "+100% medical operation speed",
-        "+100% medical surgery success chance",
-        "+100% medical tend quality",
-        "+100.0% Armor - Blunt",
-        "+120.0% Armor - Sharp"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Additional Traits (Heroes + Gods Optional)",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+8 medical",
-          "+100% medical tend speed",
-          "+100% medical operation speed",
-          "+100% medical surgery success chance",
-          "+100% medical tend quality",
-          "+100.0% Armor - Blunt",
-          "+120.0% Armor - Sharp"
-        ]
-      },
-      "defName": "GAT_Imhotep",
-      "name": "imhotep'swisdom",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 10000,
-      "removePrice": 10000,
-      "degree": 0
-    },
-    {
       "description": "Timmy finds it difficult to focus on distant targets, and prefer to get up close and personal.",
       "stats": [
         "-2 shooting",
@@ -47865,6 +46315,374 @@
       "enabled": true,
       "name": "Wolfgirl",
       "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Adeptus Mechanicus: Magos Xenobiologis",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Ratlings (Homo sapiens minimus) are small, loud, hungry and lecherous Abhumans who often serve as snipers in the Astra Militarum, a role at which they excel. Ratlings also serve as cooks for Imperial Guard regiments, a skill they no doubt learned in order to feed their own seemingly bottomless stomachs; and they also have kleptomaniac tendencies, as Commissars report petty theft and illegal gambling rings increase substantially when Ratlings are attached to a platoon, company or regiment.",
+      "defName": "OG_Abhuman_Ratlin",
+      "enabled": true,
+      "name": "ratling",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$2500 Market value",
+          "+3.50 Move speed",
+          "-10.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+150 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Adeptus Mechanicus: Magos Xenobiologis",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The dim-witted human sub-species called Ogryns (Homo sapiens gigantus) evolved on high-gravity, low-temperature prison planets. They are huge and unusually stupid for a human subrace, but unquestionably loyal to the Imperium once introduced to the faith of the Imperial Cult. Ogryns are used as the Imperial Guard's shock troops, and for this role, they are commonly outfitted with the Ripper Gun. The Ripper Gun is a weapon simple enough for them to operate, although some feral Ogryn cannot even fathom this device. Ogryn are also frequently used as bodyguards by Imperial Commanders.",
+      "defName": "OG_Abhuman_Ogryn",
+      "enabled": true,
+      "name": "ogryn",
+      "price": 4167
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Adeptus Mechanicus: Magos Xenobiologis",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A baseline human, while mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets, members of the Cult Mechanicus have usually undergone heavy bionic modifications.",
+      "defName": "OG_Human_Mechanicus",
+      "enabled": true,
+      "name": "human (Mechanicus)",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+5.00 Move speed",
+          "+8.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+55 Leather amount",
+          "+80 Carrying capacity",
+          "+25% Psychic sensitivity",
+          "+75% Mining speed",
+          "+1.0 Shooting accuracy",
+          "+75% Aiming time",
+          "+2.5% Mental break threshold",
+          "+105% Immunity gain speed",
+          "+85% Pain shock threshold",
+          "+1 Foraged food amount",
+          "+115% Global learning factor",
+          "+1.3 Melee dodge chance",
+          "+1.2 Melee hit chance",
+          "+118% General labor speed",
+          "+115% Butchery speed",
+          "+115% Butchery efficiency",
+          "+85% Smelting speed",
+          "+75.00% Negotiation ability",
+          "+75.00% Social impact",
+          "+75.00% Trade price improvement"
+        ],
+        "mod": "Adeptus Xenobiologis: Aeldari",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The Aeldari race has a long and complex spacefaring history, so long in fact that little is known for certain about the course of their physical evolution and early planet-bound existence. The original Aeldari homeworld was destroyed during the catastrophic collapse of the Aeldari civilisation known as the Fall of the Aeldari. The remnants of Aeldari culture that survived the cataclysm preserved much of their species' history in the form of traditional stories, songs and dance. Written records, monuments and visual records were almost completely destroyed except for a few instances where they were taken aboard voidcraft fleeing from the doomed worlds.\n\nAs a humanoid race, Aeldari are physically similar to humans, although not entirely identical by any means. They possess longer and cleaner limbs, and fine ascetic features with penetrating and slightly slanted, almond-shaped eyes. Their ears are also slightly pointed, but otherwise they could pass as human at first glance. The most obvious difference between humans and Aeldari can only be seen when they move, for the movements of an Aeldari radiate a subtle grace which is impossible for a human to emulate. This can be seen in even their slightest gestures or the dexterity with which they manipulate small objects.\n\nThe Aeldari mind, while similar in general to the human psyche, is far more inclined towards extremes. Because of this, Aeldari are more intelligent but also far more intense than humans. Although an Aeldari and a human can both feel grief or joy, the Aeldari's experience is likely to be far more extreme.",
+      "defName": "OG_Alien_DarkEldar",
+      "enabled": true,
+      "name": "Dark Eldar",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+5.00 Move speed",
+          "+8.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+55 Leather amount",
+          "+80 Carrying capacity",
+          "+125% Psychic sensitivity",
+          "+75% Mining speed",
+          "+1.0 Shooting accuracy",
+          "+75% Aiming time",
+          "+2.5% Mental break threshold",
+          "+105% Immunity gain speed",
+          "+85% Pain shock threshold",
+          "+1 Foraged food amount",
+          "+115% Global learning factor",
+          "+1.3 Melee dodge chance",
+          "+1.2 Melee hit chance",
+          "+118% General labor speed",
+          "+85% Butchery speed",
+          "+85% Butchery efficiency",
+          "+85% Smelting speed",
+          "+115.00% Negotiation ability",
+          "+115.00% Social impact",
+          "+115.00% Trade price improvement"
+        ],
+        "mod": "Adeptus Xenobiologis: Aeldari",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The Aeldari race has a long and complex spacefaring history, so long in fact that little is known for certain about the course of their physical evolution and early planet-bound existence. The original Aeldari homeworld was destroyed during the catastrophic collapse of the Aeldari civilisation known as the Fall of the Aeldari. The remnants of Aeldari culture that survived the cataclysm preserved much of their species' history in the form of traditional stories, songs and dance. Written records, monuments and visual records were almost completely destroyed except for a few instances where they were taken aboard voidcraft fleeing from the doomed worlds.\n\nAs a humanoid race, Aeldari are physically similar to humans, although not entirely identical by any means. They possess longer and cleaner limbs, and fine ascetic features with penetrating and slightly slanted, almond-shaped eyes. Their ears are also slightly pointed, but otherwise they could pass as human at first glance. The most obvious difference between humans and Aeldari can only be seen when they move, for the movements of an Aeldari radiate a subtle grace which is impossible for a human to emulate. This can be seen in even their slightest gestures or the dexterity with which they manipulate small objects.\n\nThe Aeldari mind, while similar in general to the human psyche, is far more inclined towards extremes. Because of this, Aeldari are more intelligent but also far more intense than humans. Although an Aeldari and a human can both feel grief or joy, the Aeldari's experience is likely to be far more extreme.",
+      "defName": "OG_Alien_Eldar",
+      "enabled": true,
+      "name": "Eldar",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+4.50 Move speed",
+          "+3.0C Minimum comfortable temperature",
+          "+42.0C Maximum comfortable temperature",
+          "+55 Leather amount",
+          "+100 Carrying capacity",
+          "+35% Psychic sensitivity",
+          "+140% Mining speed",
+          "-0.3 Shooting accuracy",
+          "+75% Aiming time",
+          "+15% Mental break threshold",
+          "+125% Immunity gain speed",
+          "+95% Pain shock threshold",
+          "+0.85 Foraged food amount",
+          "+85% Global learning factor",
+          "+1.1 Melee dodge chance",
+          "+1.3 Melee hit chance",
+          "+75% General labor speed",
+          "+150% Butchery speed",
+          "+125% Butchery efficiency",
+          "+75% Smelting speed",
+          "+50.00% Negotiation ability",
+          "+50.00% Social impact",
+          "+50.00% Trade price improvement"
+        ],
+        "mod": "Adeptus Xenobiologis: Orkoids",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The pinnacle of the orkoid species: A fully grown Ork.",
+      "defName": "OG_Alien_Ork",
+      "enabled": true,
+      "name": "Ork",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+5.00 Move speed",
+          "+6.0C Minimum comfortable temperature",
+          "+35.0C Maximum comfortable temperature",
+          "+15 Leather amount",
+          "+50 Carrying capacity",
+          "+35% Psychic sensitivity",
+          "+80% Mining speed",
+          "+0.3 Shooting accuracy",
+          "+75% Aiming time",
+          "+4.5% Mental break threshold",
+          "+125% Immunity gain speed",
+          "+75% Pain shock threshold",
+          "+1.5 Foraged food amount",
+          "+75% Global learning factor",
+          "+1.4 Melee dodge chance",
+          "+0.9 Melee hit chance",
+          "+92% General labor speed",
+          "+125% Butchery speed",
+          "+75% Butchery efficiency",
+          "+75% Smelting speed",
+          "+75.00% Negotiation ability",
+          "+75.00% Social impact",
+          "+85.00% Trade price improvement"
+        ],
+        "mod": "Adeptus Xenobiologis: Orkoids",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Gretchin or Grotz are basically a smaller subspecies of Orks, who are more cowardly than normal Orks and are usually used as living shields, to clear mine fields, are stepped on to get through difficult terrain, and sometimes even as emergency rations. Gretchins are quite low in the strict hierarchy of Ork society because of their small size (the lowest Orkoids being the Snotlings) and are often used for the dirtiest jobs like scavenging and being used as the football when the bigger Orks get bored.\n\nWhile they are not as aggressive as standard Orks, they enjoy fighting weaker opponents and are less likely to flee if they comfortably outnumber their opponents. If a Gretchin is particularly wealthy, he may purchase a second-hand, worn-down, low-tech gun. These guns are mainly to reassure the Gretchin that they have a chance of killing something, provided they remember which way to hold the gun.",
+      "defName": "OG_Alien_Grot",
+      "enabled": true,
+      "name": "Grot",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+5.00 Move speed",
+          "+6.0C Minimum comfortable temperature",
+          "+35.0C Maximum comfortable temperature",
+          "+65 Leather amount",
+          "+110 Carrying capacity",
+          "+100% Mining speed",
+          "+0.3 Shooting accuracy",
+          "+95% Aiming time",
+          "+85% Trap spring chance",
+          "+25% Mental break threshold",
+          "+105% Immunity gain speed",
+          "+90% Pain shock threshold",
+          "+0.5 Foraged food amount",
+          "+95% Global learning factor",
+          "+1.3 Melee dodge chance",
+          "+1.3 Melee hit chance",
+          "+105% General labor speed",
+          "+175% Butchery speed",
+          "+175% Butchery efficiency",
+          "+85% Smelting speed",
+          "+95.00% Negotiation ability",
+          "+85.00% Social impact",
+          "-0.2 Beauty",
+          "+85.00% Trade price improvement"
+        ],
+        "mod": "Adeptus Xenobiologis: Tau, Kroot, Vespid",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The Kroot originated on the world of Pech and, though their physiology is humanoid, there is evidence to suggest that the roots of their evolution may be avian in origin. They retain vestigial beaks and have a light, almost hollow bone structure, with four digits on each hand and foot. Their skin is rough with small, barbed spines, similar to the elongated quills on their heads, protruding from various locations on their flesh. Skin pigmentation ranges from earthy brown colours and dappled greens to vibrant oranges and everything in between. Depending on the feeding directions of the Kroot Shapers, the colouration of each kindred can vary quite considerably. It is also common for Kroot from each kindred to have particular tribal markings painted onto their skin. Kroot mature quickly, with their most rapid period of growth occurring in the first ten years of their lives. By the age of twelve they are considered adults and it is not unknown for Kroot to live to over a hundred years old, their skin becoming increasingly pitted and leathery in their last few years of life",
+      "defName": "OG_Alien_Kroot",
+      "enabled": true,
+      "name": "Kroot",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+4.50 Move speed",
+          "+12.0C Minimum comfortable temperature",
+          "+38.0C Maximum comfortable temperature",
+          "+55 Leather amount",
+          "+80 Carrying capacity",
+          "+0% Psychic sensitivity",
+          "+95% Mining speed",
+          "+0.1 Shooting accuracy",
+          "+75% Aiming time",
+          "+32% Mental break threshold",
+          "+105% Immunity gain speed",
+          "+75% Pain shock threshold",
+          "+0.1 Foraged food amount",
+          "+115% Global learning factor",
+          "+0.9 Melee dodge chance",
+          "+0.9 Melee hit chance",
+          "+111% General labor speed",
+          "+85% Butchery speed",
+          "+95% Butchery efficiency",
+          "+105% Smelting speed",
+          "+115.00% Negotiation ability",
+          "+115.00% Social impact",
+          "+115.00% Trade price improvement"
+        ],
+        "mod": "Adeptus Xenobiologis: Tau, Kroot, Vespid",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The Tau are generally shorter than humans, smaller in stature and with less muscle mass and body weight. Every Tau is humanoid in shape, with two arms,[17] two cloven feet, and a single head. Their grey-blue skin is leathery and tough and exudes no moisture, owing to the generally dry conditions of their homeworld. Their faces are flat, wide around the eyes, and their olfactory organs are located inside their mouths. Their eyes can see into the infrared and ultraviolet. Tau eyesight is good, but they focus on distant objects slower than humans. The Tau are not very good in close combat, as they find the whole concept uncivilized.\n\nThe Tau has three digits and a single opposable thumb on each hand. The main difference from humans is the bone structure of Tau's lower legs, feet and ankles. Tau have shorter bones of the libia and fibia, but their feet have elongated cuneiform bones and talus and two large central weight-bearing toes. The Tau have eveolved to stand and move without using their heels.[17]",
+      "defName": "OG_Alien_Tau",
+      "enabled": true,
+      "name": "Tau",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+5.00 Move speed",
+          "+6.0C Minimum comfortable temperature",
+          "+35.0C Maximum comfortable temperature",
+          "+65 Leather amount",
+          "+110 Carrying capacity",
+          "+100% Mining speed",
+          "+0.7 Shooting accuracy",
+          "+115% Aiming time",
+          "+4.5% Mental break threshold",
+          "+125% Immunity gain speed",
+          "+90% Pain shock threshold",
+          "+2.5 Foraged food amount",
+          "+95% Global learning factor",
+          "+1.1 Melee dodge chance",
+          "+1.1 Melee hit chance",
+          "+105% General labor speed",
+          "+75% Butchery speed",
+          "+125% Butchery efficiency",
+          "+85% Smelting speed",
+          "+85.00% Negotiation ability",
+          "+85.00% Social impact",
+          "+85.00% Trade price improvement"
+        ],
+        "mod": "Adeptus Xenobiologis: Tau, Kroot, Vespid",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The Vespid are a unique race of insect-like aliens who are members of the T'au Empire. In the T'au Lexicon, they are called \"Mal'kor.\" This derives from the T'au words for insect, \"Mal,\" and air, \"Kor.\" The soldiers of the Imperium of Man often refer to them as \"Stingwings.\" The Vespids' homeworld is a gas giant also called Vespid, three light years to the galactic south of the T'au's D'yanoi Sept.",
+      "defName": "OG_Alien_Vespid",
+      "enabled": true,
+      "name": "Vespid",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+20% Flammability",
+          "+$17500 Market value",
+          "+6.20 Move speed",
+          "-16.0C Minimum comfortable temperature",
+          "+36.0C Maximum comfortable temperature",
+          "+100 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "[WarHammer 40k] GeneSeed",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A human, modified by gene engineering and designed evolutionary pressures.",
+      "defName": "AstarteSpaceMarine",
+      "enabled": true,
+      "name": "Astarte Space Marine",
+      "price": 29167
     }
   ]
 }

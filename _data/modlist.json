@@ -36,6 +36,12 @@
     "version": "1.0.0"
   },
   {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.3.0.4"
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -48,10 +54,22 @@
     "version": "2.0.10.0"
   },
   {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.1.0"
+  },
+  {
+    "author": "Kure",
+    "name": "Kure's Rimworld of Magic Class Expansion Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.1.5.1"
+    "version": "6.1.6.0"
   },
   {
     "author": "Vectorial1024",
@@ -64,12 +82,6 @@
     "name": "Gunplay",
     "steamId": "2034896549",
     "version": "1.0.379.0018"
-  },
-  {
-    "author": "jecrell and contributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.3.0.4"
   },
   {
     "author": "Madeline",
@@ -88,18 +100,6 @@
     "name": "[KV] Faction Control",
     "steamId": "1509102551",
     "version": "1.0.7915.33200"
-  },
-  {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.6.1.0"
-  },
-  {
-    "author": "Kure",
-    "name": "Kure's Rimworld of Magic Class Expansion Pack",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "YAYO",
@@ -183,7 +183,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.3.5.0"
+    "version": "3.3.6.0"
   },
   {
     "author": "NukaFrog",
@@ -420,12 +420,6 @@
     "version": null
   },
   {
-    "author": "民火",
-    "name": "Cut plants before building",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Kikohi and  Trunken",
     "name": "Cybernetic Organism and Neural Network",
     "steamId": "2045064990",
@@ -522,12 +516,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Anomalous",
-    "name": "Dynamic Population",
-    "steamId": "1658712035",
-    "version": "1.1"
-  },
-  {
     "author": "Jaxxa",
     "name": "ED-Shields (Continued)",
     "steamId": null,
@@ -536,12 +524,6 @@
   {
     "author": "FrozenSnowFox",
     "name": "[FSF] Encounter Map Resources",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Jascha Ephraim",
-    "name": "Endless Rimworld",
     "steamId": null,
     "version": null
   },
@@ -703,7 +685,7 @@
   },
   {
     "author": "chuiu",
-    "name": "Greenworld Lite",
+    "name": "Greenworld",
     "steamId": null,
     "version": null
   },
@@ -1095,7 +1077,7 @@
     "author": "Dubwise",
     "name": "Dubs Rimatomics",
     "steamId": "1127530465",
-    "version": "1.7.2442"
+    "version": "1.7.7368"
   },
   {
     "author": "Cabbage",
@@ -1242,12 +1224,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Linkolas",
-    "name": "Stabilize",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Murmur",
     "name": "Subsurface Conduit",
     "steamId": "1609226728",
@@ -1293,7 +1269,7 @@
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
-    "version": "1.5.0"
+    "version": "1.5.3"
   },
   {
     "author": "Grimm",
@@ -1584,12 +1560,6 @@
     "version": null
   },
   {
-    "author": "Aoba",
-    "name": "RimHammer40k - GreyKnights",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki",
     "name": "Vanilla Weapons Expanded - Laser",
     "steamId": null,
@@ -1686,12 +1656,6 @@
     "version": "1.0.0.1"
   },
   {
-    "author": "Alias, Gewen and Swenzi",
-    "name": "Additional Traits (Heroes + Gods Optional)",
-    "steamId": "1621571024",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Sierra",
     "name": "RimTraits - General Traits",
     "steamId": null,
@@ -1713,7 +1677,7 @@
     "author": "saschahi",
     "name": "ToolkitAddon - More Stuff",
     "steamId": "2594931182",
-    "version": "1.0.0.0"
+    "version": "1.1.3"
   },
   {
     "author": "Andreas Pardeike and  BleuSquid",
@@ -1782,6 +1746,12 @@
     "version": null
   },
   {
+    "author": "AobaKuma",
+    "name": "Fortifications - Neolithic",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "flyfire2002",
     "name": "Field Medic [1.0-1.3]",
     "steamId": null,
@@ -1792,6 +1762,12 @@
     "name": "Immortals",
     "steamId": "1984905966",
     "version": "0.0.2.0"
+  },
+  {
+    "author": "Oskar Potocki,  Kikohi and  Helixien",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
   },
   {
     "author": "fed1sPlay",
@@ -1821,7 +1797,7 @@
     "author": "Dubwise",
     "name": "Rimefeller",
     "steamId": "1321849735",
-    "version": "1.2.1128"
+    "version": "1.2.7364"
   },
   {
     "author": "FrozenSnowFox",
@@ -1834,6 +1810,48 @@
     "name": "Large Faction Bases",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Mechanicus: Armoury",
+    "steamId": "1541438614",
+    "version": "1.6.5.1"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Mechanicus: Magos Xenobiologis",
+    "steamId": "1541499916",
+    "version": "1.6.5.1"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Xenobiologis: Aeldari",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Xenobiologis: Orkoids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ogliss",
+    "name": "Adeptus Xenobiologis: Tau, Kroot, Vespid",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Spencer7w",
+    "name": "Adeptus Astartes (Space Marines 40k)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AliceTries and  updated by Ogliss",
+    "name": "[WarHammer 40k] GeneSeed",
+    "steamId": "2017823407",
+    "version": "1.0.0.0"
   },
   {
     "author": "Paul Freeman",
