@@ -1608,12 +1608,6 @@
     "version": "3.21.303"
   },
   {
-    "author": "Sergkart",
-    "name": "Immersive Technology Tree (BTTP)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
@@ -1624,12 +1618,6 @@
     "name": "[SR]Raid Extension",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Shadowrabbit",
-    "name": "[SR]Factional War",
-    "steamId": "2534328163",
-    "version": "1.0.0.0"
   },
   {
     "author": "Roolo",
@@ -1842,22 +1830,40 @@
     "version": null
   },
   {
-    "author": "Spencer7w",
-    "name": "Adeptus Astartes (Space Marines 40k)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "AliceTries and  updated by Ogliss",
     "name": "[WarHammer 40k] GeneSeed",
     "steamId": "2017823407",
     "version": "1.0.0.0"
   },
   {
-    "author": "Paul Freeman",
-    "name": "Free Will",
-    "steamId": "2580837227",
-    "version": "0.0.0.0"
+    "author": "Spencer7w",
+    "name": "Adeptus Astartes (Space Marines 40k)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Shadowrabbit",
+    "name": "[SR]Factional War",
+    "steamId": "2534328163",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Gouda quiche",
+    "name": "MoHAR framework",
+    "steamId": "2057001924",
+    "version": "1.0.7875.31864"
+  },
+  {
+    "author": "Nemonian",
+    "name": "Moyo-From the depth",
+    "steamId": "2182305386",
+    "version": "1.3"
+  },
+  {
+    "author": "Sergkart",
+    "name": "Immersive Technology Tree (BTTP)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Krkr",
