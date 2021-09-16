@@ -12262,7 +12262,7 @@
       "abr": "m14mine(unarmed)",
       "category": "Manufactured",
       "defname": "M14Mine",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "m168bspectre",
@@ -18226,7 +18226,7 @@
       "abr": "upgradekit",
       "category": "Manufactured",
       "defname": "RepairKitAT",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "uprightpiano",
@@ -23668,7 +23668,7 @@
       "abr": "stackofpipes",
       "category": "Misc",
       "defname": "VFEPD_Pipes",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "stackofplanks",
@@ -25096,7 +25096,7 @@
       "abr": "severedhead",
       "category": "Drugs",
       "defname": "IH_Head",
-      "price": 20
+      "price": -10
     },
     {
       "abr": "tetrapods",
@@ -25144,37 +25144,37 @@
       "abr": "militarysandbag",
       "category": "Misc",
       "defname": "FT_Sandbag",
-      "price": 25
+      "price": -10
     },
     {
       "abr": "militarysandbagwall",
       "category": "Misc",
       "defname": "FT_WallSandbag",
-      "price": 36
+      "price": -10
     },
     {
       "abr": "tanktrap",
       "category": "Misc",
       "defname": "FT_TankTrap",
-      "price": 9
+      "price": -10
     },
     {
       "abr": "reinforcedditch",
       "category": "Misc",
       "defname": "FT_ReinforcedDitch",
-      "price": 23
+      "price": -10
     },
     {
       "abr": "castlewall",
       "category": "Misc",
       "defname": "FT_CastleWall",
-      "price": 71
+      "price": -10
     },
     {
       "abr": "castlewallembrasures",
       "category": "Misc",
       "defname": "FT_CastleWallEmbrasures",
-      "price": 55
+      "price": -10
     },
     {
       "abr": "troubadourskill:misery'send",
@@ -25252,7 +25252,7 @@
       "abr": "pipelinevalve",
       "category": "Oil",
       "defname": "pipelineValve",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "refineryunloadingbay",
@@ -25312,37 +25312,37 @@
       "abr": "tradingspot",
       "category": "Misc",
       "defname": "TradingSpot",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "napalmtrail",
       "category": "Misc",
       "defname": "Filth_NapalmTrail",
-      "price": 9
+      "price": -10
     },
     {
       "abr": "sparkgrid",
       "category": "Misc",
       "defname": "SparkGrid",
-      "price": 79
+      "price": -10
     },
     {
       "abr": "oilpipeline",
       "category": "Misc",
       "defname": "OilPipeline",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "oilwellhead",
       "category": "Misc",
       "defname": "OilWellHead",
-      "price": 90
+      "price": -10
     },
     {
       "abr": "deepoilwellhead",
       "category": "Misc",
       "defname": "DeepOilWellHead",
-      "price": 90
+      "price": -10
     },
     {
       "abr": "oilwell",
@@ -25384,7 +25384,7 @@
       "abr": "iedantigrainwarheadtrap",
       "category": "Misc",
       "defname": "TrapIED_AntigrainWarhead_Large",
-      "price": 8
+      "price": -10
     },
     {
       "abr": "2hpoweraxe",
@@ -28948,37 +28948,37 @@
       "abr": "palisadewall",
       "category": "Misc",
       "defname": "FT_Palisade",
-      "price": 31
+      "price": -10
     },
     {
       "abr": "palisadegate",
       "category": "Misc",
       "defname": "FT_PalisadeDoor",
-      "price": 107
+      "price": -10
     },
     {
       "abr": "palisadecorner",
       "category": "Misc",
       "defname": "FT_Palisade_Corner",
-      "price": 31
+      "price": -10
     },
     {
       "abr": "palisadeembrasure",
       "category": "Misc",
       "defname": "FT_Palisade_Embrasures",
-      "price": 31
+      "price": -10
     },
     {
       "abr": "cavalryspikes",
       "category": "Misc",
       "defname": "FT_CavalrySpike",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "ditch",
       "category": "Misc",
       "defname": "FT_Ditch",
-      "price": 6
+      "price": -10
     },
     {
       "abr": "quadheavystubberturret",
@@ -29146,7 +29146,7 @@
       "abr": "guestancientbed",
       "category": "Misc",
       "defname": "AncientBedGuest",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "guestslabbed",

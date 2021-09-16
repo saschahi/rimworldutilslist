@@ -45403,7 +45403,7 @@
       },
       "description": "A form of mechanized infantry, produced during an ancient time on this rimworld. These units are very strong, powerful war machines but are subsequently slow and have limited battery to them.",
       "defName": "M7Mech",
-      "enabled": true,
+      "enabled": false,
       "name": "M7 Mechanised infantry",
       "price": 30000
     },
@@ -45437,7 +45437,7 @@
       "defName": "M8Mech",
       "enabled": true,
       "name": "M8 Mechanised infantry",
-      "price": 30000
+      "price": 25000
     },
     {
       "data": {
@@ -46336,7 +46336,7 @@
       "defName": "OG_Abhuman_Ratlin",
       "enabled": true,
       "name": "ratling",
-      "price": 2917
+      "price": 3000
     },
     {
       "data": {
@@ -46378,7 +46378,7 @@
       },
       "description": "A baseline human, while mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets, members of the Cult Mechanicus have usually undergone heavy bionic modifications.",
       "defName": "OG_Human_Mechanicus",
-      "enabled": true,
+      "enabled": false,
       "name": "human (Mechanicus)",
       "price": 2917
     },
@@ -46682,7 +46682,7 @@
       "defName": "AstarteSpaceMarine",
       "enabled": true,
       "name": "Astarte Space Marine",
-      "price": 29167
+      "price": 30000
     }
   ]
 }
