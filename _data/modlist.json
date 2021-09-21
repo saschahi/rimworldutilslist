@@ -24,6 +24,12 @@
     "version": "1.1.7867.20184"
   },
   {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -33,6 +39,12 @@
     "author": "Dubwise",
     "name": "Dubs Performance Analyzer",
     "steamId": "2038874626",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
     "version": "1.0.0"
   },
   {
@@ -126,6 +138,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki,  Kikohi and  Helixien",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
+  },
+  {
     "author": "Kentington and Thain",
     "name": "Save Our Ship 2",
     "steamId": null,
@@ -162,12 +180,6 @@
     "version": "3.8.1038"
   },
   {
-    "author": "Neceros",
-    "name": "SRTS Expanded",
-    "steamId": "1845423808",
-    "version": "1.4.6"
-  },
-  {
     "author": "ELIF",
     "name": "[ELIF] SRTS - Helicopters",
     "steamId": null,
@@ -183,7 +195,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.3.6.0"
+    "version": "3.3.8.0"
   },
   {
     "author": "NukaFrog",
@@ -375,7 +387,7 @@
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.3.3102.1"
+    "version": "1.3.3117.2"
   },
   {
     "author": "Fluffy",
@@ -388,6 +400,12 @@
     "name": "Command Palette",
     "steamId": "2073966033",
     "version": "1.8.108"
+  },
+  {
+    "author": "Oskar Potocki,  Taranchuk and  Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.0.0.1"
   },
   {
     "author": "Atlas and  aRandomKiwi",
@@ -618,6 +636,12 @@
     "version": null
   },
   {
+    "author": "Roolo and Updated by Ogliss",
+    "name": "What the hack?!",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Roolo",
     "name": "Giddy-up! Core",
     "steamId": null,
@@ -642,12 +666,6 @@
     "version": null
   },
   {
-    "author": "Roolo and Updated by Ogliss",
-    "name": "What the hack?!",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Roolo",
     "name": "Giddy-up! Mechanoids",
     "steamId": null,
@@ -664,12 +682,6 @@
     "name": "Enable Oversized Weapons",
     "steamId": "2543371889",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Telefonmast",
-    "name": "Graphics Settings+",
-    "steamId": "1678847247",
-    "version": "1.0.0"
   },
   {
     "author": "KittahKhan",
@@ -702,10 +714,10 @@
     "version": null
   },
   {
-    "author": "Ryflamer",
-    "name": "[Ry]HD Pawn Textures(HAR Edition)",
-    "steamId": null,
-    "version": null
+    "author": "Mehni",
+    "name": "More Faction Interaction (Continued)",
+    "steamId": "2379076640",
+    "version": "1.0.11.0"
   },
   {
     "author": "Falconne",
@@ -852,6 +864,12 @@
     "version": null
   },
   {
+    "author": "pelador",
+    "name": "Proximity (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "MrKociak",
     "name": "More Archotech Garbage Reupload",
     "steamId": null,
@@ -862,12 +880,6 @@
     "name": "More Components",
     "steamId": "1254970979",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Mehni",
-    "name": "More Faction Interaction (Continued)",
-    "steamId": "2379076640",
-    "version": "1.0.11.0"
   },
   {
     "author": "NavySeal",
@@ -924,8 +936,20 @@
     "version": "1.2.196"
   },
   {
+    "author": "Helixien and  Alastair",
+    "name": "ReGrowth: Tundra Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "RadZerp",
     "name": "Natural Paths",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ryflamer",
+    "name": "[Ry]HD Pawn Textures(HAR Edition)",
     "steamId": null,
     "version": null
   },
@@ -1008,12 +1032,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "AUTOMATIC",
-    "name": "Recipe icons",
-    "steamId": "1616643195",
-    "version": "1.0.379.0018"
-  },
-  {
     "author": "Yume",
     "name": "Regeneration Bay",
     "steamId": "1554012670",
@@ -1040,12 +1058,6 @@
   {
     "author": "Helixien,  Alastair and  Taranchuk",
     "name": "ReGrowth: Temperate Forest Expansion",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Helixien and  Alastair",
-    "name": "ReGrowth: Tundra Expansion",
     "steamId": null,
     "version": null
   },
@@ -1090,6 +1102,12 @@
     "name": "RimHUD",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Recipe icons",
+    "steamId": "1616643195",
+    "version": "1.0.379.0018"
   },
   {
     "author": "rooki1",
@@ -1530,12 +1548,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki,  Taranchuk and  Chowder",
-    "name": "Vanilla Traits Expanded",
-    "steamId": "2296404655",
-    "version": "1.0.0.1"
-  },
-  {
     "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
     "name": "Vanilla Weapons Expanded",
     "steamId": null,
@@ -1665,7 +1677,7 @@
     "author": "saschahi",
     "name": "ToolkitAddon - More Stuff",
     "steamId": "2594931182",
-    "version": "1.1.3"
+    "version": "1.1.4"
   },
   {
     "author": "Andreas Pardeike and  BleuSquid",
@@ -1750,12 +1762,6 @@
     "name": "Immortals",
     "steamId": "1984905966",
     "version": "0.0.2.0"
-  },
-  {
-    "author": "Oskar Potocki,  Kikohi and  Helixien",
-    "name": "Vanilla Events Expanded",
-    "steamId": "1938420742",
-    "version": "1.1.0"
   },
   {
     "author": "fed1sPlay",
@@ -1869,7 +1875,7 @@
     "author": "Krkr",
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
-    "version": "0.6.3.2195"
+    "version": "0.6.3.2196"
   },
   {
     "author": "Ghost_Rolly",

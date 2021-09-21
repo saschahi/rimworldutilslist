@@ -1,11 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -46,18 +41,8 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "heatwave",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "flashstorm",
 		"price": 400,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "coldsnap",
-		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -68,11 +53,6 @@
 	{
 		"abr": "shortcircuit",
 		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "eclipse",
-		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
@@ -111,6 +91,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "madanimal",
+		"price": 700,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "psychicsoothe",
 		"price": 250,
 		"karmatype": "Good"
@@ -123,11 +108,6 @@
 	{
 		"abr": "herdmigration",
 		"price": 200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "farmanimals",
-		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -186,18 +166,8 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "manhunterpack",
 		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "predators",
-		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -352,7 +322,7 @@
 	},
 	{
 		"abr": "immortality",
-		"price": 100000,
+		"price": 500000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -541,5 +511,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 108
+	"total": 102
 }
