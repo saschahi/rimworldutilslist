@@ -1174,7 +1174,7 @@
       "abr": "humanmeat",
       "category": "Meat",
       "defname": "Meat_Human",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "husky",
@@ -2347,12 +2347,6 @@
       "price": 322
     },
     {
-      "abr": "spelopede",
-      "category": "Animals",
-      "defname": "Spelopede",
-      "price": -10
-    },
-    {
       "abr": "spiketrap",
       "category": "Security",
       "defname": "TrapSpike",
@@ -3364,7 +3358,7 @@
       "abr": "skull",
       "category": "Items",
       "defname": "Skull",
-      "price": 8
+      "price": -10
     },
     {
       "abr": "skullspike",
@@ -9094,12 +9088,6 @@
       "abr": "feralisk",
       "category": "Animals",
       "defname": "AA_Feralisk",
-      "price": -10
-    },
-    {
-      "abr": "feraliskclutchmother",
-      "category": "Animals",
-      "defname": "AA_FeraliskClutchMother",
       "price": -10
     },
     {
@@ -24820,7 +24808,7 @@
       "abr": "brainstew",
       "category": "Drugs",
       "defname": "IH_BrainStew",
-      "price": 20
+      "price": -10
     },
     {
       "abr": "caw5hedp",
@@ -25096,7 +25084,7 @@
       "abr": "severedhead",
       "category": "Drugs",
       "defname": "IH_Head",
-      "price": 20
+      "price": -10
     },
     {
       "abr": "tetrapods",
@@ -25307,12 +25295,6 @@
       "category": "Synthamide",
       "defname": "UncuredComposite",
       "price": 3
-    },
-    {
-      "abr": "tradingspot",
-      "category": "Misc",
-      "defname": "TradingSpot",
-      "price": -10
     },
     {
       "abr": "napalmtrail",
@@ -25714,7 +25696,7 @@
       "abr": "belial-v",
       "category": "Drugs",
       "defname": "Moyo_BelialV",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "bigchoppa(o)",
@@ -25864,13 +25846,13 @@
       "abr": "bluehaze",
       "category": "Drugs",
       "defname": "BlueYo",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "blueburst",
       "category": "Drugs",
       "defname": "BlueBurst",
-      "price": 120
+      "price": -10
     },
     {
       "abr": "bluemed",
@@ -26038,7 +26020,7 @@
       "abr": "clens-azure",
       "category": "Drugs",
       "defname": "Clensazure",
-      "price": 117
+      "price": -10
     },
     {
       "abr": "cloak",
@@ -26224,7 +26206,7 @@
       "abr": "deepblueserum",
       "category": "Drugs",
       "defname": "AbyssSerum",
-      "price": 53
+      "price": -10
     },
     {
       "abr": "deepbluestation",
@@ -26248,7 +26230,7 @@
       "abr": "detoxer-cobalt",
       "category": "Drugs",
       "defname": "DetoxerCobalt",
-      "price": 117
+      "price": -10
     },
     {
       "abr": "devil'sclaw(i)",
@@ -26638,13 +26620,13 @@
       "abr": "geneseed",
       "category": "Drugs",
       "defname": "GeneSeed",
-      "price": 333
+      "price": 2000
     },
     {
       "abr": "geneseed(custodes)",
       "category": "Drugs",
       "defname": "GeneSeedCustodes",
-      "price": 20000
+      "price": 60000
     },
     {
       "abr": "gene-seed",
@@ -27634,7 +27616,7 @@
       "abr": "morphi-blue",
       "category": "Drugs",
       "defname": "BlueGo",
-      "price": 120
+      "price": -10
     },
     {
       "abr": "mor'tonium",
@@ -28126,7 +28108,7 @@
       "abr": "penoxy-blue",
       "category": "Drugs",
       "defname": "PenoxyBlue",
-      "price": 117
+      "price": -10
     },
     {
       "abr": "phosphorblastpistol(am)",
@@ -28546,7 +28528,7 @@
       "abr": "regene-blue",
       "category": "Drugs",
       "defname": "BlueMed",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "rippergun(i)",
@@ -28636,7 +28618,7 @@
       "abr": "sapphiremeth",
       "category": "Drugs",
       "defname": "BlueUp",
-      "price": 58
+      "price": -10
     },
     {
       "abr": "scorcha(o)",
@@ -29074,7 +29056,7 @@
       "abr": "sustainer-lapis",
       "category": "Drugs",
       "defname": "SustainerLapis",
-      "price": 117
+      "price": -10
     },
     {
       "abr": "swoopinghawkarmour",
@@ -29488,13 +29470,13 @@
       "abr": "wraithbone",
       "category": "Manufactured",
       "defname": "OGE_Wraithbone",
-      "price": 10
+      "price": -10
     },
     {
       "abr": "wraithbone",
       "category": "Manufactured",
       "defname": "OGDE_Wraithbone",
-      "price": 10
+      "price": -10
     },
     {
       "abr": "wraithcannon(e)",
@@ -29725,6 +29707,30 @@
       "price": -10
     },
     {
+      "abr": "feraliskclutchmother",
+      "category": "Animals",
+      "defname": "AA_FeraliskClutchMother",
+      "price": 1500
+    },
+    {
+      "abr": "infusionamplifier",
+      "category": "Artifacts",
+      "defname": "InfusedAmplifier",
+      "price": 1083
+    },
+    {
+      "abr": "infusionamplifier(empty)",
+      "category": "Artifacts",
+      "defname": "InfusedAmplifierEmpty",
+      "price": 750
+    },
+    {
+      "abr": "spelopede",
+      "category": "Animals",
+      "defname": "Spelopede",
+      "price": 333
+    },
+    {
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "BedGuest",
@@ -29734,7 +29740,7 @@
       "abr": "guestdoublebed",
       "category": "Furniture",
       "defname": "DoubleBedGuest",
-      "price": -10
+      "price": 292
     },
     {
       "abr": "guestroyalbed",
@@ -29752,25 +29758,25 @@
       "abr": "guestbedroll",
       "category": "Furniture",
       "defname": "BedrollGuest",
-      "price": -10
+      "price": 137
     },
     {
       "abr": "guestdoublebedroll",
       "category": "Furniture",
       "defname": "BedrollDoubleGuest",
-      "price": -10
+      "price": 290
     },
     {
       "abr": "guestancientbed",
       "category": "Misc",
       "defname": "AncientBedGuest",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "guestslabbed",
       "category": "Furniture",
       "defname": "SlabBedGuest",
-      "price": -10
+      "price": 102
     },
     {
       "abr": "guestslabdoublebed",
@@ -29824,13 +29830,13 @@
       "abr": "guestslabbed",
       "category": "Furniture",
       "defname": "Bed_StoneSlabGuest",
-      "price": -10
+      "price": 111
     },
     {
       "abr": "guestsimplebed",
       "category": "Furniture",
       "defname": "Bed_SimpleGuest",
-      "price": -10
+      "price": 137
     },
     {
       "abr": "guestoperatingtable",
@@ -29860,8 +29866,8 @@
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "OGO_BedGuest",
-      "price": -10
+      "price": 155
     }
   ],
-  "total": 4977
+  "total": 4978
 }

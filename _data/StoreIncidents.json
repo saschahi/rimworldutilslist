@@ -171,6 +171,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "reviveanypawn",
+		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "pawn",
 		"price": 1,
 		"karmatype": "Good"
@@ -232,7 +237,7 @@
 	},
 	{
 		"abr": "healme",
-		"price": 500,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -257,7 +262,7 @@
 	},
 	{
 		"abr": "fullheal",
-		"price": 500,
+		"price": 750,
 		"karmatype": "Good"
 	},
 	{
@@ -372,7 +377,7 @@
 	},
 	{
 		"abr": "gallatrosswanderin",
-		"price": 800,
+		"price": 1400,
 		"karmatype": "Good"
 	},
 	{
@@ -382,8 +387,8 @@
 	},
 	{
 		"abr": "fungalhuskwandersin",
-		"price": 600,
-		"karmatype": "Neutral"
+		"price": 1500,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "factionwar",
@@ -433,11 +438,6 @@
 	{
 		"abr": "globalwarming",
 		"price": 15000,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "psychicrain",
-		"price": 25000,
 		"karmatype": "Doom"
 	},
 	{
