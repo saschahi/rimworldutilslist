@@ -1501,12 +1501,6 @@
       "price": 30
     },
     {
-      "abr": "megascarab",
-      "category": "Animals",
-      "defname": "Megascarab",
-      "price": -10
-    },
-    {
       "abr": "megascreentelevision",
       "category": "Recreation",
       "defname": "MegascreenTelevision",
@@ -1529,12 +1523,6 @@
       "category": "Wools",
       "defname": "WoolMegasloth",
       "price": 4
-    },
-    {
-      "abr": "megaspider",
-      "category": "Animals",
-      "defname": "Megaspider",
-      "price": -10
     },
     {
       "abr": "milk",
@@ -1990,97 +1978,97 @@
       "abr": "psytrainer(beckon)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Beckon",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "psytrainer(berserkpulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_BerserkPulse",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(berserk)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Berserk",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "psytrainer(blindingpulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_BlindingPulse",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "psytrainer(burden)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Burden",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "psytrainer(chaosskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_ChaosSkip",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "psytrainer(focus)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Focus",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psytrainer(invisibility)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Invisibility",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "psytrainer(manhunterpulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_ManhunterPulse",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(masschaosskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_MassChaosSkip",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(painblock)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Painblock",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "psytrainer(skip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Skip",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psytrainer(smokepop)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Smokepop",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psytrainer(stun)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Stun",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "psytrainer(vertigopulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VertigoPulse",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "psytrainer(wallraise)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Wallraise",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "pump-actionshotgun",
@@ -26014,7 +26002,7 @@
       "abr": "clawedfiendmeat",
       "category": "Meat",
       "defname": "Meat_OG_Xenos_ClawedFiend",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "clens-azure",
@@ -26308,7 +26296,7 @@
       "abr": "eatinsquigmeat",
       "category": "Meat",
       "defname": "Meat_OG_Squig_Eatin",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "'eavy'ardhat",
@@ -26626,7 +26614,7 @@
       "abr": "geneseed(custodes)",
       "category": "Drugs",
       "defname": "GeneSeedCustodes",
-      "price": 60000
+      "price": -10
     },
     {
       "abr": "gene-seed",
@@ -26752,7 +26740,7 @@
       "abr": "gyrinxmeat",
       "category": "Meat",
       "defname": "Meat_OG_Gyrinx",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "hallucinogengrenadepack(e)",
@@ -27154,7 +27142,7 @@
       "abr": "knarlocmeat",
       "category": "Meat",
       "defname": "Meat_OG_Knarloc",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "knowledgebeacon",
@@ -27262,7 +27250,7 @@
       "abr": "krootoxmeat",
       "category": "Meat",
       "defname": "Meat_OG_KrootOx",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "krootpistol",
@@ -27298,7 +27286,7 @@
       "abr": "kroothoundmeat",
       "category": "Meat",
       "defname": "Meat_OG_Kroothound",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "krudebionikarm",
@@ -27994,7 +27982,7 @@
       "abr": "oilysquigmeat",
       "category": "Meat",
       "defname": "Meat_OG_Squig_Oily",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "ork",
@@ -28810,13 +28798,13 @@
       "abr": "snotlingmeat",
       "category": "Meat",
       "defname": "Meat_OG_Ork_Snotling",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "snotlingmeat",
       "category": "Meat",
       "defname": "Meat_OG_Snotling",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "socialbeacon",
@@ -28954,7 +28942,7 @@
       "abr": "squigmeat",
       "category": "Meat",
       "defname": "Meat_OG_Squig",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "staffoflight(n)",
@@ -29723,6 +29711,18 @@
       "category": "Artifacts",
       "defname": "InfusedAmplifierEmpty",
       "price": 750
+    },
+    {
+      "abr": "megascarab",
+      "category": "Animals",
+      "defname": "Megascarab",
+      "price": 167
+    },
+    {
+      "abr": "megaspider",
+      "category": "Animals",
+      "defname": "Megaspider",
+      "price": 833
     },
     {
       "abr": "spelopede",

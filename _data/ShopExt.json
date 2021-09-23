@@ -14146,8 +14146,8 @@
       },
       "defName": "TM_Sniper",
       "name": "mastersniper",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 7500,
       "removePrice": 1111,
       "degree": 2
@@ -14390,8 +14390,8 @@
       },
       "defName": "TM_Sniper",
       "name": "legendarysniper",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 10000,
       "removePrice": 1111,
       "degree": 3
@@ -14874,8 +14874,8 @@
       },
       "defName": "Bladedancer",
       "name": "blademaster",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 5000,
       "removePrice": 1111,
       "degree": 1
@@ -15362,8 +15362,8 @@
       },
       "defName": "Bladedancer",
       "name": "legendarybladedancer",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 10000,
       "removePrice": 1111,
       "degree": 3
@@ -46334,7 +46334,7 @@
       },
       "description": "Ratlings (Homo sapiens minimus) are small, loud, hungry and lecherous Abhumans who often serve as snipers in the Astra Militarum, a role at which they excel. Ratlings also serve as cooks for Imperial Guard regiments, a skill they no doubt learned in order to feed their own seemingly bottomless stomachs; and they also have kleptomaniac tendencies, as Commissars report petty theft and illegal gambling rings increase substantially when Ratlings are attached to a platoon, company or regiment.",
       "defName": "OG_Abhuman_Ratlin",
-      "enabled": true,
+      "enabled": false,
       "name": "ratling",
       "price": 2917
     },
@@ -46356,7 +46356,7 @@
       },
       "description": "The dim-witted human sub-species called Ogryns (Homo sapiens gigantus) evolved on high-gravity, low-temperature prison planets. They are huge and unusually stupid for a human subrace, but unquestionably loyal to the Imperium once introduced to the faith of the Imperial Cult. Ogryns are used as the Imperial Guard's shock troops, and for this role, they are commonly outfitted with the Ripper Gun. The Ripper Gun is a weapon simple enough for them to operate, although some feral Ogryn cannot even fathom this device. Ogryn are also frequently used as bodyguards by Imperial Commanders.",
       "defName": "OG_Abhuman_Ogryn",
-      "enabled": true,
+      "enabled": false,
       "name": "ogryn",
       "price": 4167
     },
@@ -46378,7 +46378,7 @@
       },
       "description": "A baseline human, while mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets, members of the Cult Mechanicus have usually undergone heavy bionic modifications.",
       "defName": "OG_Human_Mechanicus",
-      "enabled": true,
+      "enabled": false,
       "name": "human (Mechanicus)",
       "price": 2917
     },
@@ -46418,7 +46418,7 @@
       },
       "description": "The Aeldari race has a long and complex spacefaring history, so long in fact that little is known for certain about the course of their physical evolution and early planet-bound existence. The original Aeldari homeworld was destroyed during the catastrophic collapse of the Aeldari civilisation known as the Fall of the Aeldari. The remnants of Aeldari culture that survived the cataclysm preserved much of their species' history in the form of traditional stories, songs and dance. Written records, monuments and visual records were almost completely destroyed except for a few instances where they were taken aboard voidcraft fleeing from the doomed worlds.\n\nAs a humanoid race, Aeldari are physically similar to humans, although not entirely identical by any means. They possess longer and cleaner limbs, and fine ascetic features with penetrating and slightly slanted, almond-shaped eyes. Their ears are also slightly pointed, but otherwise they could pass as human at first glance. The most obvious difference between humans and Aeldari can only be seen when they move, for the movements of an Aeldari radiate a subtle grace which is impossible for a human to emulate. This can be seen in even their slightest gestures or the dexterity with which they manipulate small objects.\n\nThe Aeldari mind, while similar in general to the human psyche, is far more inclined towards extremes. Because of this, Aeldari are more intelligent but also far more intense than humans. Although an Aeldari and a human can both feel grief or joy, the Aeldari's experience is likely to be far more extreme.",
       "defName": "OG_Alien_DarkEldar",
-      "enabled": true,
+      "enabled": false,
       "name": "Dark Eldar",
       "price": 3333
     },
@@ -46458,7 +46458,7 @@
       },
       "description": "The Aeldari race has a long and complex spacefaring history, so long in fact that little is known for certain about the course of their physical evolution and early planet-bound existence. The original Aeldari homeworld was destroyed during the catastrophic collapse of the Aeldari civilisation known as the Fall of the Aeldari. The remnants of Aeldari culture that survived the cataclysm preserved much of their species' history in the form of traditional stories, songs and dance. Written records, monuments and visual records were almost completely destroyed except for a few instances where they were taken aboard voidcraft fleeing from the doomed worlds.\n\nAs a humanoid race, Aeldari are physically similar to humans, although not entirely identical by any means. They possess longer and cleaner limbs, and fine ascetic features with penetrating and slightly slanted, almond-shaped eyes. Their ears are also slightly pointed, but otherwise they could pass as human at first glance. The most obvious difference between humans and Aeldari can only be seen when they move, for the movements of an Aeldari radiate a subtle grace which is impossible for a human to emulate. This can be seen in even their slightest gestures or the dexterity with which they manipulate small objects.\n\nThe Aeldari mind, while similar in general to the human psyche, is far more inclined towards extremes. Because of this, Aeldari are more intelligent but also far more intense than humans. Although an Aeldari and a human can both feel grief or joy, the Aeldari's experience is likely to be far more extreme.",
       "defName": "OG_Alien_Eldar",
-      "enabled": true,
+      "enabled": false,
       "name": "Eldar",
       "price": 3333
     },
@@ -46498,7 +46498,7 @@
       },
       "description": "The pinnacle of the orkoid species: A fully grown Ork.",
       "defName": "OG_Alien_Ork",
-      "enabled": true,
+      "enabled": false,
       "name": "Ork",
       "price": 3333
     },
@@ -46538,7 +46538,7 @@
       },
       "description": "Gretchin or Grotz are basically a smaller subspecies of Orks, who are more cowardly than normal Orks and are usually used as living shields, to clear mine fields, are stepped on to get through difficult terrain, and sometimes even as emergency rations. Gretchins are quite low in the strict hierarchy of Ork society because of their small size (the lowest Orkoids being the Snotlings) and are often used for the dirtiest jobs like scavenging and being used as the football when the bigger Orks get bored.\n\nWhile they are not as aggressive as standard Orks, they enjoy fighting weaker opponents and are less likely to flee if they comfortably outnumber their opponents. If a Gretchin is particularly wealthy, he may purchase a second-hand, worn-down, low-tech gun. These guns are mainly to reassure the Gretchin that they have a chance of killing something, provided they remember which way to hold the gun.",
       "defName": "OG_Alien_Grot",
-      "enabled": true,
+      "enabled": false,
       "name": "Grot",
       "price": 3333
     },
@@ -46579,7 +46579,7 @@
       },
       "description": "The Kroot originated on the world of Pech and, though their physiology is humanoid, there is evidence to suggest that the roots of their evolution may be avian in origin. They retain vestigial beaks and have a light, almost hollow bone structure, with four digits on each hand and foot. Their skin is rough with small, barbed spines, similar to the elongated quills on their heads, protruding from various locations on their flesh. Skin pigmentation ranges from earthy brown colours and dappled greens to vibrant oranges and everything in between. Depending on the feeding directions of the Kroot Shapers, the colouration of each kindred can vary quite considerably. It is also common for Kroot from each kindred to have particular tribal markings painted onto their skin. Kroot mature quickly, with their most rapid period of growth occurring in the first ten years of their lives. By the age of twelve they are considered adults and it is not unknown for Kroot to live to over a hundred years old, their skin becoming increasingly pitted and leathery in their last few years of life",
       "defName": "OG_Alien_Kroot",
-      "enabled": true,
+      "enabled": false,
       "name": "Kroot",
       "price": 3333
     },
@@ -46619,7 +46619,7 @@
       },
       "description": "The Tau are generally shorter than humans, smaller in stature and with less muscle mass and body weight. Every Tau is humanoid in shape, with two arms,[17] two cloven feet, and a single head. Their grey-blue skin is leathery and tough and exudes no moisture, owing to the generally dry conditions of their homeworld. Their faces are flat, wide around the eyes, and their olfactory organs are located inside their mouths. Their eyes can see into the infrared and ultraviolet. Tau eyesight is good, but they focus on distant objects slower than humans. The Tau are not very good in close combat, as they find the whole concept uncivilized.\n\nThe Tau has three digits and a single opposable thumb on each hand. The main difference from humans is the bone structure of Tau's lower legs, feet and ankles. Tau have shorter bones of the libia and fibia, but their feet have elongated cuneiform bones and talus and two large central weight-bearing toes. The Tau have eveolved to stand and move without using their heels.[17]",
       "defName": "OG_Alien_Tau",
-      "enabled": true,
+      "enabled": false,
       "name": "Tau",
       "price": 3333
     },
@@ -46658,7 +46658,7 @@
       },
       "description": "The Vespid are a unique race of insect-like aliens who are members of the T'au Empire. In the T'au Lexicon, they are called \"Mal'kor.\" This derives from the T'au words for insect, \"Mal,\" and air, \"Kor.\" The soldiers of the Imperium of Man often refer to them as \"Stingwings.\" The Vespids' homeworld is a gas giant also called Vespid, three light years to the galactic south of the T'au's D'yanoi Sept.",
       "defName": "OG_Alien_Vespid",
-      "enabled": true,
+      "enabled": false,
       "name": "Vespid",
       "price": 3333
     },
