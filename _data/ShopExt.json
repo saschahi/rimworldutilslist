@@ -28360,7 +28360,7 @@
       "name": "starseeker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 5000,
+      "addPrice": 10000,
       "removePrice": 1111,
       "degree": 4
     },
@@ -40826,8 +40826,8 @@
       "name": "coldinclined",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0
     },
     {
@@ -42984,8 +42984,8 @@
       "name": "coldtolerant",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 2000,
+      "removePrice": 2000,
       "degree": 0
     },
     {
@@ -43630,8 +43630,8 @@
       "name": "coordinated",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 2500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -44336,8 +44336,8 @@
       "name": "verynimble",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 3500,
+      "addPrice": 5000,
+      "removePrice": 5000,
       "degree": 0
     },
     {

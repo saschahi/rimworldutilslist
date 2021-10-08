@@ -166,6 +166,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "raid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "manhunterpack",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -327,7 +332,7 @@
 	},
 	{
 		"abr": "immortality",
-		"price": 500000,
+		"price": 200000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -467,7 +472,7 @@
 	},
 	{
 		"abr": "spacebattle",
-		"price": 600,
+		"price": 750,
 		"karmatype": "Neutral"
 	},
 	{
@@ -477,12 +482,12 @@
 	},
 	{
 		"abr": "cargopodsweapons",
-		"price": 4000,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "cargopodsapparel",
-		"price": 4000,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -511,5 +516,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 102
+	"total": 103
 }

@@ -33,7 +33,7 @@
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
-    "version": "9.0.0"
+    "version": "9.0.1"
   },
   {
     "author": "Dubwise",
@@ -88,6 +88,12 @@
     "name": "Elite Bionics Framework",
     "steamId": "1665403571",
     "version": "2.0.0.0"
+  },
+  {
+    "author": "explodoboy",
+    "name": "Pawns Just Don't Die",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "AUTOMATIC",
@@ -214,6 +220,12 @@
     "name": "Vanilla Achievements Expanded",
     "steamId": "2288125657",
     "version": "1.3.7862.41411"
+  },
+  {
+    "author": "explodoboy",
+    "name": "Science Never Stops: Ambition of the Cosmic",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Sarg,  AFriend,  milon,  Skullywag and kaptain_kavern",
@@ -387,7 +399,7 @@
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.3.3117.2"
+    "version": "1.3.3136.1"
   },
   {
     "author": "Fluffy",
@@ -513,13 +525,13 @@
     "author": "Dubwise",
     "name": "Dubs Mint Minimap",
     "steamId": "1662119905",
-    "version": "1.3.767"
+    "version": "1.2.7365"
   },
   {
     "author": "Dubwise",
-    "name": "Dub's Paint Shop",
+    "name": "Dubs Paint Shop",
     "steamId": "1579516669",
-    "version": "1.1.569"
+    "version": "1.1.7359"
   },
   {
     "author": "Dubwise",
@@ -717,7 +729,7 @@
     "author": "Mehni",
     "name": "More Faction Interaction (Continued)",
     "steamId": "2379076640",
-    "version": "1.0.11.0"
+    "version": "1.0.12.0"
   },
   {
     "author": "Falconne",
@@ -1251,7 +1263,7 @@
     "author": "SirRandoo",
     "name": "ToolkitResearch",
     "steamId": "2312827542",
-    "version": "1.0.2.6"
+    "version": "1.0.3.0"
   },
   {
     "author": "Smash Phil",
@@ -1281,7 +1293,7 @@
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
-    "version": "1.5.3"
+    "version": "1.5.7"
   },
   {
     "author": "Grimm",
