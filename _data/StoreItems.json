@@ -304,7 +304,7 @@
       "abr": "bowlerhat",
       "category": "Headgear",
       "defname": "Apparel_BowlerHat",
-      "price": 77
+      "price": -10
     },
     {
       "abr": "brazier",
@@ -952,7 +952,7 @@
       "abr": "glowpod",
       "category": "Special",
       "defname": "GlowPod",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "goat",
@@ -2236,7 +2236,7 @@
       "abr": "shortbow",
       "category": "Ranged weapons",
       "defname": "Bow_Short",
-      "price": 74
+      "price": -10
     },
     {
       "abr": "silver",
@@ -2554,7 +2554,7 @@
       "abr": "tophat",
       "category": "Headgear",
       "defname": "Apparel_HatTop",
-      "price": 94
+      "price": -10
     },
     {
       "abr": "tornadogenerator",
@@ -2704,7 +2704,7 @@
       "abr": "warveil",
       "category": "Headgear",
       "defname": "Apparel_WarVeil",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "warg",
@@ -3208,7 +3208,7 @@
       "abr": "headwrap",
       "category": "Headgear",
       "defname": "Apparel_Headwrap",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "hilt",
@@ -3418,7 +3418,7 @@
       "abr": "tailcap",
       "category": "Headgear",
       "defname": "Apparel_Tailcap",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "terrorsculpture",
@@ -5416,7 +5416,7 @@
       "abr": "baseballcap",
       "category": "Headgear",
       "defname": "VAE_Headgear_BaseballCap",
-      "price": 77
+      "price": -10
     },
     {
       "abr": "basicarchotechworkbench",
@@ -5854,7 +5854,7 @@
       "abr": "bishophat",
       "category": "Headgear",
       "defname": "VIEHAR_Apparel_BishopHat",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "blackbear",
@@ -8860,7 +8860,7 @@
       "abr": "fedora",
       "category": "Headgear",
       "defname": "VAE_Headgear_Fedora",
-      "price": 94
+      "price": -10
     },
     {
       "abr": "femaletx2kframe",
@@ -13024,7 +13024,7 @@
       "abr": "militaryberet",
       "category": "Headgear",
       "defname": "VAE_Headgear_Beret",
-      "price": 77
+      "price": -10
     },
     {
       "abr": "militarycap",
@@ -13780,7 +13780,7 @@
       "abr": "noosetrap",
       "category": "Security",
       "defname": "DRNTF_NooseTrap",
-      "price": 84
+      "price": -10
     },
     {
       "abr": "norwegianforestcat",
@@ -17686,7 +17686,7 @@
       "abr": "tribalshield",
       "category": "Apparel",
       "defname": "Apparello_Tribalshield",
-      "price": 74
+      "price": -10
     },
     {
       "abr": "tribalshoulderpads",
@@ -24640,7 +24640,7 @@
       "abr": "concreteblocks",
       "category": "Stone blocks",
       "defname": "FT_BlocksConcrete",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "concretemixer",
@@ -27460,7 +27460,7 @@
       "abr": "moyobowlerhat",
       "category": "Moyo Headgear",
       "defname": "Moyo_BowlerHat",
-      "price": 77
+      "price": -10
     },
     {
       "abr": "moyochargerifle",
@@ -30676,7 +30676,7 @@
       "abr": "guestancientbed",
       "category": "Misc",
       "defname": "AncientBedGuest",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "guestslabbed",
@@ -30994,7 +30994,7 @@
       "abr": "darkcandle",
       "category": "Furniture",
       "defname": "VFEM_DarkCandle",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "darkilluminateddresser",
@@ -31318,7 +31318,7 @@
       "abr": "reinforcedconcrete",
       "category": "Stone blocks",
       "defname": "FT_ReinforcedConcreteBag",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "runeknightspell:balefire",
@@ -31498,7 +31498,7 @@
       "abr": "ancientterminal",
       "category": "Misc",
       "defname": "AncientTerminal_Worshipful",
-      "price": 6
+      "price": -10
     },
     {
       "abr": "archotechwall",
@@ -31582,7 +31582,7 @@
       "abr": "wall-mountedtorchlamp",
       "category": "Misc",
       "defname": "VFEM_WallTorchDarkLamp",
-      "price": 41
+      "price": -10
     }
   ],
   "total": 5264

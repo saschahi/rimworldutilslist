@@ -82799,7 +82799,7 @@
     "Mod": "Kure's Rimworld of Magic Class Expansion Pack",
     "KarmaType": null
   },
-  "denture": {
+  "pipelineValve": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -82816,10 +82816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Rimefeller",
     "KarmaType": null
   },
-  "sixdd_BasketSingle": {
+  "turbineBlade": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -82836,10 +82836,30 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Little Storage 2",
+    "Mod": "Dubs Rimatomics",
     "KarmaType": null
   },
-  "sixdd_TrayRackSingle": {
+  "archotechmatteraddingsomecraptoavoidproblems": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "More Archotech Garbage Reupload",
+    "KarmaType": null
+  },
+  "sixdd_DeepShelfSingle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -82879,26 +82899,6 @@
     "Mod": "Little Storage 2",
     "KarmaType": null
   },
-  "sixdd_DeepShelfSingle": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Little Storage 2",
-    "KarmaType": null
-  },
   "MAG_ArchoReproductorMini": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -82919,27 +82919,7 @@
     "Mod": "More Archotech Garbage Reupload",
     "KarmaType": null
   },
-  "archotechmatteraddingsomecraptoavoidproblems": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "More Archotech Garbage Reupload",
-    "KarmaType": null
-  },
-  "turbineBlade": {
+  "sixdd_TrayRackSingle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -82956,7 +82936,27 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Dubs Rimatomics",
+    "Mod": "Little Storage 2",
+    "KarmaType": null
+  },
+  "sixdd_BasketSingle": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Little Storage 2",
     "KarmaType": null
   },
   "VFEM_Autocrane": {
@@ -83379,7 +83379,7 @@
     "Mod": "Immortals",
     "KarmaType": null
   },
-  "pipelineValve": {
+  "denture": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -83396,7 +83396,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Rimefeller",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "KarmaType": null
   },
   "ArchoLampThingDark": {
