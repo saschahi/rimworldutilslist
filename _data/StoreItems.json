@@ -4111,12 +4111,6 @@
       "price": 1717
     },
     {
-      "abr": "anti-materielrifle",
-      "category": "Ranged weapons",
-      "defname": "Gun_RSAMRifle",
-      "price": 1225
-    },
-    {
       "abr": "anti-mechrifle",
       "category": "Ranged weapons",
       "defname": "AntiMechRifle",
@@ -5131,12 +5125,6 @@
       "price": 3717
     },
     {
-      "abr": "assaultcharger",
-      "category": "Ranged weapons",
-      "defname": "Gun_AssaultCharger",
-      "price": 2500
-    },
-    {
       "abr": "assaulthelmet",
       "category": "Megacorp headgears",
       "defname": "Apparel_AssaultArmorH",
@@ -5243,12 +5231,6 @@
       "category": "Ranged weapons",
       "defname": "VWE_Gun_AutomaticPistol",
       "price": 333
-    },
-    {
-      "abr": "automaticrifle",
-      "category": "Ranged weapons",
-      "defname": "Gun_AutomaticRifle",
-      "price": 767
     },
     {
       "abr": "autominerchargingstation",
@@ -5531,12 +5513,6 @@
       "category": "Headgear",
       "defname": "ChjAndroidBattleMaidHat",
       "price": 450
-    },
-    {
-      "abr": "battlerifle",
-      "category": "Ranged weapons",
-      "defname": "Gun_RSBattleRifle",
-      "price": 917
     },
     {
       "abr": "battlerifle",
@@ -6055,12 +6031,6 @@
       "price": 126
     },
     {
-      "abr": "blowgun",
-      "category": "Ranged weapons",
-      "defname": "Gun_Blowgun",
-      "price": 170
-    },
-    {
       "abr": "bluecheese",
       "category": "Meals",
       "defname": "VCE_BlueCheese",
@@ -6391,12 +6361,6 @@
       "price": -10
     },
     {
-      "abr": "burstcharger",
-      "category": "Ranged weapons",
-      "defname": "Gun_BurstCharger",
-      "price": 2125
-    },
-    {
       "abr": "cactipine",
       "category": "Animals",
       "defname": "AA_Cactipine",
@@ -6479,12 +6443,6 @@
       "category": "Apparello headgear",
       "defname": "Apparello_Sandtrader",
       "price": 239
-    },
-    {
-      "abr": "carbine",
-      "category": "Ranged weapons",
-      "defname": "Gun_RSCarbine",
-      "price": 783
     },
     {
       "abr": "carbine",
@@ -6673,18 +6631,6 @@
       "price": 1525
     },
     {
-      "abr": "chargedriver",
-      "category": "Ranged weapons",
-      "defname": "Gun_ChargeDriver",
-      "price": 2167
-    },
-    {
-      "abr": "chargeinfantyrifle",
-      "category": "Ranged weapons",
-      "defname": "Gun_CFR",
-      "price": 1842
-    },
-    {
       "abr": "chargelanceturret",
       "category": "Security",
       "defname": "VFE_Turret_AutoChargeLance",
@@ -6719,12 +6665,6 @@
       "category": "Ranged weapons",
       "defname": "VWE_Gun_ChargeShotgun",
       "price": 1683
-    },
-    {
-      "abr": "chargesidearm",
-      "category": "Ranged weapons",
-      "defname": "Gun_ChargeSidearm",
-      "price": 808
     },
     {
       "abr": "chargesmg",
@@ -7331,12 +7271,6 @@
       "category": "Android",
       "defname": "CompositePlating",
       "price": 1667
-    },
-    {
-      "abr": "compoundbow",
-      "category": "Ranged weapons",
-      "defname": "Bow_Compound",
-      "price": 350
     },
     {
       "abr": "compoundbow",
@@ -8557,12 +8491,6 @@
       "price": -10
     },
     {
-      "abr": "empdischarger",
-      "category": "Ranged weapons",
-      "defname": "Gun_EMPRifle",
-      "price": 1883
-    },
-    {
       "abr": "empgrenadebelt",
       "category": "Utility",
       "defname": "VWE_Apparel_GrenadeEMPBelt",
@@ -9517,12 +9445,6 @@
       "price": 318
     },
     {
-      "abr": "frontierrifle",
-      "category": "Ranged weapons",
-      "defname": "Gun_FR",
-      "price": 592
-    },
-    {
       "abr": "frostave",
       "category": "Animals",
       "defname": "AA_FrostAve",
@@ -10447,18 +10369,6 @@
       "price": -10
     },
     {
-      "abr": "heavyflakarmor",
-      "category": "Apparel",
-      "defname": "Apparel_ProtectiveGear",
-      "price": 783
-    },
-    {
-      "abr": "heavyflakhelmet",
-      "category": "Headgear",
-      "defname": "Apparel_ProtectiveHelmet",
-      "price": 400
-    },
-    {
       "abr": "heavyflamer",
       "category": "Ranged weapons",
       "defname": "VWE_Gun_HeavyFlamer",
@@ -10469,12 +10379,6 @@
       "category": "Melee weapons",
       "defname": "VFEM_MeleeWeapon_HeavyMace",
       "price": 289
-    },
-    {
-      "abr": "heavypistol",
-      "category": "Ranged weapons",
-      "defname": "Gun_PistolHeavyRevolver",
-      "price": 375
     },
     {
       "abr": "heavyplatearmor",
@@ -11047,12 +10951,6 @@
       "price": 4558
     },
     {
-      "abr": "industrialexo-frame",
-      "category": "Apparel",
-      "defname": "Apparel_Exoframe",
-      "price": 1675
-    },
-    {
       "abr": "industrialradio",
       "category": "Recreation",
       "defname": "Radio_Industrial",
@@ -11380,12 +11278,6 @@
       "abr": "k-9cyberneticunit",
       "category": "Animal",
       "defname": "AndroidDog",
-      "price": -10
-    },
-    {
-      "abr": "ka-50blackshark(attack)",
-      "category": "Buildings",
-      "defname": "ELIFKA-50BAttack",
       "price": -10
     },
     {
@@ -12699,12 +12591,6 @@
     {
       "abr": "marksmanrifle",
       "category": "Ranged weapons",
-      "defname": "Gun_MarksmanRifle",
-      "price": 867
-    },
-    {
-      "abr": "marksmanrifle",
-      "category": "Ranged weapons",
       "defname": "VWE_Gun_MarksmanRifle",
       "price": 1183
     },
@@ -13169,12 +13055,6 @@
       "category": "Apparel",
       "defname": "VAE_Apparel_MilitaryUniform",
       "price": 246
-    },
-    {
-      "abr": "militiarifle",
-      "category": "Ranged weapons",
-      "defname": "Gun_MilitiaRifle",
-      "price": 708
     },
     {
       "abr": "mime",
@@ -15235,12 +15115,6 @@
       "price": 2908
     },
     {
-      "abr": "repeatingrifle",
-      "category": "Ranged weapons",
-      "defname": "Gun_Repeater",
-      "price": 517
-    },
-    {
       "abr": "repeatingshotgun",
       "category": "Ranged weapons",
       "defname": "VWEFT_Gun_RepeatingShotgun",
@@ -15755,12 +15629,6 @@
       "category": "Headgear",
       "defname": "VAE_Headgear_Scarf",
       "price": 91
-    },
-    {
-      "abr": "scattercharger",
-      "category": "Ranged weapons",
-      "defname": "Gun_ScatterCharger",
-      "price": 1658
     },
     {
       "abr": "scavbench",
@@ -16525,40 +16393,10 @@
       "price": 112
     },
     {
-      "abr": "smartmachinegun",
-      "category": "Ranged weapons",
-      "defname": "SmartMG",
-      "price": 2267
-    },
-    {
       "abr": "smartmine",
       "category": "Security",
       "defname": "Turret_Smartmine",
       "price": 800
-    },
-    {
-      "abr": "smartpistol",
-      "category": "Ranged weapons",
-      "defname": "Gun_SmartPistol",
-      "price": 633
-    },
-    {
-      "abr": "smartrifle",
-      "category": "Ranged weapons",
-      "defname": "Gun_SmartRifle",
-      "price": 1942
-    },
-    {
-      "abr": "smartsmg",
-      "category": "Ranged weapons",
-      "defname": "Gun_SMG",
-      "price": 1375
-    },
-    {
-      "abr": "smartsniperrifle",
-      "category": "Ranged weapons",
-      "defname": "Gun_SmartSniperRifle",
-      "price": 2433
     },
     {
       "abr": "smg",
@@ -16577,12 +16415,6 @@
       "category": "Utility",
       "defname": "VWE_Apparel_GrenadeSmokeBelt",
       "price": 218
-    },
-    {
-      "abr": "smokegrenades",
-      "category": "Grenades",
-      "defname": "Weapon_GrenadeSmoke",
-      "price": 358
     },
     {
       "abr": "smokegrenades",
@@ -17233,18 +17065,6 @@
       "price": 4167
     },
     {
-      "abr": "tacticalhelmet",
-      "category": "Headgear",
-      "defname": "Apparel_TacHelmet",
-      "price": 508
-    },
-    {
-      "abr": "tacticalvest",
-      "category": "Apparel",
-      "defname": "Apparel_TacVest",
-      "price": 717
-    },
-    {
       "abr": "tailorcabinet",
       "category": "Misc",
       "defname": "VFE_TailorCabinet",
@@ -17453,18 +17273,6 @@
       "category": "Apparel",
       "defname": "ChJAndroidThermalBandages",
       "price": -10
-    },
-    {
-      "abr": "throwingaxes",
-      "category": "Ranged weapons",
-      "defname": "Gun_ThrowingAxes",
-      "price": 342
-    },
-    {
-      "abr": "throwingclubs",
-      "category": "Ranged weapons",
-      "defname": "Gun_ThrowingClubs",
-      "price": 109
     },
     {
       "abr": "throwingknives",
@@ -24787,12 +24595,6 @@
       "price": 667
     },
     {
-      "abr": "brainstew",
-      "category": "Drugs",
-      "defname": "IH_BrainStew",
-      "price": -10
-    },
-    {
       "abr": "caw5hedp",
       "category": "Ranged weapons",
       "defname": "Eccentric_Gun_M5CAW",
@@ -29707,12 +29509,6 @@
       "price": -10
     },
     {
-      "abr": "megascarab",
-      "category": "Animals",
-      "defname": "Megascarab",
-      "price": -10
-    },
-    {
       "abr": "megaspider",
       "category": "Animals",
       "defname": "Megaspider",
@@ -30730,25 +30526,25 @@
       "abr": "fleshgolem",
       "category": "Animal",
       "defname": "TM_FleshGolem",
-      "price": 4500
+      "price": -10
     },
     {
       "abr": "frostlynx",
       "category": "Animals",
       "defname": "AA_FrostLynx",
-      "price": 625
+      "price": -10
     },
     {
       "abr": "genix",
       "category": "Animals",
       "defname": "AA_Genix",
-      "price": 625
+      "price": -10
     },
     {
       "abr": "giantcrownedsilkie",
       "category": "Animals",
       "defname": "AA_GiantCrownedSilkie",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "giantcrownedsilkieegg(fert.)",
@@ -30814,13 +30610,13 @@
       "abr": "mecha-golem",
       "category": "Animal",
       "defname": "TM_MechaGolem",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "slurrymaster",
       "category": "Animals",
       "defname": "VFE_Mech_Slurrymaster",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "tornscript:golemancer",
@@ -30838,7 +30634,7 @@
       "abr": "windbeast",
       "category": "Animals",
       "defname": "AA_WindBeast",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "guestbed",
@@ -30977,7 +30773,817 @@
       "category": "Furniture",
       "defname": "OGO_BedGuest",
       "price": 155
+    },
+    {
+      "abr": "angelguardianuniform",
+      "category": "Eccentric",
+      "defname": "EccentricUniformGuardian",
+      "price": 10000
+    },
+    {
+      "abr": "apothecaryrecipe:bliss",
+      "category": "Scrolls",
+      "defname": "SkillOf_HerbalBliss",
+      "price": 950
+    },
+    {
+      "abr": "apothecaryrecipe:clarity",
+      "category": "Scrolls",
+      "defname": "SkillOf_HerbalClarity",
+      "price": 1733
+    },
+    {
+      "abr": "apothecaryskill:refinedmanapotion",
+      "category": "Scrolls",
+      "defname": "SkillOf_RefinedManaPotion",
+      "price": 3000
+    },
+    {
+      "abr": "apothecary/blossombladerskill:beltpouch",
+      "category": "Scrolls",
+      "defname": "SkillOf_BeltPouch",
+      "price": 1000
+    },
+    {
+      "abr": "arcanespell:arcanewall",
+      "category": "Scrolls",
+      "defname": "SpellOf_ArcaneWallC",
+      "price": 2083
+    },
+    {
+      "abr": "arcanespell:clearmind",
+      "category": "Scrolls",
+      "defname": "SpellOf_ClearMindC",
+      "price": 2667
+    },
+    {
+      "abr": "arcanetome:runeknight",
+      "category": "Skill books",
+      "defname": "BookOfRuneKnight",
+      "price": 5500
+    },
+    {
+      "abr": "arcanetome:shadowbringer",
+      "category": "Skill books",
+      "defname": "BookOfShadowbringer",
+      "price": 5500
+    },
+    {
+      "abr": "arcanetome:warden",
+      "category": "Skill books",
+      "defname": "BookOfWarden",
+      "price": 5500
+    },
+    {
+      "abr": "archonexuschargingpillari",
+      "category": "Special",
+      "defname": "MAG_ArchotechTranscendenceThing_One",
+      "price": 10550
+    },
+    {
+      "abr": "archonexuschargingpillarii",
+      "category": "Special",
+      "defname": "MAG_ArchotechTranscendenceThing_Two",
+      "price": 17217
+    },
+    {
+      "abr": "archonexuschargingpillariii",
+      "category": "Special",
+      "defname": "MAG_ArchotechTranscendenceThing_Three",
+      "price": 20550
+    },
+    {
+      "abr": "archonexuskeyi",
+      "category": "Items",
+      "defname": "MAG_ArchonexusCore_One",
+      "price": 6667
+    },
+    {
+      "abr": "archonexuskeyii",
+      "category": "Items",
+      "defname": "MAG_ArchonexusCore_Two",
+      "price": 10000
+    },
+    {
+      "abr": "archonexuskeyiii",
+      "category": "Items",
+      "defname": "MAG_ArchonexusCore_Three",
+      "price": 13333
+    },
+    {
+      "abr": "archotechdarklight",
+      "category": "Special",
+      "defname": "ArchoLampThingDark",
+      "price": 383
+    },
+    {
+      "abr": "archotechstoragechamber",
+      "category": "Furniture",
+      "defname": "MAG_LWM_BoxOne",
+      "price": 7683
+    },
+    {
+      "abr": "autobroadcasterchargingstation",
+      "category": "Production",
+      "defname": "VFE_Mechanoids_AutobroadcasterBase",
+      "price": 1650
+    },
+    {
+      "abr": "autocrane",
+      "category": "Production",
+      "defname": "VFEM_Autocrane",
+      "price": 4750
+    },
+    {
+      "abr": "auto-medicchargingstation",
+      "category": "Production",
+      "defname": "VFE_Mechanoids_AutoMedicBase",
+      "price": 1850
+    },
+    {
+      "abr": "autostriderchargingstation",
+      "category": "Production",
+      "defname": "VFE_Mechanoids_AutostriderBase",
+      "price": 1850
+    },
+    {
+      "abr": "blossombladerskill:bladestorm",
+      "category": "Scrolls",
+      "defname": "SkillOf_Bladestorm",
+      "price": 2333
+    },
+    {
+      "abr": "blossombladerskill:fallenleaf",
+      "category": "Scrolls",
+      "defname": "SkillOf_FallenLeaf",
+      "price": 3000
+    },
+    {
+      "abr": "chempunkskill:juggernaut",
+      "category": "Scrolls",
+      "defname": "SkillOf_Juggernaut",
+      "price": 2500
+    },
+    {
+      "abr": "chempunkskill:noxiousblast",
+      "category": "Scrolls",
+      "defname": "SkillOf_NoxiousBlast",
+      "price": 2500
+    },
+    {
+      "abr": "chempunkskill:quickvent",
+      "category": "Scrolls",
+      "defname": "SkillOf_QuickVent",
+      "price": 1583
+    },
+    {
+      "abr": "chempunkskill:regulator",
+      "category": "Scrolls",
+      "defname": "SkillOf_Regulator",
+      "price": 1583
+    },
+    {
+      "abr": "combataugments:chempunk",
+      "category": "Skill books",
+      "defname": "BookOfChempunk",
+      "price": 4292
+    },
+    {
+      "abr": "combatform:blossomblader",
+      "category": "Skill books",
+      "defname": "BookOfBlossomBlader",
+      "price": 4292
+    },
+    {
+      "abr": "combatform:gunslinger",
+      "category": "Skill books",
+      "defname": "BookOfGunslinger",
+      "price": 4292
+    },
+    {
+      "abr": "combatform:mechhunter",
+      "category": "Skill books",
+      "defname": "BookOfMechHunter",
+      "price": 4292
+    },
+    {
+      "abr": "combatstyle:apothecary",
+      "category": "Skill books",
+      "defname": "BookOfApothecary",
+      "price": 4292
+    },
+    {
+      "abr": "commanderskill:diplomaticnegotiations",
+      "category": "Scrolls",
+      "defname": "SkillOf_DiplomaticNegotiationsC",
+      "price": 2667
+    },
+    {
+      "abr": "commanderskill:fireatwill",
+      "category": "Scrolls",
+      "defname": "SkillOf_FireAtWillC",
+      "price": 3000
+    },
+    {
+      "abr": "commanderskill:provoke",
+      "category": "Scrolls",
+      "defname": "SkillOf_ProvokeC",
+      "price": 2667
+    },
+    {
+      "abr": "darkcandle",
+      "category": "Furniture",
+      "defname": "VFEM_DarkCandle",
+      "price": 1
+    },
+    {
+      "abr": "darkilluminateddresser",
+      "category": "Furniture",
+      "defname": "Table_DarkIlluminatedDresser",
+      "price": 367
+    },
+    {
+      "abr": "darkilluminatedendtable",
+      "category": "Furniture",
+      "defname": "Table_DarkIlluminatedEndTable",
+      "price": 286
+    },
+    {
+      "abr": "darklampendtable",
+      "category": "Furniture",
+      "defname": "Table_DarkLightEndTable",
+      "price": 169
+    },
+    {
+      "abr": "decimation",
+      "category": "Melee",
+      "defname": "TM_Decimation",
+      "price": 6058
+    },
+    {
+      "abr": "druidspell:barkskin",
+      "category": "Scrolls",
+      "defname": "SpellOf_BarkskinC",
+      "price": 1083
+    },
+    {
+      "abr": "druidspell:tailwind",
+      "category": "Scrolls",
+      "defname": "SpellOf_TailwindC",
+      "price": 2000
+    },
+    {
+      "abr": "empathability:fadeemotions",
+      "category": "Scrolls",
+      "defname": "SpellOf_FadeEmotions",
+      "price": 1267
+    },
+    {
+      "abr": "fakeeye",
+      "category": "Fake Eyes",
+      "defname": "IH_FakeEye",
+      "price": 10
+    },
+    {
+      "abr": "fieldcannon",
+      "category": "Security",
+      "defname": "FT_TurretEmpero",
+      "price": 5042
+    },
+    {
+      "abr": "firespell:heatshield",
+      "category": "Scrolls",
+      "defname": "SpellOf_HeatShield",
+      "price": 1000
+    },
+    {
+      "abr": "glorymaul",
+      "category": "Melee",
+      "defname": "TM_GloryMaul",
+      "price": 2825
+    },
+    {
+      "abr": "granitegolem",
+      "category": "Animal",
+      "defname": "TM_GraniteGolem",
+      "price": -10
+    },
+    {
+      "abr": "guardianskill:requiescat",
+      "category": "Scrolls",
+      "defname": "SkillOf_Requiescat",
+      "price": 2333
+    },
+    {
+      "abr": "gunslingerskill:breachfire",
+      "category": "Scrolls",
+      "defname": "SkillOf_Breachfire",
+      "price": 2583
+    },
+    {
+      "abr": "gunslingerskill:breakstep",
+      "category": "Scrolls",
+      "defname": "SkillOf_Breakstep",
+      "price": 2583
+    },
+    {
+      "abr": "gunslingerskill:coverfire",
+      "category": "Scrolls",
+      "defname": "SkillOf_CoverFire",
+      "price": 1333
+    },
+    {
+      "abr": "gunslingerskill:nanoseeker",
+      "category": "Scrolls",
+      "defname": "SkillOf_Nanoseeker",
+      "price": 1667
+    },
+    {
+      "abr": "gunslinger/sniperskill:gunflame",
+      "category": "Scrolls",
+      "defname": "SkillOf_Gunflame",
+      "price": 2333
+    },
+    {
+      "abr": "hollowgolem",
+      "category": "Animal",
+      "defname": "TM_HollowGolem",
+      "price": -10
+    },
+    {
+      "abr": "hollowgolemmeat",
+      "category": "Meat",
+      "defname": "Meat_TM_HollowGolem",
+      "price": 3
+    },
+    {
+      "abr": "howitzer",
+      "category": "Security",
+      "defname": "FT_TurretPrince",
+      "price": 3767
+    },
+    {
+      "abr": "icespell:alterstorm",
+      "category": "Scrolls",
+      "defname": "SpellOf_AlterStorm",
+      "price": 1417
+    },
+    {
+      "abr": "immortisextractor",
+      "category": "Production",
+      "defname": "IH_ImmortalExtractor",
+      "price": 1275
+    },
+    {
+      "abr": "koma",
+      "category": "Drugs",
+      "defname": "IH_Koma",
+      "price": 350
+    },
+    {
+      "abr": "limestonegolem",
+      "category": "Animal",
+      "defname": "TM_LimestoneGolem",
+      "price": -10
+    },
+    {
+      "abr": "liquidfreezer",
+      "category": "Furniture",
+      "defname": "VFE_MechanoidLiquidFreezer",
+      "price": 1250
+    },
+    {
+      "abr": "magespell:magicwardrobe",
+      "category": "Scrolls",
+      "defname": "SpellOf_MagicWardrobe",
+      "price": 2333
+    },
+    {
+      "abr": "maharalgolem",
+      "category": "Animal",
+      "defname": "TM_MaharalGolem",
+      "price": -10
+    },
+    {
+      "abr": "marblegolem",
+      "category": "Animal",
+      "defname": "TM_MarbleGolem",
+      "price": -10
+    },
+    {
+      "abr": "mechhunterskill:blackpowder",
+      "category": "Scrolls",
+      "defname": "SkillOf_Blackpowder",
+      "price": 2500
+    },
+    {
+      "abr": "mechhunterskill:finalsalvo",
+      "category": "Scrolls",
+      "defname": "SkillOf_FinalSalvo",
+      "price": 2500
+    },
+    {
+      "abr": "mechhunterskill:orbitalemp",
+      "category": "Scrolls",
+      "defname": "SkillOf_OrbitalEMP",
+      "price": 2500
+    },
+    {
+      "abr": "mechanitepants",
+      "category": "Armor",
+      "defname": "VFE_MechanitePants",
+      "price": 600
+    },
+    {
+      "abr": "mechaniteunderarmor",
+      "category": "Armor",
+      "defname": "VFE_MechaniteUnderArmor",
+      "price": 683
+    },
+    {
+      "abr": "megascarab",
+      "category": "Animals",
+      "defname": "Megascarab",
+      "price": -10
+    },
+    {
+      "abr": "miniaturearchotechreplicator",
+      "category": "Special",
+      "defname": "MAG_ArchoReproductorMini",
+      "price": 2508
+    },
+    {
+      "abr": "moderndarklamp",
+      "category": "Furniture",
+      "defname": "Light_ModernDarkLamp",
+      "price": 129
+    },
+    {
+      "abr": "monkskill:serenity",
+      "category": "Scrolls",
+      "defname": "SkillOf_SerenityC",
+      "price": 3000
+    },
+    {
+      "abr": "monkskill:touchofdeath",
+      "category": "Scrolls",
+      "defname": "SkillOf_TouchOfDeathC",
+      "price": 2667
+    },
+    {
+      "abr": "mortalis",
+      "category": "Raw resources",
+      "defname": "IH_Mortalis",
+      "price": -10
+    },
+    {
+      "abr": "mortaliscrystal",
+      "category": "Bionic",
+      "defname": "IH_MortalisCrystal",
+      "price": 16667
+    },
+    {
+      "abr": "nemnir",
+      "category": "Drugs",
+      "defname": "IH_Nemnir",
+      "price": 100
+    },
+    {
+      "abr": "outdoorlamp",
+      "category": "Furniture",
+      "defname": "Light_OutdoorDarkLamp",
+      "price": 128
+    },
+    {
+      "abr": "outdoorsolardarklamp",
+      "category": "Furniture",
+      "defname": "Spacer_OutdoorDarkLamp",
+      "price": 184
+    },
+    {
+      "abr": "paladinspell:hammerbolt",
+      "category": "Scrolls",
+      "defname": "SpellOf_HammerBoltC",
+      "price": 1000
+    },
+    {
+      "abr": "paladinspell:retribution",
+      "category": "Scrolls",
+      "defname": "SpellOf_RetributionC",
+      "price": 2667
+    },
+    {
+      "abr": "paladinspell:taunt",
+      "category": "Scrolls",
+      "defname": "SpellOf_TauntC",
+      "price": 1000
+    },
+    {
+      "abr": "priest/clericspell:blessitem",
+      "category": "Scrolls",
+      "defname": "SpellOf_BlessItem",
+      "price": 950
+    },
+    {
+      "abr": "pyromechanoidchargingstation",
+      "category": "Production",
+      "defname": "VFE_Mechanoids_PyroBase",
+      "price": 2467
+    },
+    {
+      "abr": "raidermechanoidchargingstation",
+      "category": "Production",
+      "defname": "VFE_Mechanoids_RaiderBase",
+      "price": 2925
+    },
+    {
+      "abr": "ravenousskill:livingartillery",
+      "category": "Scrolls",
+      "defname": "SkillOf_LivingArtillery",
+      "price": 3000
+    },
+    {
+      "abr": "ravenousskill:secondstomach",
+      "category": "Scrolls",
+      "defname": "SkillOf_SecondStomach",
+      "price": 2667
+    },
+    {
+      "abr": "ravenousskill:throneofgluttony",
+      "category": "Scrolls",
+      "defname": "SkillOf_ThroneOfGluttony",
+      "price": 2667
+    },
+    {
+      "abr": "reinforcedconcrete",
+      "category": "Stone blocks",
+      "defname": "FT_ReinforcedConcreteBag",
+      "price": 1
+    },
+    {
+      "abr": "runeknightspell:balefire",
+      "category": "Scrolls",
+      "defname": "SpellOf_Balefire",
+      "price": 3333
+    },
+    {
+      "abr": "runeknightspell:reflect",
+      "category": "Scrolls",
+      "defname": "SpellOf_Reflect",
+      "price": 2333
+    },
+    {
+      "abr": "sandstonegolem",
+      "category": "Animal",
+      "defname": "TM_SandstoneGolem",
+      "price": -10
+    },
+    {
+      "abr": "shadowbringerskill:bloodweapon",
+      "category": "Scrolls",
+      "defname": "SkillOf_BloodWeapon",
+      "price": 2333
+    },
+    {
+      "abr": "shadowbringerskill:livingdead",
+      "category": "Scrolls",
+      "defname": "SkillOf_LivingDead",
+      "price": 2333
+    },
+    {
+      "abr": "shadowbringerskill:plunge",
+      "category": "Scrolls",
+      "defname": "SkillOf_Plunge",
+      "price": 1583
+    },
+    {
+      "abr": "shadowbringerskill:quietus",
+      "category": "Scrolls",
+      "defname": "SkillOf_Quietus",
+      "price": 2500
+    },
+    {
+      "abr": "shadowbringerskill:syphonstrike",
+      "category": "Scrolls",
+      "defname": "SkillOf_SyphonStrike",
+      "price": 2333
+    },
+    {
+      "abr": "shadowbringerspell:callofdarkness",
+      "category": "Scrolls",
+      "defname": "SpellOf_CallOfDarkness",
+      "price": 2333
+    },
+    {
+      "abr": "shadowbringerspell:darkmind",
+      "category": "Scrolls",
+      "defname": "SpellOf_DarkMind",
+      "price": 2333
+    },
+    {
+      "abr": "shadowbringerspell:oblation",
+      "category": "Scrolls",
+      "defname": "SpellOf_Oblation",
+      "price": 2500
+    },
+    {
+      "abr": "singledeepshelf",
+      "category": "Furniture",
+      "defname": "sixdd_DeepShelfSingle",
+      "price": 124
+    },
+    {
+      "abr": "singlefoodbasket",
+      "category": "Furniture",
+      "defname": "sixdd_BasketSingle",
+      "price": 137
+    },
+    {
+      "abr": "slategolem",
+      "category": "Animal",
+      "defname": "TM_SlateGolem",
+      "price": -10
+    },
+    {
+      "abr": "smallhamper",
+      "category": "Furniture",
+      "defname": "sixdd_FabricHamperSingle",
+      "price": 231
+    },
+    {
+      "abr": "smallinfernospewer",
+      "category": "Ranged weapons",
+      "defname": "VFE_Gun_InfernoSpewerSmall",
+      "price": 2333
+    },
+    {
+      "abr": "smallmealtrayrack",
+      "category": "Furniture",
+      "defname": "sixdd_TrayRackSingle",
+      "price": 121
+    },
+    {
+      "abr": "sniperskill:heartpiercer",
+      "category": "Scrolls",
+      "defname": "SkillOf_Heartpiercer",
+      "price": 2667
+    },
+    {
+      "abr": "spacerdarklamp",
+      "category": "Furniture",
+      "defname": "Light_SpacerDarkLamp",
+      "price": 184
+    },
+    {
+      "abr": "stonegolem",
+      "category": "Animal",
+      "defname": "TM_StoneGolem",
+      "price": -10
+    },
+    {
+      "abr": "tornscript:runeknight",
+      "category": "Skill books",
+      "defname": "Torn_BookOfRuneKnight",
+      "price": 2917
+    },
+    {
+      "abr": "utilityhalohelmet",
+      "category": "Headwear",
+      "defname": "EccentricFrillWorkerHelmet",
+      "price": 3000
+    },
+    {
+      "abr": "wandererspell:flight",
+      "category": "Scrolls",
+      "defname": "SpellOf_FlightW",
+      "price": 1417
+    },
+    {
+      "abr": "wandererspell:luckystar",
+      "category": "Scrolls",
+      "defname": "SpellOf_LuckyStar",
+      "price": 583
+    },
+    {
+      "abr": "wardenspell:churningearth",
+      "category": "Scrolls",
+      "defname": "SpellOf_ChurningEarth",
+      "price": 3000
+    },
+    {
+      "abr": "wardenspell:eruption",
+      "category": "Scrolls",
+      "defname": "SpellOf_Eruption",
+      "price": 3000
+    },
+    {
+      "abr": "wardenspell:magneticaura",
+      "category": "Scrolls",
+      "defname": "SpellOf_MagneticAura",
+      "price": 2667
+    },
+    {
+      "abr": "wayfarerskill:haste",
+      "category": "Scrolls",
+      "defname": "SkillOf_HasteC",
+      "price": 833
+    },
+    {
+      "abr": "wayfarerskill:medigel",
+      "category": "Scrolls",
+      "defname": "SkillOf_MedigelC",
+      "price": 1417
+    },
+    {
+      "abr": "ancientterminal",
+      "category": "Misc",
+      "defname": "AncientTerminal_Worshipful",
+      "price": 6
+    },
+    {
+      "abr": "archotechwall",
+      "category": "Misc",
+      "defname": "MAG_ArchotechWall",
+      "price": 252
+    },
+    {
+      "abr": "archotechdoor",
+      "category": "Misc",
+      "defname": "MAG_ArchotechDoor",
+      "price": 867
+    },
+    {
+      "abr": "autoteslaturret",
+      "category": "Misc",
+      "defname": "VFE_Turret_AutoTesla",
+      "price": 2100
+    },
+    {
+      "abr": "mechanitelfreinforcer",
+      "category": "Misc",
+      "defname": "VFE_MechaniteLFReinforcer",
+      "price": 1217
+    },
+    {
+      "abr": "indoctrinationpod",
+      "category": "Misc",
+      "defname": "VFE_IndoctrinationPod",
+      "price": 1775
+    },
+    {
+      "abr": "mechanoidconstructionlamp",
+      "category": "Misc",
+      "defname": "VFE_MechanoidConstructionLamp",
+      "price": 492
+    },
+    {
+      "abr": "blightautorepeller",
+      "category": "Misc",
+      "defname": "VFE_BlightAutoRepeller",
+      "price": 767
+    },
+    {
+      "abr": "advancedtermite",
+      "category": "Animal",
+      "defname": "VFE_Mech_AdvTermite",
+      "price": -10
+    },
+    {
+      "abr": "termite",
+      "category": "Animal",
+      "defname": "VFE_Mech_Termite",
+      "price": -10
+    },
+    {
+      "abr": "largedeepbluestation",
+      "category": "Misc",
+      "defname": "Moyo_DBLS",
+      "price": 8333
+    },
+    {
+      "abr": "archotechdoor(2x1)",
+      "category": "Misc",
+      "defname": "PH_MAG_DoorDouble",
+      "price": 1742
+    },
+    {
+      "abr": "archotechdoor(3x1)",
+      "category": "Misc",
+      "defname": "PH_MAG_DoorTriple",
+      "price": 2608
+    },
+    {
+      "abr": "stonedarkcampfire",
+      "category": "Misc",
+      "defname": "Stone_DarklightCampfire",
+      "price": 128
+    },
+    {
+      "abr": "wall-mountedtorchlamp",
+      "category": "Misc",
+      "defname": "VFEM_WallTorchDarkLamp",
+      "price": 41
     }
   ],
-  "total": 5163
+  "total": 5264
 }

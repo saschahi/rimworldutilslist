@@ -3,13 +3,13 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.1.1.0"
+    "version": "1.2.0.0"
   },
   {
     "author": "Samboy063",
     "name": "BetterLoading",
     "steamId": "1999454301",
-    "version": "3.2.0.1"
+    "version": "3.3.0.0"
   },
   {
     "author": "aRandomKiwi",
@@ -69,7 +69,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.6.2.1"
+    "version": "2.5.7.1"
   },
   {
     "author": "Kure",
@@ -111,13 +111,13 @@
     "author": "Windows XP",
     "name": "Realistic Planets Continued",
     "steamId": "2557451791",
-    "version": "1.0.7888.27968"
+    "version": "1.0.7992.26516"
   },
   {
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
     "name": "[KV] Faction Control",
     "steamId": "1509102551",
-    "version": "1.0.7983.38343"
+    "version": "1.0.8051.16528"
   },
   {
     "author": "YAYO",
@@ -148,6 +148,18 @@
     "name": "Vanilla Events Expanded",
     "steamId": "1938420742",
     "version": "1.1.0"
+  },
+  {
+    "author": "Oskar Potocki,  Taranchuk and  Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.0.0.1"
+  },
+  {
+    "author": "Atlas and  aRandomKiwi",
+    "name": "Android tiers",
+    "steamId": "1386412863",
+    "version": "3.0.0.3"
   },
   {
     "author": "Kentington and Thain",
@@ -201,7 +213,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.3.9.0"
+    "version": "3.4.4.0"
   },
   {
     "author": "NukaFrog",
@@ -375,7 +387,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.2.1.0"
+    "version": "2.2.4.0"
   },
   {
     "author": "Neceros",
@@ -396,6 +408,12 @@
     "version": null
   },
   {
+    "author": "targhetti",
+    "name": "Show Draftees Weapon",
+    "steamId": "1690978457",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
@@ -414,18 +432,6 @@
     "version": "1.8.108"
   },
   {
-    "author": "Oskar Potocki,  Taranchuk and  Chowder",
-    "name": "Vanilla Traits Expanded",
-    "steamId": "2296404655",
-    "version": "1.0.0.1"
-  },
-  {
-    "author": "Atlas and  aRandomKiwi",
-    "name": "Android tiers",
-    "steamId": "1386412863",
-    "version": "3.0.0.3"
-  },
-  {
     "author": "aRandomKiwi and  CrackaJack",
     "name": "Android tiers - TX Series",
     "steamId": null,
@@ -435,7 +441,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.1.32"
+    "version": "1.1.45"
   },
   {
     "author": "TheWireLord",
@@ -601,7 +607,7 @@
   },
   {
     "author": "Helixien,  Taranchuk and  Alastair",
-    "name": "ReGrowth: Core and Framework",
+    "name": "ReGrowth Remastered: Core",
     "steamId": "2260097569",
     "version": "1.0.0.0"
   },
@@ -729,7 +735,7 @@
     "author": "Mehni",
     "name": "More Faction Interaction (Continued)",
     "steamId": "2379076640",
-    "version": "1.0.12.0"
+    "version": "1.3.1"
   },
   {
     "author": "Falconne",
@@ -771,7 +777,7 @@
     "author": "Kiame Vivacity",
     "name": "[KV] In-Game Definition Editor",
     "steamId": "1568772413",
-    "version": "1.0.7959.27530"
+    "version": "1.0.8049.37669"
   },
   {
     "author": "Jaxe",
@@ -810,14 +816,20 @@
     "version": "1.0.0"
   },
   {
-    "author": "Sixdd",
-    "name": "Little Storage 2",
-    "steamId": null,
-    "version": null
+    "author": "Kiame Vivacity",
+    "name": "[KV] RimFridge",
+    "steamId": "1180721235",
+    "version": "1.2.1.0"
   },
   {
-    "author": "Avius and  Hazzer",
-    "name": "Locks",
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.3.0.1"
+  },
+  {
+    "author": "Sixdd",
+    "name": "Little Storage 2",
     "steamId": null,
     "version": null
   },
@@ -854,6 +866,12 @@
   {
     "author": "Haplo",
     "name": "Misc. Robots",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Avius and  Hazzer",
+    "name": "Locks",
     "steamId": null,
     "version": null
   },
@@ -933,7 +951,7 @@
     "author": "Hob Took",
     "name": "Mortar Accuracy",
     "steamId": "1729446857",
-    "version": "1.3.2"
+    "version": "1.3.8"
   },
   {
     "author": "Neceros",
@@ -949,7 +967,7 @@
   },
   {
     "author": "Helixien and  Alastair",
-    "name": "ReGrowth: Tundra Expansion",
+    "name": "ReGrowth Remastered: Tundras",
     "steamId": null,
     "version": null
   },
@@ -996,22 +1014,10 @@
     "version": "2.9.140"
   },
   {
-    "author": "Kiame Vivacity",
-    "name": "[KV] RimFridge",
-    "steamId": "1180721235",
-    "version": "1.2.1.0"
-  },
-  {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.3.0.1"
-  },
-  {
     "author": "Mehni",
     "name": "Pick Up And Haul",
-    "steamId": null,
-    "version": null
+    "steamId": "1279012058",
+    "version": "1.0.0"
   },
   {
     "author": "fyarn",
@@ -1057,7 +1063,7 @@
   },
   {
     "author": "Helixien and  Alastair",
-    "name": "ReGrowth: Boreal Forest Expansion",
+    "name": "ReGrowth Remastered: Boreal Forests",
     "steamId": null,
     "version": null
   },
@@ -1095,13 +1101,13 @@
     "author": "Uuugggg",
     "name": "Replace Stuff",
     "steamId": "1372003680",
-    "version": "1.0.0.0"
+    "version": "1.1.0.0"
   },
   {
     "author": "Dubwise",
-    "name": "Rimatomics",
+    "name": "Dubs Rimatomics",
     "steamId": "1127530465",
-    "version": "1.7.2439"
+    "version": "1.7.7368"
   },
   {
     "author": "Cabbage",
@@ -1120,12 +1126,6 @@
     "name": "Recipe icons",
     "steamId": "1616643195",
     "version": "1.0.379.0018"
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Augmented Vanilla Pack",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "rooki1",
@@ -1155,7 +1155,7 @@
     "author": "Loconeko",
     "name": "Roads of the Rim (Continued)",
     "steamId": "2280318231",
-    "version": "1.0.8.0"
+    "version": "1.0.9.0"
   },
   {
     "author": "Match",
@@ -1209,7 +1209,7 @@
     "author": "PeteTimesSix",
     "name": "Simple sidearms",
     "steamId": "927155256",
-    "version": "1.4.5.0"
+    "version": "1.4.6.0"
   },
   {
     "author": "LinaFromSweden",
@@ -1263,7 +1263,7 @@
     "author": "SirRandoo",
     "name": "ToolkitResearch",
     "steamId": "2312827542",
-    "version": "1.0.3.0"
+    "version": "1.0.3.2"
   },
   {
     "author": "Smash Phil",
@@ -1293,13 +1293,13 @@
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
-    "version": "1.6.3"
+    "version": "1.6.5"
   },
   {
     "author": "Grimm",
     "name": "Un-Limited",
-    "steamId": null,
-    "version": null
+    "steamId": "1668141382",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki",
@@ -1416,22 +1416,10 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and  Kikohi",
-    "name": "Vanilla Expanded - Royalty Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Kikohi",
-    "name": "Vanilla Expanded - Ideology Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki,  Kikohi and  Sarg Bjornson",
     "name": "Vanilla Factions Expanded - Insectoids",
     "steamId": "2149755445",
-    "version": "1.2.0.0"
+    "version": "1.2.3.1"
   },
   {
     "author": "Helixien",
@@ -1446,7 +1434,7 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder and  Taranchuk",
+    "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder,  Taranchuk and  ISOREX",
     "name": "Vanilla Factions Expanded - Mechanoids",
     "steamId": "2329011599",
     "version": "1.0.1.2"
@@ -1608,6 +1596,18 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and  Kikohi",
+    "name": "Vanilla Expanded - Ideology Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Kikohi",
+    "name": "Vanilla Expanded - Royalty Patches",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Murmur",
     "name": "Wall Light",
     "steamId": "1423699208",
@@ -1629,7 +1629,7 @@
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
-    "version": "1.0.7969.5967"
+    "version": "1.0.8084.14260"
   },
   {
     "author": "Shadowrabbit",
@@ -1680,16 +1680,22 @@
     "version": null
   },
   {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.3.1"
+  },
+  {
     "author": "saschahi",
     "name": "ToolkitAddon - More Stuff",
     "steamId": "2594931182",
-    "version": "1.1.5"
+    "version": "1.1.9"
   },
   {
-    "author": "Andreas Pardeike and  BleuSquid",
-    "name": "Puppeteer",
-    "steamId": "2594873651",
-    "version": "1.6.1.0"
+    "author": "Andreas Pardeike,  BleuSquid and  Saschahi",
+    "name": "Puppeteer - Scuff Version",
+    "steamId": "2781467856",
+    "version": "1.6.2.0"
   },
   {
     "author": "YAYO",
@@ -1782,12 +1788,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "targhetti",
-    "name": "Show Draftees Weapon",
-    "steamId": "1690978457",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Varisha",
     "name": "[1.3] ExtendedInspectData",
     "steamId": null,
@@ -1869,7 +1869,7 @@
     "author": "Nemonian",
     "name": "Moyo-From the depth",
     "steamId": "2182305386",
-    "version": "1.3"
+    "version": "1.3.2"
   },
   {
     "author": "notfood",
